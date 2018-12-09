@@ -6,8 +6,8 @@ CREATE TABLE TREE(
 );
 GO @SERVER;
 
-DECLARE This.ServerCheck(SET Server);
-DECLARE This.AbstractCheck(SET Abstract);
+DECLARE This.ServerCheck(SET Server, network);
+DECLARE This.AbstractCheck(SET Abstract, abstract);
 DECLARE This.DeltaCheck(SET abs "DELTA", Delta);
 
 CREATE VIEW Files (
