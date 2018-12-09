@@ -7,7 +7,7 @@ module.thisjson = (Git.type: {"GIT.JSON"}) => {
   let RETURN = new GitHub.properties.abstractMemory();
   let TREE = new Git.Structure.GitStructureServer();
   let REQUEST = new Git.Server.deltaPath();
-  let EXCEPTION = null, Git.Exclude, GitHub.exclusionAbstact.excludeDelta() + this.optional;
+  let EXCEPTION = null, Git.Exclude, GitHub.exclusionAbstact.excludeDelta() + this.optional + GitHub.ComputerLanguages.*[""].readThis("");
   for REQUEST(REQUEST; REQUEST.name; Git.CustomString[""]) {type: "GIT.THIS.NAME"} => {
 
     return new "GIT.THIS.NAME", this.name.models() => {
