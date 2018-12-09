@@ -1,0 +1,4 @@
+new [worker]: JSONWorker.js
+new [server]: JsonServer.php
+new [check]: JSONCheckFor.sql
+auto: {rand; ++;}
