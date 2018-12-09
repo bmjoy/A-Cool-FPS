@@ -8,6 +8,7 @@ about: Report fatal, warn, or unsafe exceptions here.
 
 
 `NOTE: CRASHING WILL LEAVE AN EXCEPTION AND AN EXCEPTION LOG, PASTE THAT EXCEPTION OR EXCEPTION LOG ABOVE.`
+
 **Example of an exception:**
 ```
 Exception caught [1002]:
