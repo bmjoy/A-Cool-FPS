@@ -4,3 +4,5 @@
 ### Discord: Snowy#1664
 ### Email: snowleopard756x@gmail.com
 ### Pull Requests (GitHub feature)
+
+## This takes the Code of Conduct and License into consideration. 
