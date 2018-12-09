@@ -14,4 +14,5 @@ about: Report fatal, warn, or unsafe exceptions here.
 Exception caught [1002]:
 this(abstractWeapon).damage n returned n negative: [-1]
 at abstractWeapon : Gun @n -= 1, -1
+this.fatal = true @ n true
 ```
