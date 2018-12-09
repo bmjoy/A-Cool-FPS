@@ -5,7 +5,7 @@
 A well-made FPS (server-only) that I made. It will constantly receive support and updates, as
 it is my biggest project right now.
 
-Thanks for checking out my project!
+### Thanks for checking out my project!
 
 ## Status and prerequisites
 
