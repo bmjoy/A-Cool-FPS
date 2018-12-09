@@ -4,7 +4,14 @@ about: Report a bug
 
 ---
 
-~**Paste exception here:**~
+**Paste exception here:**
 
 
-~`NOTE: CRASHING WILL LEAVE AN EXCEPTION, PASTE THAT EXCEPTION ABOVE`~
+`NOTE: CRASHING WILL LEAVE AN EXCEPTION, PASTE THAT EXCEPTION ABOVE`
+
+**Example of an exception:**
+```
+Exception caught [1002]:
+this(abstractWeapon).damage n returned n negative: [-1]
+at abstractWeapon : Gun @n -= 1, -1
+```
