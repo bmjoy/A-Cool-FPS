@@ -24,4 +24,5 @@ Platforms    : Windows (client and server) and Linux (server only)
 ~17 GB (Built and compiled, no compression: best performance)
 ~6 GB (Built and compiled, middle-level compression: requires a decent PC)
 ~4.5 GB (Built and compiled, max compression: requires a beefy pc)
+```
 ### Thanks for checking out my project!
