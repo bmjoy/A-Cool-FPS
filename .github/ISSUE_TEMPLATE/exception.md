@@ -3,6 +3,7 @@ name: Exception
 about: Report fatal, warning/warn, or unsafe exceptions here.
 
 ---
+#Exception
 
 **Paste exception here:**
 
