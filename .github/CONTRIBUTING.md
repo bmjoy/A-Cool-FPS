@@ -6,4 +6,4 @@
 ### Pull Requests (GitHub feature)
 
 ## This takes the Code of Conduct and License into consideration. 
-### (c) 2018 Snowynx(_Snowy)
+### (c) 2018 Snowynx (_Snowy)
