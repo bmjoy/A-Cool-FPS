@@ -1,6 +1,6 @@
 ---
 name: Exception
-about: Report fatal, warn, or unsafe exceptions here.
+about: Report fatal, warning/warn, or unsafe exceptions here.
 
 ---
 
