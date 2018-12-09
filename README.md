@@ -5,8 +5,6 @@
 A well-made FPS (server-only) that I made. It will constantly receive support and updates, as
 it is my biggest project right now.
 
-### Thanks for checking out my project!
-
 ## Status and prerequisites
 
 Current status at a glance:
@@ -14,3 +12,4 @@ Current status at a glance:
 Unity version: 2018.3 beta 12 
 Platforms    : Windows (client and server) and Linux (server only)
 ```
+### Thanks for checking out my project!
