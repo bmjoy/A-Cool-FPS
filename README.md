@@ -16,14 +16,14 @@ Platforms    : Windows (client and server) and Linux (server only)
 ## Size Information
 **Requires LFS to clone.**
 ```
-~50-60 MB (GitHub repository, this is the one on the website, which is this one)
-~110-120 MB (Cloned local repository, packed by Git/GitHub)
-~36 GB (Cloned local repository, fully unpacked, no Git/GitHub state cleanup) 
-~26.5 GB (Cloned local repository, fully unpacked, middle-level Git/GitHub state cleanup is performed)
-~21 GB (Cloned local repository, fully unpacked, top-tier Git/GitHub state cleanup is performed)
-*~17 GB (Built and compiled, no compression: best performance)
-*~6 GB (Built and compiled, middle-level compression: requires a decent PC)
-*~4.5 GB (Built and compiled, max compression: requires a beefy pc)
+~50-60 MB (GitHub repository, this is the one on the website, which is this one.)
+~110-120 MB (Cloned local repository, packed by Git/GitHub.)
+~36 GB (Cloned local repository, fully unpacked, no Git/GitHub state cleanup.) 
+~21 GB (Cloned local repository, fully unpacked, middle-level Git/GitHub state cleanup is performed.)
+~13.5 GB (Cloned local repository, fully unpacked, top-tier Git/GitHub state cleanup is performed.)
+*~8.5 GB (Built and compiled, no compression: looks the best, takes up a lot of space, requires a beefy PC.)
+*~4 GB (Built and compiled, middle-level compression: looks decent, takes up a decent amount of space, requires a decent PC.)
+*~2.5 GB (Built and compiled, max compression: looks sub-par, takes almost no space, any modern PC will work.)
 
 NOTE: Add 6-7 gigabytes to starred (*) states, if you built a standalone instead of running it through Unity.
 ```
