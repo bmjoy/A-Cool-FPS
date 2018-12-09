@@ -16,11 +16,11 @@ Platforms    : Windows (client and server) and Linux (server only)
 ## Size Information
 **Requires LFS to clone.**
 ```
-~50-60 MB (GitHub repository)
+~50-60 MB (GitHub repository, this is the one on the website, which is this one)
 ~110-120 MB (Cloned local repository, packed by Git/GitHub)
 ~36 GB (Cloned local repository, fully unpacked, no Git/GitHub state cleanup) 
-~26.5 GB (Cloned local repository, fully unpacked, middle-level Git/GitHub state cleanup is performed
-~21 GB (Cloned local repository, fully unpacked, top-tier Git/GitHub state cleanup is performed
+~26.5 GB (Cloned local repository, fully unpacked, middle-level Git/GitHub state cleanup is performed)
+~21 GB (Cloned local repository, fully unpacked, top-tier Git/GitHub state cleanup is performed)
 *~17 GB (Built and compiled, no compression: best performance)
 *~6 GB (Built and compiled, middle-level compression: requires a decent PC)
 *~4.5 GB (Built and compiled, max compression: requires a beefy pc)
