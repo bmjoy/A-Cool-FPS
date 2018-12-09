@@ -1,0 +1,404 @@
+{"TREE" : "GITSTRUCTURESERVER"} : { "RETURN" : "TESTARENA", "REQUEST" : "git@github/server/Individual/Snowynx/TESTARENA/..",
+"
+.
+├── Materials
+│   ├── Environment
+│   │   ├── Levels
+│   │   │   ├── Level_00
+│   │   │   │   ├── Level_00_Base_Material_A.mat
+│   │   │   │   ├── Level_00_Base_Material_A.mat.meta
+│   │   │   │   ├── Level_00_Base_Material_A_BlendU+005C_Color_A.mat
+│   │   │   │   ├── Level_00_Base_Material_A_BlendU+005C_Color_A.mat.meta
+│   │   │   │   ├── Level_00_Base_Material_A_BlendU+005C_Color_B.mat
+│   │   │   │   ├── Level_00_Base_Material_A_BlendU+005C_Color_B.mat.meta
+│   │   │   │   ├── Level_00_Base_Material_A_BlendU+005C_Color_C.mat
+│   │   │   │   ├── Level_00_Base_Material_A_BlendU+005C_Color_C.mat.meta
+│   │   │   │   ├── Level_00_Base_Material_A_Blend.mat
+│   │   │   │   ├── Level_00_Base_Material_A_Blend.mat.meta
+│   │   │   │   ├── Level_00_Color_A.mat
+│   │   │   │   ├── Level_00_Color_A.mat.meta
+│   │   │   │   ├── Level_00_Color_B.mat
+│   │   │   │   ├── Level_00_Color_B.mat.meta
+│   │   │   │   ├── Level_00_Color_C.mat
+│   │   │   │   ├── Level_00_Color_C.mat.meta
+│   │   │   │   ├── Level_00_SpawnRoom_Floor_A.mat
+│   │   │   │   ├── Level_00_SpawnRoom_Floor_A.mat.meta
+│   │   │   │   ├── Level_00_SpawnRoom_Floor_A_Blend.mat
+│   │   │   │   ├── Level_00_SpawnRoom_Floor_A_Blend.mat.meta
+│   │   │   │   ├── Level_00_SpawnRoom_Floor_B.mat
+│   │   │   │   ├── Level_00_SpawnRoom_Floor_B.mat.meta
+│   │   │   │   ├── Level_00_SpawnRoom_Floor_B_Blend.mat
+│   │   │   │   ├── Level_00_SpawnRoom_Floor_B_Blend.mat.meta
+│   │   │   │   ├── Level_00_SpawnRoom_Floor_C.mat
+│   │   │   │   ├── Level_00_SpawnRoom_Floor_C.mat.meta
+│   │   │   │   ├── Level_00_SpawnRoom_Floor_C_Blend.mat
+│   │   │   │   ├── Level_00_SpawnRoom_Floor_C_Blend.mat.meta
+│   │   │   │   ├── Material_Property_Overrides
+│   │   │   │   │   ├── Level_00_Base_Material_A_Blend_Variation_A.asset
+│   │   │   │   │   ├── Level_00_Base_Material_A_Blend_Variation_A.asset.meta
+│   │   │   │   │   ├── Level_00_Base_Material_A_Blend_Variation_B.asset
+│   │   │   │   │   ├── Level_00_Base_Material_A_Blend_Variation_B.asset.meta
+│   │   │   │   │   ├── Level_00_Base_Material_A_Blend_Variation_C.asset
+│   │   │   │   │   └── Level_00_Base_Material_A_Blend_Variation_C.asset.meta
+│   │   │   │   └── Material_Property_Overrides.meta
+│   │   │   └── Level_00.meta
+│   │   ├── Levels.meta
+│   │   ├── Props
+│   │   │   ├── Ground_Detail
+│   │   │   │   ├── Ground_Detail_Simple_A
+│   │   │   │   │   ├── Ground_Detail_Simple_A.mat
+│   │   │   │   │   └── Ground_Detail_Simple_A.mat.meta
+│   │   │   │   └── Ground_Detail_Simple_A.meta
+│   │   │   ├── Ground_Detail.meta
+│   │   │   ├── Lamps
+│   │   │   │   ├── Lamps_Simple_A
+│   │   │   │   │   ├── Lamps_Simple_A_Emissive_Yellow.mat
+│   │   │   │   │   ├── Lamps_Simple_A_Emissive_Yellow.mat.meta
+│   │   │   │   │   ├── Lamps_Simple_A_Metal.mat
+│   │   │   │   │   └── Lamps_Simple_A_Metal.mat.meta
+│   │   │   │   └── Lamps_Simple_A.meta
+│   │   │   ├── Lamps.meta
+│   │   │   ├── Portal_A
+│   │   │   │   ├── Portal_A.mat
+│   │   │   │   ├── Portal_A.mat.meta
+│   │   │   │   ├── Portal_A_Emissive_A.mat
+│   │   │   │   ├── Portal_A_Emissive_A.mat.meta
+│   │   │   │   ├── Portal_A_Emissive_B.mat
+│   │   │   │   └── Portal_A_Emissive_B.mat.meta
+│   │   │   └── Portal_A.meta
+│   │   ├── Props.meta
+│   │   ├── Trims
+│   │   │   ├── Concrete_Trims_A
+│   │   │   │   ├── Concrete_Trims_A.mat
+│   │   │   │   ├── Concrete_Trims_A.mat.meta
+│   │   │   │   ├── Concrete_Trims_A_HardAlpha_A.mat
+│   │   │   │   ├── Concrete_Trims_A_HardAlpha_A.mat.meta
+│   │   │   │   ├── Concrete_Trims_A_Metal.mat
+│   │   │   │   └── Concrete_Trims_A_Metal.mat.meta
+│   │   │   └── Concrete_Trims_A.meta
+│   │   └── Trims.meta
+│   ├── Environment.meta
+│   ├── Weapons
+│   │   ├── Rocket_A
+│   │   │   ├── Rocket_A.mat
+│   │   │   └── Rocket_A.mat.meta
+│   │   ├── Rocket_A.meta
+│   │   ├── Weapon_Basic_FPS_A
+│   │   │   ├── Weapon_Basic_FPS_A.mat
+│   │   │   └── Weapon_Basic_FPS_A.mat.meta
+│   │   └── Weapon_Basic_FPS_A.meta
+│   └── Weapons.meta
+├── Materials.meta
+├── Models
+│   ├── Environment
+│   │   ├── Levels
+│   │   │   ├── Level_00
+│   │   │   │   ├── Level_00_A.fbx
+│   │   │   │   ├── Level_00_A.fbx.meta
+│   │   │   │   ├── Level_00_A_Trim.fbx
+│   │   │   │   ├── Level_00_A_Trim.fbx.meta
+│   │   │   │   ├── Level_00_A_Trims.fbx
+│   │   │   │   ├── Level_00_A_Trims.fbx.meta
+│   │   │   │   ├── Level_00_B.fbx
+│   │   │   │   ├── Level_00_B.fbx.meta
+│   │   │   │   ├── Level_00_C.fbx
+│   │   │   │   ├── Level_00_C.fbx.meta
+│   │   │   │   ├── Level_00_Shell_A.fbx
+│   │   │   │   ├── Level_00_Shell_A.fbx.meta
+│   │   │   │   ├── Level_00_Shell_B.fbx
+│   │   │   │   ├── Level_00_Shell_B.fbx.meta
+│   │   │   │   ├── Level_00_Shell_C.fbx
+│   │   │   │   ├── Level_00_Shell_C.fbx.meta
+│   │   │   │   ├── Level_00_SpawnRoom_A.fbx
+│   │   │   │   └── Level_00_SpawnRoom_A.fbx.meta
+│   │   │   └── Level_00.meta
+│   │   ├── Levels.meta
+│   │   ├── Props
+│   │   │   ├── Ground_Detail
+│   │   │   │   ├── Ground_Detail_Simple_A
+│   │   │   │   │   ├── Ground_Detail_Simple_A.fbx
+│   │   │   │   │   ├── Ground_Detail_Simple_A.fbx.meta
+│   │   │   │   │   ├── Ground_Detail_Simple_B.fbx
+│   │   │   │   │   ├── Ground_Detail_Simple_B.fbx.meta
+│   │   │   │   │   ├── Ground_Detail_Simple_C.fbx
+│   │   │   │   │   └── Ground_Detail_Simple_C.fbx.meta
+│   │   │   │   └── Ground_Detail_Simple_A.meta
+│   │   │   ├── Ground_Detail.meta
+│   │   │   ├── Lamps
+│   │   │   │   ├── Lamps_Simple_A
+│   │   │   │   │   ├── Lamp_Simple_A.fbx
+│   │   │   │   │   └── Lamp_Simple_A.fbx.meta
+│   │   │   │   └── Lamps_Simple_A.meta
+│   │   │   ├── Lamps.meta
+│   │   │   ├── Level_Decoration
+│   │   │   │   ├── Level_Decoration_Simple_A
+│   │   │   │   │   ├── Level_Decoration_ConcreteBox_400x400_A.fbx
+│   │   │   │   │   └── Level_Decoration_ConcreteBox_400x400_A.fbx.meta
+│   │   │   │   └── Level_Decoration_Simple_A.meta
+│   │   │   ├── Level_Decoration.meta
+│   │   │   ├── Portal_A
+│   │   │   │   ├── Portal_A.fbx
+│   │   │   │   └── Portal_A.fbx.meta
+│   │   │   └── Portal_A.meta
+│   │   └── Props.meta
+│   ├── Environment.meta
+│   ├── Weapons
+│   │   ├── Rocket_A
+│   │   │   ├── Rocket_A.FBX
+│   │   │   └── Rocket_A.FBX.meta
+│   │   ├── Rocket_A.meta
+│   │   ├── Weapon_Basic_FPS_A
+│   │   │   ├── Weapon_Basic_FPS_A.fbx
+│   │   │   ├── Weapon_Basic_FPS_A.fbx.meta
+│   │   │   ├── Weapon_Basic_FPS_A_Rigged.FBX
+│   │   │   └── Weapon_Basic_FPS_A_Rigged.FBX.meta
+│   │   └── Weapon_Basic_FPS_A.meta
+│   └── Weapons.meta
+├── Models.meta
+├── Prefabs
+│   ├── Environment
+│   │   ├── Backdrop
+│   │   │   ├── Skies
+│   │   │   │   ├── HDRI_Sky_Level_00.prefab
+│   │   │   │   └── HDRI_Sky_Level_00.prefab.meta
+│   │   │   └── Skies.meta
+│   │   ├── Backdrop.meta
+│   │   ├── Levels
+│   │   │   ├── Level_00
+│   │   │   │   ├── Level_00_A_Trim_VARIANT.prefab
+│   │   │   │   ├── Level_00_A_Trim_VARIANT.prefab.meta
+│   │   │   │   ├── Level_00_A_VARIANT.prefab
+│   │   │   │   ├── Level_00_A_VARIANT.prefab.meta
+│   │   │   │   ├── Level_00_B_VARIANT.prefab
+│   │   │   │   ├── Level_00_B_VARIANT.prefab.meta
+│   │   │   │   ├── Level_00_C_VARIANT.prefab
+│   │   │   │   ├── Level_00_C_VARIANT.prefab.meta
+│   │   │   │   ├── Level_00_Shell_A_VARIANT.prefab
+│   │   │   │   ├── Level_00_Shell_A_VARIANT.prefab.meta
+│   │   │   │   ├── Level_00_Shell_B_VARIANT.prefab
+│   │   │   │   ├── Level_00_Shell_B_VARIANT.prefab.meta
+│   │   │   │   ├── Level_00_Shell_C_VARIANT.prefab
+│   │   │   │   ├── Level_00_Shell_C_VARIANT.prefab.meta
+│   │   │   │   ├── Level_00_SpawnRoom_A_VARIANT.prefab
+│   │   │   │   ├── Level_00_SpawnRoom_A_VARIANT.prefab.meta
+│   │   │   │   ├── Level_00_SpawnRoom_B_VARIANT.prefab
+│   │   │   │   ├── Level_00_SpawnRoom_B_VARIANT.prefab.meta
+│   │   │   │   ├── Level_00_SpawnRoom_C_VARIANT.prefab
+│   │   │   │   └── Level_00_SpawnRoom_C_VARIANT.prefab.meta
+│   │   │   └── Level_00.meta
+│   │   ├── Levels.meta
+│   │   ├── Props
+│   │   │   ├── Ground_Detail
+│   │   │   │   ├── Ground_Detail_Simple
+│   │   │   │   │   ├── Ground_Detail_Simple_A.prefab
+│   │   │   │   │   ├── Ground_Detail_Simple_A.prefab.meta
+│   │   │   │   │   ├── Ground_Detail_Simple_A_VARIANT.prefab
+│   │   │   │   │   ├── Ground_Detail_Simple_A_VARIANT.prefab.meta
+│   │   │   │   │   ├── Ground_Detail_Simple_B.prefab
+│   │   │   │   │   ├── Ground_Detail_Simple_B.prefab.meta
+│   │   │   │   │   ├── Ground_Detail_Simple_B_VARIANT.prefab
+│   │   │   │   │   ├── Ground_Detail_Simple_B_VARIANT.prefab.meta
+│   │   │   │   │   ├── Ground_Detail_Simple_C.prefab
+│   │   │   │   │   ├── Ground_Detail_Simple_C.prefab.meta
+│   │   │   │   │   ├── Ground_Detail_Simple_C_VARIANT.prefab
+│   │   │   │   │   └── Ground_Detail_Simple_C_VARIANT.prefab.meta
+│   │   │   │   └── Ground_Detail_Simple.meta
+│   │   │   ├── Ground_Detail.meta
+│   │   │   ├── Lamps
+│   │   │   │   ├── Lamp_Simple_A.prefab
+│   │   │   │   ├── Lamp_Simple_A.prefab.meta
+│   │   │   │   ├── Lamp_Simple_A_VARIANT.prefab
+│   │   │   │   └── Lamp_Simple_A_VARIANT.prefab.meta
+│   │   │   ├── Lamps.meta
+│   │   │   ├── Level_Decoration
+│   │   │   │   ├── Level_Decoration_Simple_A
+│   │   │   │   │   ├── Level_Decoration_ConcreteBox_400x400_A.prefab
+│   │   │   │   │   ├── Level_Decoration_ConcreteBox_400x400_A.prefab.meta
+│   │   │   │   │   ├── Level_Decoration_ConcreteBox_400x400_A_VARIANT.prefab
+│   │   │   │   │   └── Level_Decoration_ConcreteBox_400x400_A_VARIANT.prefab.meta
+│   │   │   │   └── Level_Decoration_Simple_A.meta
+│   │   │   ├── Level_Decoration.meta
+│   │   │   ├── Portal_A
+│   │   │   │   ├── Portal_A.prefab
+│   │   │   │   └── Portal_A.prefab.meta
+│   │   │   └── Portal_A.meta
+│   │   └── Props.meta
+│   ├── Environment.meta
+│   ├── Weapons
+│   │   ├── Weapon_Basic_FPS_A
+│   │   │   ├── Weapon_Basic_FPS_A.prefab
+│   │   │   └── Weapon_Basic_FPS_A.prefab.meta
+│   │   └── Weapon_Basic_FPS_A.meta
+│   └── Weapons.meta
+├── Prefabs.meta
+├── Scenes
+│   ├── Level_00.asset
+│   ├── Level_00.asset.meta
+│   ├── Level_00_Gameplay.unity
+│   ├── Level_00_Gameplay.unity.meta
+│   ├── Level_00_Main
+│   │   ├── LightingData.asset
+│   │   ├── LightingData.asset.meta
+│   │   ├── Lightmap-0_comp_dir.png
+│   │   ├── Lightmap-0_comp_dir.png.meta
+│   │   ├── Lightmap-0_comp_light.exr
+│   │   ├── Lightmap-0_comp_light.exr.meta
+│   │   ├── Lightmap-0_comp_shadowmask.png
+│   │   ├── Lightmap-0_comp_shadowmask.png.meta
+│   │   ├── Lightmap-1_comp_dir.png
+│   │   ├── Lightmap-1_comp_dir.png.meta
+│   │   ├── Lightmap-1_comp_light.exr
+│   │   ├── Lightmap-1_comp_light.exr.meta
+│   │   ├── Lightmap-1_comp_shadowmask.png
+│   │   ├── Lightmap-1_comp_shadowmask.png.meta
+│   │   ├── Lightmap-2_comp_dir.png
+│   │   ├── Lightmap-2_comp_dir.png.meta
+│   │   ├── Lightmap-2_comp_light.exr
+│   │   ├── Lightmap-2_comp_light.exr.meta
+│   │   ├── Lightmap-2_comp_shadowmask.png
+│   │   ├── Lightmap-2_comp_shadowmask.png.meta
+│   │   ├── Lightmap-3_comp_dir.png
+│   │   ├── Lightmap-3_comp_dir.png.meta
+│   │   ├── Lightmap-3_comp_light.exr
+│   │   ├── Lightmap-3_comp_light.exr.meta
+│   │   ├── Lightmap-3_comp_shadowmask.png
+│   │   ├── Lightmap-3_comp_shadowmask.png.meta
+│   │   ├── Lightmap-4_comp_dir.png
+│   │   ├── Lightmap-4_comp_dir.png.meta
+│   │   ├── Lightmap-4_comp_light.exr
+│   │   ├── Lightmap-4_comp_light.exr.meta
+│   │   ├── Lightmap-4_comp_shadowmask.png
+│   │   ├── Lightmap-4_comp_shadowmask.png.meta
+│   │   ├── Lightmap-5_comp_dir.png
+│   │   ├── Lightmap-5_comp_dir.png.meta
+│   │   ├── Lightmap-5_comp_light.exr
+│   │   ├── Lightmap-5_comp_light.exr.meta
+│   │   ├── Lightmap-5_comp_shadowmask.png
+│   │   ├── Lightmap-5_comp_shadowmask.png.meta
+│   │   ├── ReflectionProbe-0.exr
+│   │   ├── ReflectionProbe-0.exr.meta
+│   │   ├── ReflectionProbe-1.exr
+│   │   ├── ReflectionProbe-1.exr.meta
+│   │   ├── ReflectionProbe-10.exr
+│   │   ├── ReflectionProbe-10.exr.meta
+│   │   ├── ReflectionProbe-11.exr
+│   │   ├── ReflectionProbe-11.exr.meta
+│   │   ├── ReflectionProbe-12.exr
+│   │   ├── ReflectionProbe-12.exr.meta
+│   │   ├── ReflectionProbe-13.exr
+│   │   ├── ReflectionProbe-13.exr.meta
+│   │   ├── ReflectionProbe-14.exr
+│   │   ├── ReflectionProbe-14.exr.meta
+│   │   ├── ReflectionProbe-15.exr
+│   │   ├── ReflectionProbe-15.exr.meta
+│   │   ├── ReflectionProbe-16.exr
+│   │   ├── ReflectionProbe-16.exr.meta
+│   │   ├── ReflectionProbe-17.exr
+│   │   ├── ReflectionProbe-17.exr.meta
+│   │   ├── ReflectionProbe-18.exr
+│   │   ├── ReflectionProbe-18.exr.meta
+│   │   ├── ReflectionProbe-19.exr
+│   │   ├── ReflectionProbe-19.exr.meta
+│   │   ├── ReflectionProbe-2.exr
+│   │   ├── ReflectionProbe-2.exr.meta
+│   │   ├── ReflectionProbe-20.exr
+│   │   ├── ReflectionProbe-20.exr.meta
+│   │   ├── ReflectionProbe-21.exr
+│   │   ├── ReflectionProbe-21.exr.meta
+│   │   ├── ReflectionProbe-22.exr
+│   │   ├── ReflectionProbe-22.exr.meta
+│   │   ├── ReflectionProbe-23.exr
+│   │   ├── ReflectionProbe-23.exr.meta
+│   │   ├── ReflectionProbe-24.exr
+│   │   ├── ReflectionProbe-24.exr.meta
+│   │   ├── ReflectionProbe-25.exr
+│   │   ├── ReflectionProbe-25.exr.meta
+│   │   ├── ReflectionProbe-3.exr
+│   │   ├── ReflectionProbe-3.exr.meta
+│   │   ├── ReflectionProbe-4.exr
+│   │   ├── ReflectionProbe-4.exr.meta
+│   │   ├── ReflectionProbe-5.exr
+│   │   ├── ReflectionProbe-5.exr.meta
+│   │   ├── ReflectionProbe-6.exr
+│   │   ├── ReflectionProbe-6.exr.meta
+│   │   ├── ReflectionProbe-7.exr
+│   │   ├── ReflectionProbe-7.exr.meta
+│   │   ├── ReflectionProbe-8.exr
+│   │   ├── ReflectionProbe-8.exr.meta
+│   │   ├── ReflectionProbe-9.exr
+│   │   └── ReflectionProbe-9.exr.meta
+│   ├── Level_00_Main.meta
+│   ├── Level_00_Main.unity
+│   ├── Level_00_Main.unity.meta
+│   ├── Level_00_Profiles
+│   │   ├── Level_00_Scene_Cam_Profile_A.asset
+│   │   └── Level_00_Scene_Cam_Profile_A.asset.meta
+│   ├── Level_00_Profiles.meta
+│   ├── Volumes
+│   │   ├── Level_00_Volume_00.asset
+│   │   ├── Level_00_Volume_00.asset.meta
+│   │   ├── Level_00_Volume_00_BakingSky.asset
+│   │   └── Level_00_Volume_00_BakingSky.asset.meta
+│   └── Volumes.meta
+├── Scenes.meta
+├── Shaders
+│   ├── SurfaceShader_VC.shader
+│   └── SurfaceShader_VC.shader.meta
+├── Shaders.meta
+├── Textures
+│   ├── Environment
+│   │   ├── Concrete
+│   │   │   ├── Concrete_Walls_A
+│   │   │   │   ├── Concrete_Walls_A_normals.tif
+│   │   │   │   └── Concrete_Walls_A_normals.tif.meta
+│   │   │   └── Concrete_Walls_A.meta
+│   │   ├── Concrete.meta
+│   │   ├── Props
+│   │   │   ├── Ground_Detail
+│   │   │   │   ├── Ground_Detail_Simple_A
+│   │   │   │   │   ├── Ground_Detail_Simple_A.tif
+│   │   │   │   │   ├── Ground_Detail_Simple_A.tif.meta
+│   │   │   │   │   ├── Ground_Detail_Simple_A_Normals.tif
+│   │   │   │   │   └── Ground_Detail_Simple_A_Normals.tif.meta
+│   │   │   │   └── Ground_Detail_Simple_A.meta
+│   │   │   └── Ground_Detail.meta
+│   │   ├── Props.meta
+│   │   ├── Trims
+│   │   │   ├── Concrete_Trims_A
+│   │   │   │   ├── Concrete_Trims_A.tif
+│   │   │   │   ├── Concrete_Trims_A.tif.meta
+│   │   │   │   ├── Concrete_Trims_A_Diffuse.tif
+│   │   │   │   ├── Concrete_Trims_A_Diffuse.tif.meta
+│   │   │   │   ├── Concrete_Trims_A_Diffuse_ALPHA_INVERTED.tif
+│   │   │   │   ├── Concrete_Trims_A_Diffuse_ALPHA_INVERTED.tif.meta
+│   │   │   │   ├── Concrete_Trims_A_LayerMask.tif
+│   │   │   │   ├── Concrete_Trims_A_LayerMask.tif.meta
+│   │   │   │   ├── Concrete_Trims_A_LayerMask_B.tif
+│   │   │   │   ├── Concrete_Trims_A_LayerMask_B.tif.meta
+│   │   │   │   ├── Concrete_Trims_A_Normal.tif
+│   │   │   │   └── Concrete_Trims_A_Normal.tif.meta
+│   │   │   └── Concrete_Trims_A.meta
+│   │   └── Trims.meta
+│   ├── Environment.meta
+│   ├── Weapons
+│   │   ├── Rocket_A
+│   │   │   ├── lp_rocket_a_DefaultMaterial_AO.png
+│   │   │   ├── lp_rocket_a_DefaultMaterial_AO.png.meta
+│   │   │   ├── lp_rocket_a_DefaultMaterial_AlbedoTransparency.png
+│   │   │   ├── lp_rocket_a_DefaultMaterial_AlbedoTransparency.png.meta
+│   │   │   ├── lp_rocket_a_DefaultMaterial_MetallicSmoothness.png
+│   │   │   ├── lp_rocket_a_DefaultMaterial_MetallicSmoothness.png.meta
+│   │   │   ├── lp_rocket_a_DefaultMaterial_Normal.png
+│   │   │   └── lp_rocket_a_DefaultMaterial_Normal.png.meta
+│   │   ├── Rocket_A.meta
+│   │   ├── Weapon_Basic_FPS_A
+│   │   │   ├── Weapon_Basic_FPS_A_Color_A_Albedo.tif
+│   │   │   ├── Weapon_Basic_FPS_A_Color_A_Albedo.tif.meta
+│   │   │   ├── Weapon_Basic_FPS_A_MaskMap.tif
+│   │   │   ├── Weapon_Basic_FPS_A_MaskMap.tif.meta
+│   │   │   ├── Weapon_Basic_FPS_A_Normal.tif
+│   │   │   └── Weapon_Basic_FPS_A_Normal.tif.meta
+│   │   └── Weapon_Basic_FPS_A.meta
+│   └── Weapons.meta
+└── Textures.meta
+" }

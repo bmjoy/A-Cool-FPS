@@ -1,0 +1,26 @@
+# Directory Paths
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Aa]uto[Bb]uild/
+
+# Visual Studio
+.vscode/
+.vs/
+
+# Extra things such as computer-generated files, C-Sharp personal settings, cache, logs, hidden directories, etc.
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.userprefs
+*.app
+.idea/
+*.VC.*
+.DS_Store
+*~
+*.swp
+*.log
+*.pyc

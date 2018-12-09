@@ -1,0 +1,384 @@
+{"TREE" : "GITSTRUCTURESERVER"} : { "RETURN" : "SCENES", "REQUEST" : "git@github/server/Individual/Snowynx/Scenes/..",
+"
+.
+├── Level_01
+│   ├── Level_01.asset
+│   ├── Level_01.asset.meta
+│   ├── Level_01_Background
+│   │   ├── OcclusionCullingData.asset
+│   │   ├── OcclusionCullingData.asset.meta
+│   │   ├── SceneU+005CSettingsU+005CProfileU+005C1.asset
+│   │   ├── SceneU+005CSettingsU+005CProfileU+005C1.asset.meta
+│   │   ├── SceneU+005CSettingsU+005CProfile.asset
+│   │   └── SceneU+005CSettingsU+005CProfile.asset.meta
+│   ├── Level_01_Background.meta
+│   ├── Level_01_Background.unity
+│   ├── Level_01_Background.unity.meta
+│   ├── Level_01_Background_Profiles
+│   │   ├── Level_01_HDRISkySettings.asset
+│   │   ├── Level_01_HDRISkySettings.asset.meta
+│   │   ├── SceneCamU+005CProfileU+005C1.asset
+│   │   ├── SceneCamU+005CProfileU+005C1.asset.meta
+│   │   ├── SceneCam_Profile_Custom.asset
+│   │   ├── SceneCam_Profile_Custom.asset.meta
+│   │   ├── SceneCam_Profile_Default.asset
+│   │   ├── SceneCam_Profile_Default.asset.meta
+│   │   ├── SceneCam_Profile_GammaGlobal.asset
+│   │   ├── SceneCam_Profile_GammaGlobal.asset.meta
+│   │   ├── SceneCam_Profile_Level01_Default.asset
+│   │   └── SceneCam_Profile_Level01_Default.asset.meta
+│   ├── Level_01_Background_Profiles.meta
+│   ├── Level_01_Gameplay.unity
+│   ├── Level_01_Gameplay.unity.meta
+│   ├── Level_01_Main
+│   │   ├── LightingData.asset
+│   │   ├── LightingData.asset.meta
+│   │   ├── Lightmap-0_comp_dir.png
+│   │   ├── Lightmap-0_comp_dir.png.meta
+│   │   ├── Lightmap-0_comp_light.exr
+│   │   ├── Lightmap-0_comp_light.exr.meta
+│   │   ├── Lightmap-0_comp_shadowmask.png
+│   │   ├── Lightmap-0_comp_shadowmask.png.meta
+│   │   ├── Lightmap-1_comp_dir.png
+│   │   ├── Lightmap-1_comp_dir.png.meta
+│   │   ├── Lightmap-1_comp_light.exr
+│   │   ├── Lightmap-1_comp_light.exr.meta
+│   │   ├── Lightmap-1_comp_shadowmask.png
+│   │   ├── Lightmap-1_comp_shadowmask.png.meta
+│   │   ├── Lightmap-2_comp_dir.png
+│   │   ├── Lightmap-2_comp_dir.png.meta
+│   │   ├── Lightmap-2_comp_light.exr
+│   │   ├── Lightmap-2_comp_light.exr.meta
+│   │   ├── Lightmap-2_comp_shadowmask.png
+│   │   ├── Lightmap-2_comp_shadowmask.png.meta
+│   │   ├── Lightmap-3_comp_dir.png
+│   │   ├── Lightmap-3_comp_dir.png.meta
+│   │   ├── Lightmap-3_comp_light.exr
+│   │   ├── Lightmap-3_comp_light.exr.meta
+│   │   ├── Lightmap-3_comp_shadowmask.png
+│   │   ├── Lightmap-3_comp_shadowmask.png.meta
+│   │   ├── OcclusionCullingData.asset
+│   │   ├── OcclusionCullingData.asset.meta
+│   │   ├── ReflectionProbe-0.exr
+│   │   ├── ReflectionProbe-0.exr.meta
+│   │   ├── ReflectionProbe-1.exr
+│   │   ├── ReflectionProbe-1.exr.meta
+│   │   ├── ReflectionProbe-10.exr
+│   │   ├── ReflectionProbe-10.exr.meta
+│   │   ├── ReflectionProbe-11.exr
+│   │   ├── ReflectionProbe-11.exr.meta
+│   │   ├── ReflectionProbe-12.exr
+│   │   ├── ReflectionProbe-12.exr.meta
+│   │   ├── ReflectionProbe-13.exr
+│   │   ├── ReflectionProbe-13.exr.meta
+│   │   ├── ReflectionProbe-14.exr
+│   │   ├── ReflectionProbe-14.exr.meta
+│   │   ├── ReflectionProbe-15.exr
+│   │   ├── ReflectionProbe-15.exr.meta
+│   │   ├── ReflectionProbe-16.exr
+│   │   ├── ReflectionProbe-16.exr.meta
+│   │   ├── ReflectionProbe-17.exr
+│   │   ├── ReflectionProbe-17.exr.meta
+│   │   ├── ReflectionProbe-18.exr
+│   │   ├── ReflectionProbe-18.exr.meta
+│   │   ├── ReflectionProbe-19.exr
+│   │   ├── ReflectionProbe-19.exr.meta
+│   │   ├── ReflectionProbe-2.exr
+│   │   ├── ReflectionProbe-2.exr.meta
+│   │   ├── ReflectionProbe-20.exr
+│   │   ├── ReflectionProbe-20.exr.meta
+│   │   ├── ReflectionProbe-21.exr
+│   │   ├── ReflectionProbe-21.exr.meta
+│   │   ├── ReflectionProbe-22.exr
+│   │   ├── ReflectionProbe-22.exr.meta
+│   │   ├── ReflectionProbe-23.exr
+│   │   ├── ReflectionProbe-23.exr.meta
+│   │   ├── ReflectionProbe-24.exr
+│   │   ├── ReflectionProbe-24.exr.meta
+│   │   ├── ReflectionProbe-25.exr
+│   │   ├── ReflectionProbe-25.exr.meta
+│   │   ├── ReflectionProbe-26.exr
+│   │   ├── ReflectionProbe-26.exr.meta
+│   │   ├── ReflectionProbe-27.exr
+│   │   ├── ReflectionProbe-27.exr.meta
+│   │   ├── ReflectionProbe-28.exr
+│   │   ├── ReflectionProbe-28.exr.meta
+│   │   ├── ReflectionProbe-29.exr
+│   │   ├── ReflectionProbe-29.exr.meta
+│   │   ├── ReflectionProbe-3.exr
+│   │   ├── ReflectionProbe-3.exr.meta
+│   │   ├── ReflectionProbe-30.exr
+│   │   ├── ReflectionProbe-30.exr.meta
+│   │   ├── ReflectionProbe-31.exr
+│   │   ├── ReflectionProbe-31.exr.meta
+│   │   ├── ReflectionProbe-32.exr
+│   │   ├── ReflectionProbe-32.exr.meta
+│   │   ├── ReflectionProbe-33.exr
+│   │   ├── ReflectionProbe-33.exr.meta
+│   │   ├── ReflectionProbe-34.exr
+│   │   ├── ReflectionProbe-34.exr.meta
+│   │   ├── ReflectionProbe-35.exr
+│   │   ├── ReflectionProbe-35.exr.meta
+│   │   ├── ReflectionProbe-36.exr
+│   │   ├── ReflectionProbe-36.exr.meta
+│   │   ├── ReflectionProbe-37.exr
+│   │   ├── ReflectionProbe-37.exr.meta
+│   │   ├── ReflectionProbe-38.exr
+│   │   ├── ReflectionProbe-38.exr.meta
+│   │   ├── ReflectionProbe-39.exr
+│   │   ├── ReflectionProbe-39.exr.meta
+│   │   ├── ReflectionProbe-4.exr
+│   │   ├── ReflectionProbe-4.exr.meta
+│   │   ├── ReflectionProbe-40.exr
+│   │   ├── ReflectionProbe-40.exr.meta
+│   │   ├── ReflectionProbe-41.exr
+│   │   ├── ReflectionProbe-41.exr.meta
+│   │   ├── ReflectionProbe-42.exr
+│   │   ├── ReflectionProbe-42.exr.meta
+│   │   ├── ReflectionProbe-43.exr
+│   │   ├── ReflectionProbe-43.exr.meta
+│   │   ├── ReflectionProbe-44.exr
+│   │   ├── ReflectionProbe-44.exr.meta
+│   │   ├── ReflectionProbe-45.exr
+│   │   ├── ReflectionProbe-45.exr.meta
+│   │   ├── ReflectionProbe-46.exr
+│   │   ├── ReflectionProbe-46.exr.meta
+│   │   ├── ReflectionProbe-47.exr
+│   │   ├── ReflectionProbe-47.exr.meta
+│   │   ├── ReflectionProbe-48.exr
+│   │   ├── ReflectionProbe-48.exr.meta
+│   │   ├── ReflectionProbe-49.exr
+│   │   ├── ReflectionProbe-49.exr.meta
+│   │   ├── ReflectionProbe-5.exr
+│   │   ├── ReflectionProbe-5.exr.meta
+│   │   ├── ReflectionProbe-50.exr
+│   │   ├── ReflectionProbe-50.exr.meta
+│   │   ├── ReflectionProbe-51.exr
+│   │   ├── ReflectionProbe-51.exr.meta
+│   │   ├── ReflectionProbe-52.exr
+│   │   ├── ReflectionProbe-52.exr.meta
+│   │   ├── ReflectionProbe-53.exr
+│   │   ├── ReflectionProbe-53.exr.meta
+│   │   ├── ReflectionProbe-54.exr
+│   │   ├── ReflectionProbe-54.exr.meta
+│   │   ├── ReflectionProbe-55.exr
+│   │   ├── ReflectionProbe-55.exr.meta
+│   │   ├── ReflectionProbe-56.exr
+│   │   ├── ReflectionProbe-56.exr.meta
+│   │   ├── ReflectionProbe-57.exr
+│   │   ├── ReflectionProbe-57.exr.meta
+│   │   ├── ReflectionProbe-58.exr
+│   │   ├── ReflectionProbe-58.exr.meta
+│   │   ├── ReflectionProbe-59.exr
+│   │   ├── ReflectionProbe-59.exr.meta
+│   │   ├── ReflectionProbe-6.exr
+│   │   ├── ReflectionProbe-6.exr.meta
+│   │   ├── ReflectionProbe-60.exr
+│   │   ├── ReflectionProbe-60.exr.meta
+│   │   ├── ReflectionProbe-61.exr
+│   │   ├── ReflectionProbe-61.exr.meta
+│   │   ├── ReflectionProbe-62.exr
+│   │   ├── ReflectionProbe-62.exr.meta
+│   │   ├── ReflectionProbe-63.exr
+│   │   ├── ReflectionProbe-63.exr.meta
+│   │   ├── ReflectionProbe-64.exr
+│   │   ├── ReflectionProbe-64.exr.meta
+│   │   ├── ReflectionProbe-65.exr
+│   │   ├── ReflectionProbe-65.exr.meta
+│   │   ├── ReflectionProbe-66.exr
+│   │   ├── ReflectionProbe-66.exr.meta
+│   │   ├── ReflectionProbe-67.exr
+│   │   ├── ReflectionProbe-67.exr.meta
+│   │   ├── ReflectionProbe-68.exr
+│   │   ├── ReflectionProbe-68.exr.meta
+│   │   ├── ReflectionProbe-69.exr
+│   │   ├── ReflectionProbe-69.exr.meta
+│   │   ├── ReflectionProbe-7.exr
+│   │   ├── ReflectionProbe-7.exr.meta
+│   │   ├── ReflectionProbe-70.exr
+│   │   ├── ReflectionProbe-70.exr.meta
+│   │   ├── ReflectionProbe-71.exr
+│   │   ├── ReflectionProbe-71.exr.meta
+│   │   ├── ReflectionProbe-72.exr
+│   │   ├── ReflectionProbe-72.exr.meta
+│   │   ├── ReflectionProbe-73.exr
+│   │   ├── ReflectionProbe-73.exr.meta
+│   │   ├── ReflectionProbe-74.exr
+│   │   ├── ReflectionProbe-74.exr.meta
+│   │   ├── ReflectionProbe-75.exr
+│   │   ├── ReflectionProbe-75.exr.meta
+│   │   ├── ReflectionProbe-76.exr
+│   │   ├── ReflectionProbe-76.exr.meta
+│   │   ├── ReflectionProbe-8.exr
+│   │   ├── ReflectionProbe-8.exr.meta
+│   │   ├── ReflectionProbe-9.exr
+│   │   └── ReflectionProbe-9.exr.meta
+│   ├── Level_01_Main.meta
+│   ├── Level_01_Main.unity
+│   ├── Level_01_Main.unity.meta
+│   ├── Level_01_Main_Profiles
+│   │   ├── SceneU+005CSettingsU+005CProfile.asset
+│   │   └── SceneU+005CSettingsU+005CProfile.asset.meta
+│   ├── Level_01_Main_Profiles.meta
+│   ├── Level_01_Screenshots.unity
+│   ├── Level_01_Screenshots.unity.meta
+│   ├── Volumes
+│   │   ├── Level_01_Volume_00.asset
+│   │   ├── Level_01_Volume_00.asset.meta
+│   │   ├── Level_01_Volume_00_BakingSky.asset
+│   │   └── Level_01_Volume_00_BakingSky.asset.meta
+│   ├── Volumes.meta
+│   ├── level_01_gameplay
+│   │   ├── OcclusionCullingData.asset
+│   │   ├── OcclusionCullingData.asset.meta
+│   │   ├── ReflectionProbe-1.exr
+│   │   ├── ReflectionProbe-1.exr.meta
+│   │   ├── ReflectionProbe-2.exr
+│   │   ├── ReflectionProbe-2.exr.meta
+│   │   ├── ReflectionProbe-3.exr
+│   │   └── ReflectionProbe-3.exr.meta
+│   ├── level_01_gameplay.meta
+│   ├── level_01_gameplay.unity.remap
+│   └── level_01_gameplay.unity.remap.meta
+├── Level_01.meta
+├── Level_Menu
+│   ├── Level_Menu.asset
+│   ├── Level_Menu.asset.meta
+│   ├── Level_Menu_Background
+│   │   ├── LightingData.asset
+│   │   ├── LightingData.asset.meta
+│   │   ├── Lightmap-0_comp_dir.png
+│   │   ├── Lightmap-0_comp_dir.png.meta
+│   │   ├── Lightmap-0_comp_light.exr
+│   │   ├── Lightmap-0_comp_light.exr.meta
+│   │   ├── Lightmap-0_comp_shadowmask.png
+│   │   ├── Lightmap-0_comp_shadowmask.png.meta
+│   │   ├── Lightmap-1_comp_dir.png
+│   │   ├── Lightmap-1_comp_dir.png.meta
+│   │   ├── Lightmap-1_comp_light.exr
+│   │   ├── Lightmap-1_comp_light.exr.meta
+│   │   ├── Lightmap-1_comp_shadowmask.png
+│   │   ├── Lightmap-1_comp_shadowmask.png.meta
+│   │   ├── Lightmap-2_comp_dir.png
+│   │   ├── Lightmap-2_comp_dir.png.meta
+│   │   ├── Lightmap-2_comp_light.exr
+│   │   ├── Lightmap-2_comp_light.exr.meta
+│   │   ├── Lightmap-2_comp_shadowmask.png
+│   │   ├── Lightmap-2_comp_shadowmask.png.meta
+│   │   ├── Lightmap-3_comp_dir.png
+│   │   ├── Lightmap-3_comp_dir.png.meta
+│   │   ├── Lightmap-3_comp_light.exr
+│   │   ├── Lightmap-3_comp_light.exr.meta
+│   │   ├── Lightmap-3_comp_shadowmask.png
+│   │   ├── Lightmap-3_comp_shadowmask.png.meta
+│   │   ├── Lightmap-4_comp_dir.png
+│   │   ├── Lightmap-4_comp_dir.png.meta
+│   │   ├── Lightmap-4_comp_light.exr
+│   │   ├── Lightmap-4_comp_light.exr.meta
+│   │   ├── Lightmap-4_comp_shadowmask.png
+│   │   ├── Lightmap-4_comp_shadowmask.png.meta
+│   │   ├── OcclusionCullingData.asset
+│   │   ├── OcclusionCullingData.asset.meta
+│   │   ├── ReflectionProbe-0.exr
+│   │   ├── ReflectionProbe-0.exr.meta
+│   │   ├── ReflectionProbe-1.exr
+│   │   ├── ReflectionProbe-1.exr.meta
+│   │   ├── ReflectionProbe-2.exr
+│   │   ├── ReflectionProbe-2.exr.meta
+│   │   ├── ReflectionProbe-3.exr
+│   │   ├── ReflectionProbe-3.exr.meta
+│   │   ├── ReflectionProbe-4.exr
+│   │   └── ReflectionProbe-4.exr.meta
+│   ├── Level_Menu_Background.meta
+│   ├── Level_Menu_Background.unity
+│   ├── Level_Menu_Background.unity.meta
+│   ├── Level_Menu_Profiles
+│   │   ├── Level_Menu_Default_Profile.asset
+│   │   └── Level_Menu_Default_Profile.asset.meta
+│   ├── Level_Menu_Profiles.meta
+│   ├── Menu_States.controller
+│   ├── Menu_States.controller.meta
+│   ├── Timelines
+│   │   ├── Timeline_TF_Menu_CreateGame.playable
+│   │   ├── Timeline_TF_Menu_CreateGame.playable.meta
+│   │   ├── Timeline_TF_Menu_Init.playable
+│   │   ├── Timeline_TF_Menu_Init.playable.meta
+│   │   ├── Timeline_TF_Menu_JoinGame.playable
+│   │   ├── Timeline_TF_Menu_JoinGame.playable.meta
+│   │   ├── Timeline_TF_Menu_Options.playable
+│   │   ├── Timeline_TF_Menu_Options.playable.meta
+│   │   ├── Timeline_TF_Menu_PlayerSettings.playable
+│   │   ├── Timeline_TF_Menu_PlayerSettings.playable.meta
+│   │   ├── Timeline_TF_Menu_Quit.playable
+│   │   └── Timeline_TF_Menu_Quit.playable.meta
+│   ├── Timelines.meta
+│   ├── Volumes
+│   │   ├── Level_Menu_Volume_00.asset
+│   │   ├── Level_Menu_Volume_00.asset.meta
+│   │   ├── Level_Menu_Volume_00_BakingSky.asset
+│   │   └── Level_Menu_Volume_00_BakingSky.asset.meta
+│   └── Volumes.meta
+├── Level_Menu.meta
+├── UISetupScene.unity
+├── UISetupScene.unity.meta
+├── _Prefab_Edit_Environment
+│   ├── PEE
+│   │   ├── LightingData.asset
+│   │   ├── LightingData.asset.meta
+│   │   ├── ReflectionProbe-0.exr
+│   │   └── ReflectionProbe-0.exr.meta
+│   ├── PEE.meta
+│   ├── PEE.unity
+│   ├── PEE.unity.meta
+│   ├── PEE_BakingSky.asset
+│   ├── PEE_BakingSky.asset.meta
+│   ├── PEE_PP_ProfileU+005C1.asset
+│   ├── PEE_PP_ProfileU+005C1.asset.meta
+│   ├── PEE_PP_Profile.asset
+│   ├── PEE_PP_Profile.asset.meta
+│   ├── PEE_Sky.asset
+│   └── PEE_Sky.asset.meta
+├── _Prefab_Edit_Environment.meta
+├── bootstrapper.unity
+├── bootstrapper.unity.meta
+├── empty.unity
+├── empty.unity.meta
+├── testlevel
+│   ├── testlevel
+│   │   ├── LightingData.asset
+│   │   ├── LightingData.asset.meta
+│   │   ├── Lightmap-0_comp_dir.png
+│   │   ├── Lightmap-0_comp_dir.png.meta
+│   │   ├── Lightmap-0_comp_light.exr
+│   │   ├── Lightmap-0_comp_light.exr.meta
+│   │   ├── Lightmap-0_comp_shadowmask.png
+│   │   ├── Lightmap-0_comp_shadowmask.png.meta
+│   │   ├── ReflectionProbe-0.exr
+│   │   ├── ReflectionProbe-0.exr.meta
+│   │   ├── ReflectionProbe-1.exr
+│   │   ├── ReflectionProbe-1.exr.meta
+│   │   ├── ReflectionProbe-2.exr
+│   │   ├── ReflectionProbe-2.exr.meta
+│   │   ├── ReflectionProbe-3.exr
+│   │   ├── ReflectionProbe-3.exr.meta
+│   │   ├── ReflectionProbe-4.exr
+│   │   ├── ReflectionProbe-4.exr.meta
+│   │   ├── SceneU+005CSettingsU+005CProfile.asset
+│   │   ├── SceneU+005CSettingsU+005CProfile.asset.meta
+│   │   ├── TestLevel_AmbientOcclusionSettings.asset
+│   │   ├── TestLevel_AmbientOcclusionSettings.asset.meta
+│   │   ├── TestLevel_CommonSettings.asset
+│   │   ├── TestLevel_CommonSettings.asset.meta
+│   │   ├── TestLevel_ProceduralSkySettings.asset
+│   │   └── TestLevel_ProceduralSkySettings.asset.meta
+│   ├── testlevel.asset
+│   ├── testlevel.asset.meta
+│   ├── testlevel.meta
+│   ├── testlevel.unity
+│   ├── testlevel.unity.meta
+│   ├── testlevel_Profiles
+│   │   ├── Post-processU+005CVolumeU+005CProfile.asset
+│   │   └── Post-process0+005CVolumeU+005CProfile.asset.meta
+│   └── testlevel_Profiles.meta
+└── testlevel.meta
+" }

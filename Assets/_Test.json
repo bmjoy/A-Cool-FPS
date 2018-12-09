@@ -1,0 +1,288 @@
+{"TREE" : "GITSTRUCTURESERVER", "EXCEPTIONS" : "C#"} : { "RETURN" : "_TEST", "REQUEST" : "git@github/server/Individual/Snowynx/AbstractTest/..",
+"
+.
+├── JanusK
+│   ├── Scenes
+│   │   ├── Terrain_Test_A
+│   │   │   ├── Heightmap_Test_Object_A
+│   │   │   │   ├── Heightmap_Test_Object_A.prefab
+│   │   │   │   ├── Heightmap_Test_Object_A.prefab.meta
+│   │   │   │   ├── Heightmap_Test_Object_A_RAW.prefab
+│   │   │   │   ├── Heightmap_Test_Object_A_RAW.prefab.meta
+│   │   │   │   ├── Maps
+│   │   │   │   │   ├── Heightmap_Test_Object_A_ArrowMask.tif
+│   │   │   │   │   ├── Heightmap_Test_Object_A_ArrowMask.tif.meta
+│   │   │   │   │   ├── Heightmap_Test_Object_A_CircleMask.tif
+│   │   │   │   │   ├── Heightmap_Test_Object_A_CircleMask.tif.meta
+│   │   │   │   │   ├── Heightmap_Test_Object_A_Cliff.tif
+│   │   │   │   │   ├── Heightmap_Test_Object_A_Cliff.tif.meta
+│   │   │   │   │   ├── Heightmap_Test_Object_A_Flowmap.tif
+│   │   │   │   │   ├── Heightmap_Test_Object_A_Flowmap.tif.meta
+│   │   │   │   │   ├── Heightmap_Test_Object_A_GradientMask.tif
+│   │   │   │   │   ├── Heightmap_Test_Object_A_GradientMask.tif.meta
+│   │   │   │   │   ├── Heightmap_Test_Object_A_Grassland.tif
+│   │   │   │   │   ├── Heightmap_Test_Object_A_Grassland.tif.meta
+│   │   │   │   │   ├── Heightmap_Test_Object_A_HeightGradient.tif
+│   │   │   │   │   ├── Heightmap_Test_Object_A_HeightGradient.tif.meta
+│   │   │   │   │   ├── Heightmap_Test_Object_A_HeightMap_EXR.exr
+│   │   │   │   │   ├── Heightmap_Test_Object_A_HeightMap_EXR.exr.meta
+│   │   │   │   │   ├── Heightmap_Test_Object_A_HeightMap_R16.raw
+│   │   │   │   │   ├── Heightmap_Test_Object_A_HeightMap_R16.raw.meta
+│   │   │   │   │   ├── Heightmap_Test_Object_A_MogensTerrainMask.tif
+│   │   │   │   │   ├── Heightmap_Test_Object_A_MogensTerrainMask.tif.meta
+│   │   │   │   │   ├── Heightmap_Test_Object_A_SquareMask.tif
+│   │   │   │   │   └── Heightmap_Test_Object_A_SquareMask.tif.meta
+│   │   │   │   ├── Maps.meta
+│   │   │   │   ├── Terrains
+│   │   │   │   │   ├── Heightmap_Test_Object_A_Terrain_EXR.asset
+│   │   │   │   │   ├── Heightmap_Test_Object_A_Terrain_EXR.asset.meta
+│   │   │   │   │   ├── Heightmap_Test_Object_A_Terrain_RAW.asset
+│   │   │   │   │   └── Heightmap_Test_Object_A_Terrain_RAW.asset.meta
+│   │   │   │   └── Terrains.meta
+│   │   │   ├── Heightmap_Test_Object_A.meta
+│   │   │   ├── Mogens
+│   │   │   │   ├── NewU+005CTerrain.asset
+│   │   │   │   ├── NewU+005CTerrain.asset.meta
+│   │   │   │   ├── Terrain_Test_A_Height_NonTiled_RAW.raw
+│   │   │   │   ├── Terrain_Test_A_Height_NonTiled_RAW.raw.meta
+│   │   │   │   ├── Terrain_Test_A_Height_Nontiled_EXR.exr
+│   │   │   │   ├── Terrain_Test_A_Height_Nontiled_EXR.exr.meta
+│   │   │   │   ├── Terrain_Test_A_Height_Nontiled_TIF.tif
+│   │   │   │   ├── Terrain_Test_A_Height_Nontiled_TIF.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_1_Nontiled.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_1_Nontiled.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_1_Nontiled_A.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_1_Nontiled_A.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_1_Nontiled_B.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_1_Nontiled_B.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_1_Nontiled_G.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_1_Nontiled_G.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_1_Nontiled_R.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_1_Nontiled_R.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_2_Nontiled.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_2_Nontiled.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_2_Nontiled_A.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_2_Nontiled_A.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_2_Nontiled_B.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_2_Nontiled_B.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_2_Nontiled_G.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_2_Nontiled_G.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_2_Nontiled_R.tif
+│   │   │   │   └── Terrain_Test_A_Splat_2_Nontiled_R.tif.meta
+│   │   │   ├── Mogens.meta
+│   │   │   ├── Prefabs
+│   │   │   │   ├── Rock_Collection_A_Rock_AU+005CVariant.prefab
+│   │   │   │   ├── Rock_Collection_A_Rock_AU+005CVariant.prefab.meta
+│   │   │   │   ├── Rock_Collection_A_Rock_BU+005CVariant.prefab
+│   │   │   │   ├── Rock_Collection_A_Rock_BU+005CVariant.prefab.meta
+│   │   │   │   ├── Rock_Collection_A_Rock_CU+005CVariant.prefab
+│   │   │   │   ├── Rock_Collection_A_Rock_CU+005CVariant.prefab.meta
+│   │   │   │   ├── Rock_Collection_A_Rock_DU+005CVariant.prefab
+│   │   │   │   ├── Rock_Collection_A_Rock_DU+005CVariant.prefab.meta
+│   │   │   │   ├── Rock_Collection_A_Rock_EU+005CVariant.prefab
+│   │   │   │   ├── Rock_Collection_A_Rock_EU+005CVariant.prefab.meta
+│   │   │   │   ├── Rock_Planet_AU+005CVariantU+005CB.prefab
+│   │   │   │   ├── Rock_Planet_AU+005CVariantU+005CB.prefab.meta
+│   │   │   │   ├── Rock_Planet_AU+005CVariant.prefab
+│   │   │   │   ├── Rock_Planet_AU+005CVariant.prefab.meta
+│   │   │   │   ├── Rock_Planet_BU+005CVariant.prefab
+│   │   │   │   ├── Rock_Planet_BU+005CVariant.prefab.meta
+│   │   │   │   ├── Rock_Planet_CU+005CVariant.prefab
+│   │   │   │   ├── Rock_Planet_CU+005CVariant.prefab.meta
+│   │   │   │   ├── Tree_Flower_Alien_Big_A.prefab
+│   │   │   │   └── Tree_Flower_Alien_Big_A.prefab.meta
+│   │   │   ├── Prefabs.meta
+│   │   │   ├── Prop_Sets
+│   │   │   │   ├── PropSet_Rocks_A.asset
+│   │   │   │   ├── PropSet_Rocks_A.asset.meta
+│   │   │   │   ├── PropSet_Test_A.asset
+│   │   │   │   └── PropSet_Test_A.asset.meta
+│   │   │   ├── Prop_Sets.meta
+│   │   │   ├── Scene_Resources
+│   │   │   │   ├── SkySettings_Terrain_Test_A.prefab
+│   │   │   │   ├── SkySettings_Terrain_Test_A.prefab.meta
+│   │   │   │   ├── Terrain_Test_A_Profile.asset
+│   │   │   │   ├── Terrain_Test_A_Profile.asset.meta
+│   │   │   │   ├── Terrain_Test_A_Volume_00.asset
+│   │   │   │   ├── Terrain_Test_A_Volume_00.asset.meta
+│   │   │   │   ├── Terrain_Test_A_Volume_00_BakingSky.asset
+│   │   │   │   └── Terrain_Test_A_Volume_00_BakingSky.asset.meta
+│   │   │   ├── Scene_Resources.meta
+│   │   │   ├── Terrain_Heightmaps
+│   │   │   │   ├── 4k
+│   │   │   │   │   ├── Terrain_Test_A_4k_x0_y0.raw
+│   │   │   │   │   ├── Terrain_Test_A_4k_x0_y0.raw.meta
+│   │   │   │   │   ├── Terrain_Test_A_4k_x0_y1.raw
+│   │   │   │   │   ├── Terrain_Test_A_4k_x0_y1.raw.meta
+│   │   │   │   │   ├── Terrain_Test_A_4k_x1_y0.raw
+│   │   │   │   │   ├── Terrain_Test_A_4k_x1_y0.raw.meta
+│   │   │   │   │   ├── Terrain_Test_A_4k_x1_y1.raw
+│   │   │   │   │   ├── Terrain_Test_A_4k_x1_y1.raw.meta
+│   │   │   │   │   ├── Terrain_Test_A_Splat_1_x0_y0_4k.tif
+│   │   │   │   │   ├── Terrain_Test_A_Splat_1_x0_y0_4k.tif.meta
+│   │   │   │   │   ├── Terrain_Test_A_Splat_1_x0_y1_4k.tif
+│   │   │   │   │   ├── Terrain_Test_A_Splat_1_x0_y1_4k.tif.meta
+│   │   │   │   │   ├── Terrain_Test_A_Splat_1_x1_y0_4k.tif
+│   │   │   │   │   ├── Terrain_Test_A_Splat_1_x1_y0_4k.tif.meta
+│   │   │   │   │   ├── Terrain_Test_A_Splat_1_x1_y1_4k.tif
+│   │   │   │   │   ├── Terrain_Test_A_Splat_1_x1_y1_4k.tif.meta
+│   │   │   │   │   ├── Terrain_Test_A_Splat_2_x0_y0_4k.tif
+│   │   │   │   │   ├── Terrain_Test_A_Splat_2_x0_y0_4k.tif.meta
+│   │   │   │   │   ├── Terrain_Test_A_Splat_2_x0_y1_4k.tif
+│   │   │   │   │   ├── Terrain_Test_A_Splat_2_x0_y1_4k.tif.meta
+│   │   │   │   │   ├── Terrain_Test_A_Splat_2_x1_y0_4k.tif
+│   │   │   │   │   ├── Terrain_Test_A_Splat_2_x1_y0_4k.tif.meta
+│   │   │   │   │   ├── Terrain_Test_A_Splat_2_x1_y1_4k.tif
+│   │   │   │   │   └── Terrain_Test_A_Splat_2_x1_y1_4k.tif.meta
+│   │   │   │   ├── 4k.meta
+│   │   │   │   ├── Terrain_Test_A_NonTiled.r16
+│   │   │   │   ├── Terrain_Test_A_NonTiled.r16.meta
+│   │   │   │   ├── Terrain_Test_A_NonTiled.raw
+│   │   │   │   ├── Terrain_Test_A_NonTiled.raw.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_1_Nontiled.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_1_Nontiled.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_1_x0_y0.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_1_x0_y0.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_1_x0_y1.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_1_x0_y1.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_1_x1_y0.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_1_x1_y0.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_1_x1_y1.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_1_x1_y1.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_2_Nontiled.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_2_Nontiled.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_2_x0_y0.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_2_x0_y0.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_2_x0_y1.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_2_x0_y1.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_2_x1_y0.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_2_x1_y0.tif.meta
+│   │   │   │   ├── Terrain_Test_A_Splat_2_x1_y1.tif
+│   │   │   │   ├── Terrain_Test_A_Splat_2_x1_y1.tif.meta
+│   │   │   │   ├── Terrain_Test_A_x0_y0.raw
+│   │   │   │   ├── Terrain_Test_A_x0_y0.raw.meta
+│   │   │   │   ├── Terrain_Test_A_x0_y1.raw
+│   │   │   │   ├── Terrain_Test_A_x0_y1.raw.meta
+│   │   │   │   ├── Terrain_Test_A_x1_y0.raw
+│   │   │   │   ├── Terrain_Test_A_x1_y0.raw.meta
+│   │   │   │   ├── Terrain_Test_A_x1_y1.raw
+│   │   │   │   └── Terrain_Test_A_x1_y1.raw.meta
+│   │   │   ├── Terrain_Heightmaps.meta
+│   │   │   ├── Terrain_Layers
+│   │   │   │   ├── Bedrock_Ochre_A.terrainlayer
+│   │   │   │   ├── Bedrock_Ochre_A.terrainlayer.meta
+│   │   │   │   ├── Moss_A.terrainlayer
+│   │   │   │   ├── Moss_A.terrainlayer.meta
+│   │   │   │   ├── Moss_B.terrainlayer
+│   │   │   │   ├── Moss_B.terrainlayer.meta
+│   │   │   │   ├── Rockwall_Planet_A.terrainlayer
+│   │   │   │   ├── Rockwall_Planet_A.terrainlayer.meta
+│   │   │   │   ├── Rockwall_Planet_B.terrainlayer
+│   │   │   │   ├── Rockwall_Planet_B.terrainlayer.meta
+│   │   │   │   ├── Sand_Dunes_A.terrainlayer
+│   │   │   │   ├── Sand_Dunes_A.terrainlayer.meta
+│   │   │   │   ├── Sand_Ochre_A.terrainlayer
+│   │   │   │   ├── Sand_Ochre_A.terrainlayer.meta
+│   │   │   │   ├── Sand_Pebbles_A_Terrain.terrainlayer
+│   │   │   │   └── Sand_Pebbles_A_Terrain.terrainlayer.meta
+│   │   │   ├── Terrain_Layers.meta
+│   │   │   ├── Terrain_Test_A.asset
+│   │   │   ├── Terrain_Test_A.asset.meta
+│   │   │   ├── Terrain_Test_A.meta
+│   │   │   ├── Terrain_Test_A.unity
+│   │   │   ├── Terrain_Test_A.unity.meta
+│   │   │   ├── Terrain_x0_y0_TerrainData.asset
+│   │   │   ├── Terrain_x0_y0_TerrainData.asset.meta
+│   │   │   ├── Terrain_x0_y1_TerrainData.asset
+│   │   │   ├── Terrain_x0_y1_TerrainData.asset.meta
+│   │   │   ├── Terrain_x1_y0_TerrainData.asset
+│   │   │   ├── Terrain_x1_y0_TerrainData.asset.meta
+│   │   │   ├── Terrain_x1_y1_TerrainData.asset
+│   │   │   └── Terrain_x1_y1_TerrainData.asset.meta
+│   │   └── Terrain_Test_A.meta
+│   ├── Scenes.meta
+│   ├── Scripts
+│   │   ├── Editor
+│   │   │   ├── ReplaceSplatmap.js
+│   │   │   └── ReplaceSplatmap.js.meta
+│   │   └── Editor.meta
+│   └── Scripts.meta
+├── JanusK.meta
+├── MartinK.meta
+├── MogensH
+│   ├── Scenes
+│   │   ├── NewU+005CTerrain.asset
+│   │   ├── NewU+005CTerrain.asset.meta
+│   │   ├── PropSet.asset
+│   │   ├── PropSet.asset.meta
+│   │   ├── terraintest.unity
+│   │   └── terraintest.unity.meta
+│   ├── Scenes.meta
+│   ├── Terrain
+│   │   ├── AlphaTerrainLayer.terrainlayer
+│   │   ├── AlphaTerrainLayer.terrainlayer.meta
+│   │   ├── TerrainCombiner
+│   │   │   ├── Editor
+│   │   │   │   ├── TCGraphicsHelper.cs
+│   │   │   │   ├── TCGraphicsHelper.cs.meta
+│   │   │   │   ├── TCHeighmapHelper.cs
+│   │   │   │   ├── TCHeighmapHelper.cs.meta
+│   │   │   │   ├── TCMaterialHelper.cs
+│   │   │   │   ├── TCMaterialHelper.cs.meta
+│   │   │   │   ├── TCResourceHelper.cs
+│   │   │   │   ├── TCResourceHelper.cs.meta
+│   │   │   │   ├── TCWorker.cs
+│   │   │   │   ├── TCWorker.cs.meta
+│   │   │   │   ├── TerrainCombinerEditor.cs
+│   │   │   │   ├── TerrainCombinerEditor.cs.meta
+│   │   │   │   ├── TerrainCombinerInstanceEditor.cs
+│   │   │   │   ├── TerrainCombinerInstanceEditor.cs.meta
+│   │   │   │   ├── TerrainCombinerSourceEditor.cs
+│   │   │   │   └── TerrainCombinerSourceEditor.cs.meta
+│   │   │   ├── Editor.meta
+│   │   │   ├── Scripts
+│   │   │   │   ├── TerrainCombiner.cs
+│   │   │   │   ├── TerrainCombiner.cs.meta
+│   │   │   │   ├── TerrainCombinerInstance.cs
+│   │   │   │   ├── TerrainCombinerInstance.cs.meta
+│   │   │   │   ├── TerrainCombinerSource.cs
+│   │   │   │   └── TerrainCombinerSource.cs.meta
+│   │   │   ├── Scripts.meta
+│   │   │   ├── Shaders
+│   │   │   │   ├── TCHeightmapShader.shader
+│   │   │   │   ├── TCHeightmapShader.shader.meta
+│   │   │   │   ├── TCMaterialShader.shader
+│   │   │   │   └── TCMaterialShader.shader.meta
+│   │   │   ├── Shaders.meta
+│   │   │   ├── Textures
+│   │   │   │   ├── GridTransparent.png
+│   │   │   │   └── GridTransparent.png.meta
+│   │   │   └── Textures.meta
+│   │   ├── TerrainCombiner.meta
+│   │   ├── TerrainSettings
+│   │   │   ├── Editor
+│   │   │   │   ├── TerrainSettingsEditor.cs
+│   │   │   │   ├── TerrainSettingsEditor.cs.meta
+│   │   │   │   ├── TerrainSettingsHelper.cs
+│   │   │   │   └── TerrainSettingsHelper.cs.meta
+│   │   │   ├── Editor.meta
+│   │   │   ├── Scripts
+│   │   │   │   ├── TerrainSettings.cs
+│   │   │   │   └── TerrainSettings.cs.meta
+│   │   │   └── Scripts.meta
+│   │   ├── TerrainSettings.meta
+│   │   ├── TerrainSourceA.asset
+│   │   ├── TerrainSourceA.asset.meta
+│   │   ├── TerrainSourceA.prefab
+│   │   ├── TerrainSourceA.prefab.meta
+│   │   ├── TerrainSourceB.asset
+│   │   ├── TerrainSourceB.asset.meta
+│   │   ├── TerrainSourceB.prefab
+│   │   ├── TerrainSourceB.prefab.meta
+│   │   ├── terainscene2.unity
+│   │   └── terainscene2.unity.meta
+│   └── Terrain.meta
+└── MogensH.meta
+
+
+" }

@@ -1,0 +1,22 @@
+{"TREE" : "GITSTRUCTURESERVER"} : { "RETURN" : "..../FrameCapturer/Plugins", "REQUEST" : "git@github/server/Individual/Snowynx/RETURN/..",
+"
+.
+├── x86
+│   ├── fccore.dll
+│   └── fccore.dll.meta
+├── x86.meta
+├── x86_64
+│   ├── fccore.bundle
+│   │   ├── Contents
+│   │   │   ├── Info.plist
+│   │   │   ├── Info.plist.meta
+│   │   │   ├── MacOS
+│   │   │   │   ├── fccore
+│   │   │   │   └── fccore.meta
+│   │   │   └── MacOS.meta
+│   │   └── Contents.meta
+│   ├── fccore.bundle.meta
+│   ├── fccore.dll
+│   └── fccore.dll.meta
+└── x86_64.meta
+" }

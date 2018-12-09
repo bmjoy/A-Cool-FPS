@@ -1,0 +1,741 @@
+{"TREE" : "GITSTRUCTURESERVER"} : { "RETURN" : "ANIMATION", "REQUEST" : "git@github/server/Individual/Snowynx/Animations/..",
+"
+.
+├── Characters
+│   ├── Robot
+│   │   ├── AnimationSets
+│   │   │   ├── AnimGraph.asset
+│   │   │   ├── AnimGraph.asset.meta
+│   │   │   ├── AnimStateSelector.asset
+│   │   │   ├── AnimStateSelector.asset.meta
+│   │   │   ├── Banking.asset
+│   │   │   ├── Banking.asset.meta
+│   │   │   ├── DamageReaction.asset
+│   │   │   ├── DamageReaction.asset.meta
+│   │   │   ├── Death.asset
+│   │   │   ├── Death.asset.meta
+│   │   │   ├── Emote.asset
+│   │   │   ├── Emote.asset.meta
+│   │   │   ├── EngineNoise.asset
+│   │   │   ├── EngineNoise.asset.meta
+│   │   │   ├── InAir.asset
+│   │   │   ├── InAir.asset.meta
+│   │   │   ├── InAirRun.asset
+│   │   │   ├── InAirRun.asset.meta
+│   │   │   ├── InAirSprint.asset
+│   │   │   ├── InAirSprint.asset.meta
+│   │   │   ├── Jump.asset
+│   │   │   ├── Jump.asset.meta
+│   │   │   ├── JumpRun.asset
+│   │   │   ├── JumpRun.asset.meta
+│   │   │   ├── JumpSprint.asset
+│   │   │   ├── JumpSprint.asset.meta
+│   │   │   ├── Locomotion.asset
+│   │   │   ├── Locomotion.asset.meta
+│   │   │   ├── Run.asset
+│   │   │   ├── Run.asset.meta
+│   │   │   ├── Sprint.asset
+│   │   │   ├── Sprint.asset.meta
+│   │   │   ├── Squash.asset
+│   │   │   ├── Squash.asset.meta
+│   │   │   ├── Stand.asset
+│   │   │   └── Stand.asset.meta
+│   │   ├── AnimationSets.meta
+│   │   ├── Clips
+│   │   │   ├── Emotes--Defeat.anim.fbx
+│   │   │   ├── Emotes--Defeat.anim.fbx.meta
+│   │   │   ├── Emotes--Jump.anim.fbx
+│   │   │   ├── Emotes--Jump.anim.fbx.meta
+│   │   │   ├── Emotes--RussianDance.anim.fbx
+│   │   │   ├── Emotes--RussianDance.anim.fbx.meta
+│   │   │   ├── Emotes--Victory.anim.fbx
+│   │   │   ├── Emotes--Victory.anim.fbx.meta
+│   │   │   ├── Jump--AimDownToUp.anim.fbx
+│   │   │   ├── Jump--AimDownToUp.anim.fbx.meta
+│   │   │   ├── Jump--AimDownToUp_Sprint.anim.fbx
+│   │   │   ├── Jump--AimDownToUp_Sprint.anim.fbx.meta
+│   │   │   ├── Jump--BodySquash.anim.fbx
+│   │   │   ├── Jump--BodySquash.anim.fbx.meta
+│   │   │   ├── Jump--Grenade.anim.fbx
+│   │   │   ├── Jump--Grenade.anim.fbx.meta
+│   │   │   ├── Jump--Grenade_Weapon.anim.fbx
+│   │   │   ├── Jump--Grenade_Weapon.anim.fbx.meta
+│   │   │   ├── Jump--InAir.anim.fbx
+│   │   │   ├── Jump--InAir.anim.fbx.meta
+│   │   │   ├── Jump--InAir_LandAntic.anim.fbx
+│   │   │   ├── Jump--InAir_LandAntic.anim.fbx.meta
+│   │   │   ├── Jump--Jump_HardLand.anim.fbx
+│   │   │   ├── Jump--Jump_HardLand.anim.fbx.meta
+│   │   │   ├── Jump--LandToStand.anim.fbx
+│   │   │   ├── Jump--LandToStand.anim.fbx.meta
+│   │   │   ├── Jump--Melee.anim.fbx
+│   │   │   ├── Jump--Melee.anim.fbx.meta
+│   │   │   ├── Jump--Melee_Weapon.anim.fbx
+│   │   │   ├── Jump--Melee_Weapon.anim.fbx.meta
+│   │   │   ├── Jump--Reload.anim.fbx
+│   │   │   ├── Jump--Reload.anim.fbx.meta
+│   │   │   ├── Jump--Reload_Weapon.anim.fbx
+│   │   │   ├── Jump--Reload_Weapon.anim.fbx.meta
+│   │   │   ├── Jump--Shoot.anim.fbx
+│   │   │   ├── Jump--Shoot.anim.fbx.meta
+│   │   │   ├── Jump--Shoot_Weapon.anim.fbx
+│   │   │   ├── Jump--Shoot_Weapon.anim.fbx.meta
+│   │   │   ├── Jump--StandToJump.anim.fbx
+│   │   │   ├── Jump--StandToJump.anim.fbx.meta
+│   │   │   ├── Locomotion--AimDownToUp.anim.fbx
+│   │   │   ├── Locomotion--AimDownToUp.anim.fbx.meta
+│   │   │   ├── Locomotion--AimDownToUp_Sprint.anim.fbx
+│   │   │   ├── Locomotion--AimDownToUp_Sprint.anim.fbx.meta
+│   │   │   ├── Locomotion--Grenade.anim.fbx
+│   │   │   ├── Locomotion--Grenade.anim.fbx.meta
+│   │   │   ├── Locomotion--Grenade_Weapon.anim.fbx
+│   │   │   ├── Locomotion--Grenade_Weapon.anim.fbx.meta
+│   │   │   ├── Locomotion--Melee.anim.fbx
+│   │   │   ├── Locomotion--Melee.anim.fbx.meta
+│   │   │   ├── Locomotion--Melee_Weapon.anim.fbx
+│   │   │   ├── Locomotion--Melee_Weapon.anim.fbx.meta
+│   │   │   ├── Locomotion--Reload.anim.fbx
+│   │   │   ├── Locomotion--Reload.anim.fbx.meta
+│   │   │   ├── Locomotion--Reload_Weapon.anim.fbx
+│   │   │   ├── Locomotion--Reload_Weapon.anim.fbx.meta
+│   │   │   ├── Locomotion--RunInPlace.anim.fbx
+│   │   │   ├── Locomotion--RunInPlace.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_E.anim.fbx
+│   │   │   ├── Locomotion--Run_E.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_N.anim.fbx
+│   │   │   ├── Locomotion--Run_N.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_NE.anim.fbx
+│   │   │   ├── Locomotion--Run_NE.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_NW.anim.fbx
+│   │   │   ├── Locomotion--Run_NW.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_S.anim.fbx
+│   │   │   ├── Locomotion--Run_S.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_SE.anim.fbx
+│   │   │   ├── Locomotion--Run_SE.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_SW.anim.fbx
+│   │   │   ├── Locomotion--Run_SW.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_W.anim.fbx
+│   │   │   ├── Locomotion--Run_W.anim.fbx.meta
+│   │   │   ├── Locomotion--Shoot.anim.fbx
+│   │   │   ├── Locomotion--Shoot.anim.fbx.meta
+│   │   │   ├── Locomotion--Shoot_Weapon.anim.fbx
+│   │   │   ├── Locomotion--Shoot_Weapon.anim.fbx.meta
+│   │   │   ├── Locomotion--Sprint_N.anim.fbx
+│   │   │   ├── Locomotion--Sprint_N.anim.fbx.meta
+│   │   │   ├── Locomotion--Sprint_NE.anim.fbx
+│   │   │   ├── Locomotion--Sprint_NE.anim.fbx.meta
+│   │   │   ├── Locomotion--Sprint_NW.anim.fbx
+│   │   │   ├── Locomotion--Sprint_NW.anim.fbx.meta
+│   │   │   ├── Sequences
+│   │   │   │   ├── RB_Menu--RB_Idle.anim.fbx
+│   │   │   │   ├── RB_Menu--RB_Idle.anim.fbx.meta
+│   │   │   │   ├── RB_Menu--RB_Idle_Enter.anim.fbx
+│   │   │   │   ├── RB_Menu--RB_Idle_Enter.anim.fbx.meta
+│   │   │   │   ├── RB_Menu--RB_Idle_Enter_Weapon.anim.fbx
+│   │   │   │   ├── RB_Menu--RB_Idle_Enter_Weapon.anim.fbx.meta
+│   │   │   │   ├── RB_Menu--RB_Idle_Exit.anim.fbx
+│   │   │   │   ├── RB_Menu--RB_Idle_Exit.anim.fbx.meta
+│   │   │   │   ├── RB_Menu--RB_Idle_Exit_Weapon.anim.fbx
+│   │   │   │   ├── RB_Menu--RB_Idle_Exit_Weapon.anim.fbx.meta
+│   │   │   │   ├── RB_Menu--RB_Idle_Weapon.anim.fbx
+│   │   │   │   ├── RB_Menu--RB_Idle_Weapon.anim.fbx.meta
+│   │   │   │   ├── Robot_Menu--Background_JoinGame.anim.fbx
+│   │   │   │   ├── Robot_Menu--Background_JoinGame.anim.fbx.meta
+│   │   │   │   ├── Robot_Menu--Background_JoinGame_Weapon.anim.fbx
+│   │   │   │   ├── Robot_Menu--Background_JoinGame_Weapon.anim.fbx.meta
+│   │   │   │   ├── Robot_Menu--BehindCover_JoinGame.anim.fbx
+│   │   │   │   ├── Robot_Menu--BehindCover_JoinGame.anim.fbx.meta
+│   │   │   │   ├── Robot_Menu--BehindCover_JoinGame_Weapon.anim.fbx
+│   │   │   │   ├── Robot_Menu--BehindCover_JoinGame_Weapon.anim.fbx.meta
+│   │   │   │   ├── Robot_Menu--Idle.anim.fbx
+│   │   │   │   ├── Robot_Menu--Idle.anim.fbx.meta
+│   │   │   │   ├── Robot_Menu--Idle_Enter.anim.fbx
+│   │   │   │   ├── Robot_Menu--Idle_Enter.anim.fbx.meta
+│   │   │   │   ├── Robot_Menu--Idle_Enter_Weapon.anim.fbx
+│   │   │   │   ├── Robot_Menu--Idle_Enter_Weapon.anim.fbx.meta
+│   │   │   │   ├── Robot_Menu--Idle_Weapon.anim.fbx
+│   │   │   │   ├── Robot_Menu--Idle_Weapon.anim.fbx.meta
+│   │   │   │   ├── Robot_Menu--Run.anim.fbx
+│   │   │   │   ├── Robot_Menu--Run.anim.fbx.meta
+│   │   │   │   ├── Robot_Menu--Run_Weapon.anim.fbx
+│   │   │   │   └── Robot_Menu--Run_Weapon.anim.fbx.meta
+│   │   │   ├── Sequences.meta
+│   │   │   ├── Stand--Aim_E.anim.fbx
+│   │   │   ├── Stand--Aim_E.anim.fbx.meta
+│   │   │   ├── Stand--Aim_Mid.anim.fbx
+│   │   │   ├── Stand--Aim_Mid.anim.fbx.meta
+│   │   │   ├── Stand--Aim_W.anim.fbx
+│   │   │   ├── Stand--Aim_W.anim.fbx.meta
+│   │   │   ├── Stand--Death_E.anim.fbx
+│   │   │   ├── Stand--Death_E.anim.fbx.meta
+│   │   │   ├── Stand--Death_E_Weapon.anim.fbx
+│   │   │   ├── Stand--Death_E_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Death_N.anim.fbx
+│   │   │   ├── Stand--Death_N.anim.fbx.meta
+│   │   │   ├── Stand--Death_N_Weapon.anim.fbx
+│   │   │   ├── Stand--Death_N_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Death_S.anim.fbx
+│   │   │   ├── Stand--Death_S.anim.fbx.meta
+│   │   │   ├── Stand--Death_S_Weapon.anim.fbx
+│   │   │   ├── Stand--Death_S_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Death_W.anim.fbx
+│   │   │   ├── Stand--Death_W.anim.fbx.meta
+│   │   │   ├── Stand--Death_W_Weapon.anim.fbx
+│   │   │   ├── Stand--Death_W_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Engine_Noise.anim.fbx
+│   │   │   ├── Stand--Engine_Noise.anim.fbx.meta
+│   │   │   ├── Stand--Engine_Noise_Weapon.anim.fbx
+│   │   │   ├── Stand--Engine_Noise_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Grenade.anim.fbx
+│   │   │   ├── Stand--Grenade.anim.fbx.meta
+│   │   │   ├── Stand--Grenade_Weapon.anim.fbx
+│   │   │   ├── Stand--Grenade_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Idle.anim.fbx
+│   │   │   ├── Stand--Idle.anim.fbx.meta
+│   │   │   ├── Stand--Melee.anim.fbx
+│   │   │   ├── Stand--Melee.anim.fbx.meta
+│   │   │   ├── Stand--Melee_Weapon.anim.fbx
+│   │   │   ├── Stand--Melee_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Poses.anim.fbx
+│   │   │   ├── Stand--Poses.anim.fbx.meta
+│   │   │   ├── Stand--Poses_Weapon.anim.fbx
+│   │   │   ├── Stand--Poses_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Reaction_E.anim.fbx
+│   │   │   ├── Stand--Reaction_E.anim.fbx.meta
+│   │   │   ├── Stand--Reaction_E_Weapon.anim.fbx
+│   │   │   ├── Stand--Reaction_E_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Reaction_N.anim.fbx
+│   │   │   ├── Stand--Reaction_N.anim.fbx.meta
+│   │   │   ├── Stand--Reaction_N_Weapon.anim.fbx
+│   │   │   ├── Stand--Reaction_N_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Reaction_S.anim.fbx
+│   │   │   ├── Stand--Reaction_S.anim.fbx.meta
+│   │   │   ├── Stand--Reaction_S_Weapon.anim.fbx
+│   │   │   ├── Stand--Reaction_S_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Reaction_W.anim.fbx
+│   │   │   ├── Stand--Reaction_W.anim.fbx.meta
+│   │   │   ├── Stand--Reaction_W_Weapon.anim.fbx
+│   │   │   ├── Stand--Reaction_W_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Reload.anim.fbx
+│   │   │   ├── Stand--Reload.anim.fbx.meta
+│   │   │   ├── Stand--Reload_Weapon.anim.fbx
+│   │   │   ├── Stand--Reload_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Shoot.anim.fbx
+│   │   │   ├── Stand--Shoot.anim.fbx.meta
+│   │   │   ├── Stand--ShootPose.anim.fbx
+│   │   │   ├── Stand--ShootPose.anim.fbx.meta
+│   │   │   ├── Stand--Shoot_Weapon.anim.fbx
+│   │   │   ├── Stand--Shoot_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Turn_E.anim.fbx
+│   │   │   ├── Stand--Turn_E.anim.fbx.meta
+│   │   │   ├── Stand--Turn_W.anim.fbx
+│   │   │   └── Stand--Turn_W.anim.fbx.meta
+│   │   └── Clips.meta
+│   ├── Robot.meta
+│   ├── Robot_1P
+│   │   ├── AnimationSets
+│   │   │   ├── AimDrag.asset
+│   │   │   ├── AimDrag.asset.meta
+│   │   │   ├── AnimGraph_Character.asset
+│   │   │   ├── AnimGraph_Character.asset.meta
+│   │   │   ├── AnimGraph_Weapon.asset
+│   │   │   ├── AnimGraph_Weapon.asset.meta
+│   │   │   ├── Controller_Character.asset
+│   │   │   ├── Controller_Character.asset.meta
+│   │   │   ├── Controller_Weapon.asset
+│   │   │   ├── Controller_Weapon.asset.meta
+│   │   │   ├── EngineNoiseCam.asset
+│   │   │   └── EngineNoiseCam.asset.meta
+│   │   ├── AnimationSets.meta
+│   │   ├── AnimatorControllers
+│   │   │   ├── ManageRobotController.cs
+│   │   │   ├── ManageRobotController.cs.meta
+│   │   │   ├── Robot.controller
+│   │   │   ├── Robot.controller.meta
+│   │   │   ├── Robot_Weapon.overrideController
+│   │   │   └── Robot_Weapon.overrideController.meta
+│   │   ├── AnimatorControllers.meta
+│   │   ├── Clips
+│   │   │   ├── Firstperson--Additive_Shoot.anim.fbx
+│   │   │   ├── Firstperson--Additive_Shoot.anim.fbx.meta
+│   │   │   ├── Firstperson--Grenade.anim.fbx
+│   │   │   ├── Firstperson--Grenade.anim.fbx.meta
+│   │   │   ├── Firstperson--Grenade_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Grenade_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--HitReaction.anim.fbx
+│   │   │   ├── Firstperson--HitReaction.anim.fbx.meta
+│   │   │   ├── Firstperson--HitReaction_Weapon.anim.fbx
+│   │   │   ├── Firstperson--HitReaction_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Idle.anim.fbx
+│   │   │   ├── Firstperson--Idle.anim.fbx.meta
+│   │   │   ├── Firstperson--Idle_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Idle_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--InAir.anim.fbx
+│   │   │   ├── Firstperson--InAir.anim.fbx.meta
+│   │   │   ├── Firstperson--InAir_Weapon.anim.fbx
+│   │   │   ├── Firstperson--InAir_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Jump_HardLand.anim.fbx
+│   │   │   ├── Firstperson--Jump_HardLand.anim.fbx.meta
+│   │   │   ├── Firstperson--Jump_HardLand_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Jump_HardLand_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--LandToStand.anim.fbx
+│   │   │   ├── Firstperson--LandToStand.anim.fbx.meta
+│   │   │   ├── Firstperson--LandToStand_Weapon.anim.fbx
+│   │   │   ├── Firstperson--LandToStand_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Melee.anim.fbx
+│   │   │   ├── Firstperson--Melee.anim.fbx.meta
+│   │   │   ├── Firstperson--Melee_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Melee_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Reload.anim.fbx
+│   │   │   ├── Firstperson--Reload.anim.fbx.meta
+│   │   │   ├── Firstperson--Reload_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Reload_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Run.anim.fbx
+│   │   │   ├── Firstperson--Run.anim.fbx.meta
+│   │   │   ├── Firstperson--Run_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Run_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Shoot.anim.fbx
+│   │   │   ├── Firstperson--Shoot.anim.fbx.meta
+│   │   │   ├── Firstperson--Shoot_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Shoot_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Sprint.anim.fbx
+│   │   │   ├── Firstperson--Sprint.anim.fbx.meta
+│   │   │   ├── Firstperson--Sprint_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Sprint_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--StandToJump.anim.fbx
+│   │   │   ├── Firstperson--StandToJump.anim.fbx.meta
+│   │   │   ├── Firstperson--StandToJump_Weapon.anim.fbx
+│   │   │   ├── Firstperson--StandToJump_Weapon.anim.fbx.meta
+│   │   │   ├── Robot_1P_LeftArm.mask
+│   │   │   └── Robot_1P_LeftArm.mask.meta
+│   │   └── Clips.meta
+│   ├── Robot_1P.meta
+│   ├── Terraformer
+│   │   ├── AnimationSets
+│   │   │   ├── AnimGraph.asset
+│   │   │   ├── AnimGraph.asset.meta
+│   │   │   ├── AnimStateSelector.asset
+│   │   │   ├── AnimStateSelector.asset.meta
+│   │   │   ├── Banking.asset
+│   │   │   ├── Banking.asset.meta
+│   │   │   ├── DamageReaction.asset
+│   │   │   ├── DamageReaction.asset.meta
+│   │   │   ├── Death.asset
+│   │   │   ├── Death.asset.meta
+│   │   │   ├── Emote.asset
+│   │   │   ├── Emote.asset.meta
+│   │   │   ├── InAir.asset
+│   │   │   ├── InAir.asset.meta
+│   │   │   ├── InAirRun.asset
+│   │   │   ├── InAirRun.asset.meta
+│   │   │   ├── InAirSprint.asset
+│   │   │   ├── InAirSprint.asset.meta
+│   │   │   ├── Jump.asset
+│   │   │   ├── Jump.asset.meta
+│   │   │   ├── JumpRun.asset
+│   │   │   ├── JumpRun.asset.meta
+│   │   │   ├── JumpSprint.asset
+│   │   │   ├── JumpSprint.asset.meta
+│   │   │   ├── Locomotion.asset
+│   │   │   ├── Locomotion.asset.meta
+│   │   │   ├── OffhandIK.asset
+│   │   │   ├── OffhandIK.asset.meta
+│   │   │   ├── Run.asset
+│   │   │   ├── Run.asset.meta
+│   │   │   ├── Sprint.asset
+│   │   │   ├── Sprint.asset.meta
+│   │   │   ├── Squash.asset
+│   │   │   ├── Squash.asset.meta
+│   │   │   ├── Stand.asset
+│   │   │   └── Stand.asset.meta
+│   │   ├── AnimationSets.meta
+│   │   ├── Clips
+│   │   │   ├── Emotes--Defeat.anim.fbx
+│   │   │   ├── Emotes--Defeat.anim.fbx.meta
+│   │   │   ├── Emotes--ExamineSoil.anim.fbx
+│   │   │   ├── Emotes--ExamineSoil.anim.fbx.meta
+│   │   │   ├── Emotes--Victory.anim.fbx
+│   │   │   ├── Emotes--Victory.anim.fbx.meta
+│   │   │   ├── Jump--AimDownToUp.anim.fbx
+│   │   │   ├── Jump--AimDownToUp.anim.fbx.meta
+│   │   │   ├── Jump--AimDownToUp_Sprint.anim.fbx
+│   │   │   ├── Jump--AimDownToUp_Sprint.anim.fbx.meta
+│   │   │   ├── Jump--BodySquash.anim.fbx
+│   │   │   ├── Jump--BodySquash.anim.fbx.meta
+│   │   │   ├── Jump--Grenade.anim.fbx
+│   │   │   ├── Jump--Grenade.anim.fbx.meta
+│   │   │   ├── Jump--InAir.anim.fbx
+│   │   │   ├── Jump--InAir.anim.fbx.meta
+│   │   │   ├── Jump--InAir_LandAntic.anim.fbx
+│   │   │   ├── Jump--InAir_LandAntic.anim.fbx.meta
+│   │   │   ├── Jump--InAir_LandAntic_Sprint.anim.fbx
+│   │   │   ├── Jump--InAir_LandAntic_Sprint.anim.fbx.meta
+│   │   │   ├── Jump--InAir_Sprint.anim.fbx
+│   │   │   ├── Jump--InAir_Sprint.anim.fbx.meta
+│   │   │   ├── Jump--Jump_HardLand.anim.fbx
+│   │   │   ├── Jump--Jump_HardLand.anim.fbx.meta
+│   │   │   ├── Jump--LandToStand.anim.fbx
+│   │   │   ├── Jump--LandToStand.anim.fbx.meta
+│   │   │   ├── Jump--LandToStand_Sprint.anim.fbx
+│   │   │   ├── Jump--LandToStand_Sprint.anim.fbx.meta
+│   │   │   ├── Jump--Melee.anim.fbx
+│   │   │   ├── Jump--Melee.anim.fbx.meta
+│   │   │   ├── Jump--Reload.anim.fbx
+│   │   │   ├── Jump--Reload.anim.fbx.meta
+│   │   │   ├── Jump--Reload_Weapon.anim.fbx
+│   │   │   ├── Jump--Reload_Weapon.anim.fbx.meta
+│   │   │   ├── Jump--Shoot.anim.fbx
+│   │   │   ├── Jump--Shoot.anim.fbx.meta
+│   │   │   ├── Jump--StandToJump.anim.fbx
+│   │   │   ├── Jump--StandToJump.anim.fbx.meta
+│   │   │   ├── Jump--StandToJump_Sprint.anim.fbx
+│   │   │   ├── Jump--StandToJump_Sprint.anim.fbx.meta
+│   │   │   ├── Locomotion--AimDownToUp.anim.fbx
+│   │   │   ├── Locomotion--AimDownToUp.anim.fbx.meta
+│   │   │   ├── Locomotion--AimDownToUp_Sprint.anim.fbx
+│   │   │   ├── Locomotion--AimDownToUp_Sprint.anim.fbx.meta
+│   │   │   ├── Locomotion--Banking.anim.fbx
+│   │   │   ├── Locomotion--Banking.anim.fbx.meta
+│   │   │   ├── Locomotion--Grenade.anim.fbx
+│   │   │   ├── Locomotion--Grenade.anim.fbx.meta
+│   │   │   ├── Locomotion--Melee.anim.fbx
+│   │   │   ├── Locomotion--Melee.anim.fbx.meta
+│   │   │   ├── Locomotion--Reload.anim.fbx
+│   │   │   ├── Locomotion--Reload.anim.fbx.meta
+│   │   │   ├── Locomotion--RunInPlace.anim.fbx
+│   │   │   ├── Locomotion--RunInPlace.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_E.anim.fbx
+│   │   │   ├── Locomotion--Run_E.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_N.anim.fbx
+│   │   │   ├── Locomotion--Run_N.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_NE.anim.fbx
+│   │   │   ├── Locomotion--Run_NE.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_NW.anim.fbx
+│   │   │   ├── Locomotion--Run_NW.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_S.anim.fbx
+│   │   │   ├── Locomotion--Run_S.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_SE.anim.fbx
+│   │   │   ├── Locomotion--Run_SE.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_SW.anim.fbx
+│   │   │   ├── Locomotion--Run_SW.anim.fbx.meta
+│   │   │   ├── Locomotion--Run_W.anim.fbx
+│   │   │   ├── Locomotion--Run_W.anim.fbx.meta
+│   │   │   ├── Locomotion--Shoot.anim.fbx
+│   │   │   ├── Locomotion--Shoot.anim.fbx.meta
+│   │   │   ├── Locomotion--Sprint_N.anim.fbx
+│   │   │   ├── Locomotion--Sprint_N.anim.fbx.meta
+│   │   │   ├── Locomotion--Sprint_NE.anim.fbx
+│   │   │   ├── Locomotion--Sprint_NE.anim.fbx.meta
+│   │   │   ├── Locomotion--Sprint_NW.anim.fbx
+│   │   │   ├── Locomotion--Sprint_NW.anim.fbx.meta
+│   │   │   ├── Locomotion--Start_Run_Stop.anim.fbx
+│   │   │   ├── Locomotion--Start_Run_Stop.anim.fbx.meta
+│   │   │   ├── Sequences
+│   │   │   │   ├── TF_Menu--TF_Idle.anim.fbx
+│   │   │   │   ├── TF_Menu--TF_Idle.anim.fbx.meta
+│   │   │   │   ├── TF_Menu--TF_Idle_Enter.anim.fbx
+│   │   │   │   ├── TF_Menu--TF_Idle_Enter.anim.fbx.meta
+│   │   │   │   ├── TF_Menu--TF_Idle_Enter_Weapon.anim.fbx
+│   │   │   │   ├── TF_Menu--TF_Idle_Enter_Weapon.anim.fbx.meta
+│   │   │   │   ├── TF_Menu--TF_Idle_Exit.anim.fbx
+│   │   │   │   ├── TF_Menu--TF_Idle_Exit.anim.fbx.meta
+│   │   │   │   ├── TF_Menu--TF_Idle_Exit_Weapon.anim.fbx
+│   │   │   │   ├── TF_Menu--TF_Idle_Exit_Weapon.anim.fbx.meta
+│   │   │   │   ├── TF_Menu--TF_Idle_Weapon.anim.fbx
+│   │   │   │   ├── TF_Menu--TF_Idle_Weapon.anim.fbx.meta
+│   │   │   │   ├── TF_RB_Menu--RB_Idle.anim.fbx
+│   │   │   │   ├── TF_RB_Menu--RB_Idle.anim.fbx.meta
+│   │   │   │   ├── TF_RB_Menu--RB_Idle_Enter.anim.fbx
+│   │   │   │   ├── TF_RB_Menu--RB_Idle_Enter.anim.fbx.meta
+│   │   │   │   ├── TF_RB_Menu--RB_Idle_Enter_Weapon.anim.fbx
+│   │   │   │   ├── TF_RB_Menu--RB_Idle_Enter_Weapon.anim.fbx.meta
+│   │   │   │   ├── TF_RB_Menu--RB_Idle_Exit.anim.fbx
+│   │   │   │   ├── TF_RB_Menu--RB_Idle_Exit.anim.fbx.meta
+│   │   │   │   ├── TF_RB_Menu--RB_Idle_Exit_Weapon.anim.fbx
+│   │   │   │   ├── TF_RB_Menu--RB_Idle_Exit_Weapon.anim.fbx.meta
+│   │   │   │   ├── TF_RB_Menu--RB_Idle_Weapon.anim.fbx
+│   │   │   │   ├── TF_RB_Menu--RB_Idle_Weapon.anim.fbx.meta
+│   │   │   │   ├── TF_RB_Menu--TF_Idle.anim.fbx
+│   │   │   │   ├── TF_RB_Menu--TF_Idle.anim.fbx.meta
+│   │   │   │   ├── TF_RB_Menu--TF_Idle_Enter.anim.fbx
+│   │   │   │   ├── TF_RB_Menu--TF_Idle_Enter.anim.fbx.meta
+│   │   │   │   ├── TF_RB_Menu--TF_Idle_Enter_Weapon.anim.fbx
+│   │   │   │   ├── TF_RB_Menu--TF_Idle_Enter_Weapon.anim.fbx.meta
+│   │   │   │   ├── TF_RB_Menu--TF_Idle_Exit.anim.fbx
+│   │   │   │   ├── TF_RB_Menu--TF_Idle_Exit.anim.fbx.meta
+│   │   │   │   ├── TF_RB_Menu--TF_Idle_Exit_Weapon.anim.fbx
+│   │   │   │   ├── TF_RB_Menu--TF_Idle_Exit_Weapon.anim.fbx.meta
+│   │   │   │   ├── TF_RB_Menu--TF_Idle_Weapon.anim.fbx
+│   │   │   │   ├── TF_RB_Menu--TF_Idle_Weapon.anim.fbx.meta
+│   │   │   │   ├── Terraformer_Menu--Background_JoinGame.anim.fbx
+│   │   │   │   ├── Terraformer_Menu--Background_JoinGame.anim.fbx.meta
+│   │   │   │   ├── Terraformer_Menu--Background_JoinGame_Weapon.anim.fbx
+│   │   │   │   ├── Terraformer_Menu--Background_JoinGame_Weapon.anim.fbx.meta
+│   │   │   │   ├── Terraformer_Menu--BehindCover_JoinGame.anim.fbx
+│   │   │   │   ├── Terraformer_Menu--BehindCover_JoinGame.anim.fbx.meta
+│   │   │   │   ├── Terraformer_Menu--BehindCover_JoinGame_Weapon.anim.fbx
+│   │   │   │   ├── Terraformer_Menu--BehindCover_JoinGame_Weapon.anim.fbx.meta
+│   │   │   │   ├── Terraformer_Menu--Idle.anim.fbx
+│   │   │   │   ├── Terraformer_Menu--Idle.anim.fbx.meta
+│   │   │   │   ├── Terraformer_Menu--Idle_Enter.anim.fbx
+│   │   │   │   ├── Terraformer_Menu--Idle_Enter.anim.fbx.meta
+│   │   │   │   ├── Terraformer_Menu--Idle_Enter_Weapon.anim.fbx
+│   │   │   │   ├── Terraformer_Menu--Idle_Enter_Weapon.anim.fbx.meta
+│   │   │   │   ├── Terraformer_Menu--Idle_Exit.anim.fbx
+│   │   │   │   ├── Terraformer_Menu--Idle_Exit.anim.fbx.meta
+│   │   │   │   ├── Terraformer_Menu--Idle_Exit_Weapon.anim.fbx
+│   │   │   │   ├── Terraformer_Menu--Idle_Exit_Weapon.anim.fbx.meta
+│   │   │   │   ├── Terraformer_Menu--Idle_Weapon.anim.fbx
+│   │   │   │   ├── Terraformer_Menu--Idle_Weapon.anim.fbx.meta
+│   │   │   │   ├── Terraformer_VictoryDefeat--Defeat_Emote.anim.fbx
+│   │   │   │   ├── Terraformer_VictoryDefeat--Defeat_Emote.anim.fbx.meta
+│   │   │   │   ├── Terraformer_VictoryDefeat--Victory_Emote.anim.fbx
+│   │   │   │   └── Terraformer_VictoryDefeat--Victory_Emote.anim.fbx.meta
+│   │   │   ├── Sequences.meta
+│   │   │   ├── Stand--Aim_E.anim.fbx
+│   │   │   ├── Stand--Aim_E.anim.fbx.meta
+│   │   │   ├── Stand--Aim_E_Scope.anim.fbx
+│   │   │   ├── Stand--Aim_E_Scope.anim.fbx.meta
+│   │   │   ├── Stand--Aim_Mid.anim.fbx
+│   │   │   ├── Stand--Aim_Mid.anim.fbx.meta
+│   │   │   ├── Stand--Aim_Mid_Scope.anim.fbx
+│   │   │   ├── Stand--Aim_Mid_Scope.anim.fbx.meta
+│   │   │   ├── Stand--Aim_W.anim.fbx
+│   │   │   ├── Stand--Aim_W.anim.fbx.meta
+│   │   │   ├── Stand--Aim_W_Scope.anim.fbx
+│   │   │   ├── Stand--Aim_W_Scope.anim.fbx.meta
+│   │   │   ├── Stand--Crouch_Idle.anim.fbx
+│   │   │   ├── Stand--Crouch_Idle.anim.fbx.meta
+│   │   │   ├── Stand--Death_E.anim.fbx
+│   │   │   ├── Stand--Death_E.anim.fbx.meta
+│   │   │   ├── Stand--Death_N.anim.fbx
+│   │   │   ├── Stand--Death_N.anim.fbx.meta
+│   │   │   ├── Stand--Death_S.anim.fbx
+│   │   │   ├── Stand--Death_S.anim.fbx.meta
+│   │   │   ├── Stand--Death_W.anim.fbx
+│   │   │   ├── Stand--Death_W.anim.fbx.meta
+│   │   │   ├── Stand--Grenade.anim.fbx
+│   │   │   ├── Stand--Grenade.anim.fbx.meta
+│   │   │   ├── Stand--Grenade_Weapon.anim.fbx
+│   │   │   ├── Stand--Grenade_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Idle.anim.fbx
+│   │   │   ├── Stand--Idle.anim.fbx.meta
+│   │   │   ├── Stand--Melee.anim.fbx
+│   │   │   ├── Stand--Melee.anim.fbx.meta
+│   │   │   ├── Stand--Melee_Weapon.anim.fbx
+│   │   │   ├── Stand--Melee_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Poses.anim.fbx
+│   │   │   ├── Stand--Poses.anim.fbx.meta
+│   │   │   ├── Stand--Poses_Weapon.anim.fbx
+│   │   │   ├── Stand--Poses_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Reaction_E.anim.fbx
+│   │   │   ├── Stand--Reaction_E.anim.fbx.meta
+│   │   │   ├── Stand--Reaction_N.anim.fbx
+│   │   │   ├── Stand--Reaction_N.anim.fbx.meta
+│   │   │   ├── Stand--Reaction_S.anim.fbx
+│   │   │   ├── Stand--Reaction_S.anim.fbx.meta
+│   │   │   ├── Stand--Reaction_W.anim.fbx
+│   │   │   ├── Stand--Reaction_W.anim.fbx.meta
+│   │   │   ├── Stand--Reload.anim.fbx
+│   │   │   ├── Stand--Reload.anim.fbx.meta
+│   │   │   ├── Stand--Reload_Weapon.anim.fbx
+│   │   │   ├── Stand--Reload_Weapon.anim.fbx.meta
+│   │   │   ├── Stand--Shoot.anim.fbx
+│   │   │   ├── Stand--Shoot.anim.fbx.meta
+│   │   │   ├── Stand--ShootPose.anim.fbx
+│   │   │   ├── Stand--ShootPose.anim.fbx.meta
+│   │   │   ├── Stand--Turn_E.anim.fbx
+│   │   │   ├── Stand--Turn_E.anim.fbx.meta
+│   │   │   ├── Stand--Turn_W.anim.fbx
+│   │   │   └── Stand--Turn_W.anim.fbx.meta
+│   │   └── Clips.meta
+│   ├── Terraformer.meta
+│   ├── Terraformer_1P
+│   │   ├── AnimationSets
+│   │   │   ├── AimDrag.asset
+│   │   │   ├── AimDrag.asset.meta
+│   │   │   ├── AnimGraph_Character.asset
+│   │   │   ├── AnimGraph_Character.asset.meta
+│   │   │   ├── AnimGraph_Weapon.asset
+│   │   │   ├── AnimGraph_Weapon.asset.meta
+│   │   │   ├── Controller_Character.asset
+│   │   │   ├── Controller_Character.asset.meta
+│   │   │   ├── Controller_Weapon.asset
+│   │   │   ├── Controller_Weapon.asset.meta
+│   │   │   ├── OffhandIK.asset
+│   │   │   └── OffhandIK.asset.meta
+│   │   ├── AnimationSets.meta
+│   │   ├── AnimatorControllers
+│   │   │   ├── ManageTerraformerController.cs
+│   │   │   ├── ManageTerraformerController.cs.meta
+│   │   │   ├── Terraformer.controller
+│   │   │   ├── Terraformer.controller.meta
+│   │   │   ├── Terraformer_Weapon.overrideController
+│   │   │   └── Terraformer_Weapon.overrideController.meta
+│   │   ├── AnimatorControllers.meta
+│   │   ├── Clips
+│   │   │   ├── Firstperson--Additive_Shoot.anim.fbx
+│   │   │   ├── Firstperson--Additive_Shoot.anim.fbx.meta
+│   │   │   ├── Firstperson--GrabEdge.anim.fbx
+│   │   │   ├── Firstperson--GrabEdge.anim.fbx.meta
+│   │   │   ├── Firstperson--GrabEdge_Weapon.anim.fbx
+│   │   │   ├── Firstperson--GrabEdge_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Grenade.anim.fbx
+│   │   │   ├── Firstperson--Grenade.anim.fbx.meta
+│   │   │   ├── Firstperson--Grenade_Goo.anim.fbx
+│   │   │   ├── Firstperson--Grenade_Goo.anim.fbx.meta
+│   │   │   ├── Firstperson--Grenade_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Grenade_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--HitReaction.anim.fbx
+│   │   │   ├── Firstperson--HitReaction.anim.fbx.meta
+│   │   │   ├── Firstperson--HitReaction_Weapon.anim.fbx
+│   │   │   ├── Firstperson--HitReaction_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Idle.anim.fbx
+│   │   │   ├── Firstperson--Idle.anim.fbx.meta
+│   │   │   ├── Firstperson--Idle_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Idle_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--InAir.anim.fbx
+│   │   │   ├── Firstperson--InAir.anim.fbx.meta
+│   │   │   ├── Firstperson--InAir_Sprint.anim.fbx
+│   │   │   ├── Firstperson--InAir_Sprint.anim.fbx.meta
+│   │   │   ├── Firstperson--InAir_Sprint_Weapon.anim.fbx
+│   │   │   ├── Firstperson--InAir_Sprint_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--InAir_Weapon.anim.fbx
+│   │   │   ├── Firstperson--InAir_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Jump_HardLand.anim.fbx
+│   │   │   ├── Firstperson--Jump_HardLand.anim.fbx.meta
+│   │   │   ├── Firstperson--Jump_HardLand_Sprint.anim.fbx
+│   │   │   ├── Firstperson--Jump_HardLand_Sprint.anim.fbx.meta
+│   │   │   ├── Firstperson--Jump_HardLand_Sprint_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Jump_HardLand_Sprint_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Jump_HardLand_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Jump_HardLand_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--LandToStand.anim.fbx
+│   │   │   ├── Firstperson--LandToStand.anim.fbx.meta
+│   │   │   ├── Firstperson--LandToStand_Sprint.anim.fbx
+│   │   │   ├── Firstperson--LandToStand_Sprint.anim.fbx.meta
+│   │   │   ├── Firstperson--LandToStand_Sprint_Weapon.anim.fbx
+│   │   │   ├── Firstperson--LandToStand_Sprint_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--LandToStand_Weapon.anim.fbx
+│   │   │   ├── Firstperson--LandToStand_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Melee.anim.fbx
+│   │   │   ├── Firstperson--Melee.anim.fbx.meta
+│   │   │   ├── Firstperson--Melee_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Melee_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Reload.anim.fbx
+│   │   │   ├── Firstperson--Reload.anim.fbx.meta
+│   │   │   ├── Firstperson--Reload_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Reload_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Run.anim.fbx
+│   │   │   ├── Firstperson--Run.anim.fbx.meta
+│   │   │   ├── Firstperson--Run_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Run_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--ScopeAim.anim.fbx
+│   │   │   ├── Firstperson--ScopeAim.anim.fbx.meta
+│   │   │   ├── Firstperson--ScopeAim_Weapon.anim.fbx
+│   │   │   ├── Firstperson--ScopeAim_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Shoot.anim.fbx
+│   │   │   ├── Firstperson--Shoot.anim.fbx.meta
+│   │   │   ├── Firstperson--Shoot_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Shoot_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Sprint.anim.fbx
+│   │   │   ├── Firstperson--Sprint.anim.fbx.meta
+│   │   │   ├── Firstperson--Sprint_To_Run.anim.fbx
+│   │   │   ├── Firstperson--Sprint_To_Run.anim.fbx.meta
+│   │   │   ├── Firstperson--Sprint_To_Run_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Sprint_To_Run_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--Sprint_Weapon.anim.fbx
+│   │   │   ├── Firstperson--Sprint_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--StandToJump.anim.fbx
+│   │   │   ├── Firstperson--StandToJump.anim.fbx.meta
+│   │   │   ├── Firstperson--StandToJump_Sprint.anim.fbx
+│   │   │   ├── Firstperson--StandToJump_Sprint.anim.fbx.meta
+│   │   │   ├── Firstperson--StandToJump_Sprint_Weapon.anim.fbx
+│   │   │   ├── Firstperson--StandToJump_Sprint_Weapon.anim.fbx.meta
+│   │   │   ├── Firstperson--StandToJump_Weapon.anim.fbx
+│   │   │   └── Firstperson--StandToJump_Weapon.anim.fbx.meta
+│   │   └── Clips.meta
+│   └── Terraformer_1P.meta
+├── Characters.meta
+├── Environment
+│   ├── Props
+│   │   ├── Foliage
+│   │   │   ├── Flower_Alien_Big_A
+│   │   │   │   ├── Flower_Alien_Animator_BoredEgg.controller
+│   │   │   │   ├── Flower_Alien_Animator_BoredEgg.controller.meta
+│   │   │   │   ├── Flower_Alien_Animator_CrashedEgg.controller
+│   │   │   │   └── Flower_Alien_Animator_CrashedEgg.controller.meta
+│   │   │   └── Flower_Alien_Big_A.meta
+│   │   ├── Foliage.meta
+│   │   ├── Machines
+│   │   │   ├── Factory_Crane_A
+│   │   │   │   ├── Crane_Animator.controller
+│   │   │   │   └── Crane_Animator.controller.meta
+│   │   │   └── Factory_Crane_A.meta
+│   │   ├── Machines.meta
+│   │   ├── Rocks
+│   │   │   ├── Rock_A.fbx
+│   │   │   ├── Rock_A.fbx.meta
+│   │   │   ├── Rock_B.fbx
+│   │   │   ├── Rock_B.fbx.meta
+│   │   │   ├── Rock_C.fbx
+│   │   │   ├── Rock_C.fbx.meta
+│   │   │   ├── Rock_D.fbx
+│   │   │   ├── Rock_D.fbx.meta
+│   │   │   ├── Rock_E.fbx
+│   │   │   └── Rock_E.fbx.meta
+│   │   └── Rocks.meta
+│   ├── Props.meta
+│   ├── Screenshots
+│   │   ├── Timeline_Header_A.playable
+│   │   ├── Timeline_Header_A.playable.meta
+│   │   ├── Timeline_Screenshot_FPS_A.playable
+│   │   ├── Timeline_Screenshot_FPS_A.playable.meta
+│   │   ├── Timeline_Screenshot_FPS_B.playable
+│   │   ├── Timeline_Screenshot_FPS_B.playable.meta
+│   │   ├── Timeline_Screenshot_FPS_C.playable
+│   │   ├── Timeline_Screenshot_FPS_C.playable.meta
+│   │   ├── Timeline_Screenshot_FPS_D.playable
+│   │   ├── Timeline_Screenshot_FPS_D.playable.meta
+│   │   ├── Timeline_Screenshot_FPS_E.playable
+│   │   ├── Timeline_Screenshot_FPS_E.playable.meta
+│   │   ├── Timeline_Screenshot_FPS_F.playable
+│   │   ├── Timeline_Screenshot_FPS_F.playable.meta
+│   │   ├── Timeline_Screenshot_FPS_G.playable
+│   │   └── Timeline_Screenshot_FPS_G.playable.meta
+│   ├── Screenshots.meta
+│   ├── Vehicles
+│   │   ├── Spaceships
+│   │   │   ├── Spaceship_Background_A
+│   │   │   │   ├── Spaceship_Background_A_Forward_01.playable
+│   │   │   │   ├── Spaceship_Background_A_Forward_01.playable.meta
+│   │   │   │   ├── Spaceship_Background_A_Forward_02.playable
+│   │   │   │   ├── Spaceship_Background_A_Forward_02.playable.meta
+│   │   │   │   ├── Spaceship_Background_A_Forward_03.playable
+│   │   │   │   ├── Spaceship_Background_A_Forward_03.playable.meta
+│   │   │   │   ├── Spaceship_Background_A_Forward_04.playable
+│   │   │   │   ├── Spaceship_Background_A_Forward_04.playable.meta
+│   │   │   │   ├── Spaceship_Background_A_Forward_05.playable
+│   │   │   │   ├── Spaceship_Background_A_Forward_05.playable.meta
+│   │   │   │   ├── Spaceship_Background_A_Idle_01.playable
+│   │   │   │   └── Spaceship_Background_A_Idle_01.playable.meta
+│   │   │   └── Spaceship_Background_A.meta
+│   │   ├── Spaceships.meta
+│   │   ├── Tunnel_Digger_A
+│   │   │   ├── Animator_Tunnel_Digger.controller
+│   │   │   └── Animator_Tunnel_Digger.controller.meta
+│   │   └── Tunnel_Digger_A.meta
+│   └── Vehicles.meta
+├── Environment.meta
+├── Weapons
+│   ├── Terraformer_Weapon_A
+│   │   ├── VFX
+│   │   │   ├── Spotlight.controller
+│   │   │   ├── Spotlight.controller.meta
+│   │   │   ├── VFX_Anim_Muzzle_Flash_Light_A.anim
+│   │   │   └── VFX_Anim_Muzzle_Flash_Light_A.anim.meta
+│   │   └── VFX.meta
+│   └── Terraformer_Weapon_A.meta
+└── Weapons.meta
+
+" }

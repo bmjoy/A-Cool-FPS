@@ -1,0 +1,16 @@
+{"TREE" : "GITSTRUCTURESERVER"} : { "RETURN" : "UNITYHDRI", "REQUEST" : "git@github/server/Individual/Snowynx/UnityHDRI/..",
+"
+.
+├── Gareoult
+│   ├── GareoultWhiteBalanced.exr
+│   ├── GareoultWhiteBalanced.exr.meta
+│   ├── GareoultWhiteBalanced.mat
+│   ├── GareoultWhiteBalanced.mat.meta
+│   ├── GareoultWhiteBalancedNoSun.exr
+│   ├── GareoultWhiteBalancedNoSun.exr.meta
+│   ├── GareoultWhiteBalancedNoSun.mat
+│   ├── GareoultWhiteBalancedNoSun.mat.meta
+│   ├── Info.txt
+│   └── Info.txt.meta
+└── Gareoult.meta
+"  }

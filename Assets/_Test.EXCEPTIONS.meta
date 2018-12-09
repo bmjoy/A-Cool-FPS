@@ -1,0 +1,3 @@
+GET_FROM: "_Test.meta"
+READ_FROM: "_Test.json"
+EXCEPTION_FLAG: true

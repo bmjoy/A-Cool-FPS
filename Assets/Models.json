@@ -1,0 +1,1088 @@
+{"TREE" : "GITSTRUCTURESERVER"} : { "RETURN" : "SCENES", "REQUEST" : "git@github/server/Individual/Snowynx/Models/..",
+"
+.
+├── Characters
+│   ├── Robot
+│   │   ├── Robot_A--FirstPerson.fbx
+│   │   ├── Robot_A--FirstPerson.fbx.meta
+│   │   ├── Robot_A--Menu.fbx
+│   │   ├── Robot_A--Menu.fbx.meta
+│   │   ├── Robot_A.fbx
+│   │   ├── Robot_A.fbx.meta
+│   │   ├── Robot_A_Default.mask
+│   │   ├── Robot_A_Default.mask.meta
+│   │   ├── Robot_A_Default_FirstPerson.mask
+│   │   ├── Robot_A_Default_FirstPerson.mask.meta
+│   │   ├── Robot_Basic.fbx
+│   │   └── Robot_Basic.fbx.meta
+│   ├── Robot.meta
+│   ├── Terraformer
+│   │   ├── Terraformer_A--FirstPerson.fbx
+│   │   ├── Terraformer_A--FirstPerson.fbx.meta
+│   │   ├── Terraformer_A--Menu.fbx
+│   │   ├── Terraformer_A--Menu.fbx.meta
+│   │   ├── Terraformer_A.fbx
+│   │   ├── Terraformer_A.fbx.meta
+│   │   ├── Terraformer_A_Default.mask
+│   │   ├── Terraformer_A_Default.mask.meta
+│   │   ├── Terraformer_A_FirstPerson.mask
+│   │   ├── Terraformer_A_FirstPerson.mask.meta
+│   │   ├── Terraformer_A_Menu.mask
+│   │   ├── Terraformer_A_Menu.mask.meta
+│   │   ├── Terraformer_Basic.fbx
+│   │   └── Terraformer_Basic.fbx.meta
+│   └── Terraformer.meta
+├── Characters.meta
+├── Effects
+│   ├── Impacts
+│   │   ├── Impact_Rocket_Terraformer_A
+│   │   │   ├── Impact_Rocket_Terraformer_A.FBX
+│   │   │   └── Impact_Rocket_Terraformer_A.FBX.meta
+│   │   └── Impact_Rocket_Terraformer_A.meta
+│   └── Impacts.meta
+├── Effects.meta
+├── Environment
+│   ├── Backdrop
+│   │   ├── Asteroid_Belt_A
+│   │   │   ├── Asteroid_A.fbx
+│   │   │   ├── Asteroid_A.fbx.meta
+│   │   │   ├── Asteroid_B.fbx
+│   │   │   ├── Asteroid_B.fbx.meta
+│   │   │   ├── Asteroid_Belt_A.fbx
+│   │   │   ├── Asteroid_Belt_A.fbx.meta
+│   │   │   ├── Asteroid_C.fbx
+│   │   │   └── Asteroid_C.fbx.meta
+│   │   └── Asteroid_Belt_A.meta
+│   ├── Backdrop.meta
+│   ├── Environment_Tileset_Scifi_A
+│   │   ├── Ceiling_Corner_Interior_Concave_200_A.fbx
+│   │   ├── Ceiling_Corner_Interior_Concave_200_A.fbx.meta
+│   │   ├── Ceiling_Corner_Interior_Concave_Angled_200_A.fbx
+│   │   ├── Ceiling_Corner_Interior_Concave_Angled_200_A.fbx.meta
+│   │   ├── Ceiling_Corner_Interior_Concave_Angled_400_A.fbx
+│   │   ├── Ceiling_Corner_Interior_Concave_Angled_400_A.fbx.meta
+│   │   ├── Ceiling_Corner_Interior_Convex_200_A.fbx
+│   │   ├── Ceiling_Corner_Interior_Convex_200_A.fbx.meta
+│   │   ├── Ceiling_Corner_Interior_Convex_Angled_400_A.fbx
+│   │   ├── Ceiling_Corner_Interior_Convex_Angled_400_A.fbx.meta
+│   │   ├── Ceiling_Corner_Interior_Convex_Angled_600_A.fbx
+│   │   ├── Ceiling_Corner_Interior_Convex_Angled_600_A.fbx.meta
+│   │   ├── Ceiling_Interior_200x200_A.fbx
+│   │   ├── Ceiling_Interior_200x200_A.fbx.meta
+│   │   ├── Ceiling_Interior_200x400_A.fbx
+│   │   ├── Ceiling_Interior_200x400_A.fbx.meta
+│   │   ├── Ceiling_Interior_400x400_A.fbx
+│   │   ├── Ceiling_Interior_400x400_A.fbx.meta
+│   │   ├── Ceiling_Interior_800x800_A.fbx
+│   │   ├── Ceiling_Interior_800x800_A.fbx.meta
+│   │   ├── Ceiling_Intersection_Corner_Interior_Concave_200_A.fbx
+│   │   ├── Ceiling_Intersection_Corner_Interior_Concave_200_A.fbx.meta
+│   │   ├── Ceiling_Intersection_Corner_Interior_Concave_Angled_200_A.fbx
+│   │   ├── Ceiling_Intersection_Corner_Interior_Concave_Angled_200_A.fbx.meta
+│   │   ├── Ceiling_Intersection_Corner_Interior_Concave_Angled_400_A.fbx
+│   │   ├── Ceiling_Intersection_Corner_Interior_Concave_Angled_400_A.fbx.meta
+│   │   ├── Ceiling_Intersection_Corner_Interior_Convex_200_A.fbx
+│   │   ├── Ceiling_Intersection_Corner_Interior_Convex_200_A.fbx.meta
+│   │   ├── Ceiling_Intersection_Corner_Interior_Convex_Angled_400_A.fbx
+│   │   ├── Ceiling_Intersection_Corner_Interior_Convex_Angled_400_A.fbx.meta
+│   │   ├── Ceiling_Intersection_Corner_Interior_Convex_Angled_600_A.fbx
+│   │   ├── Ceiling_Intersection_Corner_Interior_Convex_Angled_600_A.fbx.meta
+│   │   ├── Ceiling_Intersection_Interior_1200_A.fbx
+│   │   ├── Ceiling_Intersection_Interior_1200_A.fbx.meta
+│   │   ├── Ceiling_Intersection_Interior_200_A.fbx
+│   │   ├── Ceiling_Intersection_Interior_200_A.fbx.meta
+│   │   ├── Ceiling_Intersection_Interior_400_A.fbx
+│   │   ├── Ceiling_Intersection_Interior_400_A.fbx.meta
+│   │   ├── Ceiling_Intersection_Interior_800_A.fbx
+│   │   ├── Ceiling_Intersection_Interior_800_A.fbx.meta
+│   │   ├── Ceiling_Wall_Interior_1200_A.fbx
+│   │   ├── Ceiling_Wall_Interior_1200_A.fbx.meta
+│   │   ├── Ceiling_Wall_Interior_200_A.fbx
+│   │   ├── Ceiling_Wall_Interior_200_A.fbx.meta
+│   │   ├── Ceiling_Wall_Interior_400_A.fbx
+│   │   ├── Ceiling_Wall_Interior_400_A.fbx.meta
+│   │   ├── Ceiling_Wall_Interior_800_A.fbx
+│   │   ├── Ceiling_Wall_Interior_800_A.fbx.meta
+│   │   ├── Corner_Interior_Concave_200x1100_A.fbx
+│   │   ├── Corner_Interior_Concave_200x1100_A.fbx.meta
+│   │   ├── Corner_Interior_Concave_200x500_A.fbx
+│   │   ├── Corner_Interior_Concave_200x500_A.fbx.meta
+│   │   ├── Corner_Interior_Concave_200x500_B.fbx
+│   │   ├── Corner_Interior_Concave_200x500_B.fbx.meta
+│   │   ├── Corner_Interior_Concave_Angled_200x500_A.fbx
+│   │   ├── Corner_Interior_Concave_Angled_200x500_A.fbx.meta
+│   │   ├── Corner_Interior_Concave_Angled_400x500_A.fbx
+│   │   ├── Corner_Interior_Concave_Angled_400x500_A.fbx.meta
+│   │   ├── Corner_Interior_Convex_200x1100_A.fbx
+│   │   ├── Corner_Interior_Convex_200x1100_A.fbx.meta
+│   │   ├── Corner_Interior_Convex_200x500_A.fbx
+│   │   ├── Corner_Interior_Convex_200x500_A.fbx.meta
+│   │   ├── Corner_Interior_Convex_Angled_400x500_A.fbx
+│   │   ├── Corner_Interior_Convex_Angled_400x500_A.fbx.meta
+│   │   ├── Corner_Interior_Convex_Angled_600x500_A.fbx
+│   │   ├── Corner_Interior_Convex_Angled_600x500_A.fbx.meta
+│   │   ├── FloorDivider_Corner_Interior_Concave_200x100_A.fbx
+│   │   ├── FloorDivider_Corner_Interior_Concave_200x100_A.fbx.meta
+│   │   ├── FloorDivider_Corner_Interior_Concave_200x50_A.fbx
+│   │   ├── FloorDivider_Corner_Interior_Concave_200x50_A.fbx.meta
+│   │   ├── FloorDivider_Corner_Interior_Concave_Angled_200x100_A.fbx
+│   │   ├── FloorDivider_Corner_Interior_Concave_Angled_200x100_A.fbx.meta
+│   │   ├── FloorDivider_Corner_Interior_Concave_Angled_200x50_A.fbx
+│   │   ├── FloorDivider_Corner_Interior_Concave_Angled_200x50_A.fbx.meta
+│   │   ├── FloorDivider_Corner_Interior_Concave_Angled_400x100_A.fbx
+│   │   ├── FloorDivider_Corner_Interior_Concave_Angled_400x100_A.fbx.meta
+│   │   ├── FloorDivider_Corner_Interior_Concave_Angled_400x50_A.fbx
+│   │   ├── FloorDivider_Corner_Interior_Concave_Angled_400x50_A.fbx.meta
+│   │   ├── FloorDivider_Corner_Interior_Convex_200x100_A.fbx
+│   │   ├── FloorDivider_Corner_Interior_Convex_200x100_A.fbx.meta
+│   │   ├── FloorDivider_Corner_Interior_Convex_200x50_A.fbx
+│   │   ├── FloorDivider_Corner_Interior_Convex_200x50_A.fbx.meta
+│   │   ├── FloorDivider_Corner_Interior_Convex_Angled_400x100_A.fbx
+│   │   ├── FloorDivider_Corner_Interior_Convex_Angled_400x100_A.fbx.meta
+│   │   ├── FloorDivider_Corner_Interior_Convex_Angled_400x50_A.fbx
+│   │   ├── FloorDivider_Corner_Interior_Convex_Angled_400x50_A.fbx.meta
+│   │   ├── FloorDivider_Corner_Interior_Convex_Angled_600x100_A.fbx
+│   │   ├── FloorDivider_Corner_Interior_Convex_Angled_600x100_A.fbx.meta
+│   │   ├── FloorDivider_Corner_Interior_Convex_Angled_600x50_A.fbx
+│   │   ├── FloorDivider_Corner_Interior_Convex_Angled_600x50_A.fbx.meta
+│   │   ├── FloorDivider_Interior_1200x100_A.FBX
+│   │   ├── FloorDivider_Interior_1200x100_A.FBX.meta
+│   │   ├── FloorDivider_Interior_1200x50_A.FBX
+│   │   ├── FloorDivider_Interior_1200x50_A.FBX.meta
+│   │   ├── FloorDivider_Interior_200x100_A.fbx
+│   │   ├── FloorDivider_Interior_200x100_A.fbx.meta
+│   │   ├── FloorDivider_Interior_200x50_A.fbx
+│   │   ├── FloorDivider_Interior_200x50_A.fbx.meta
+│   │   ├── FloorDivider_Interior_400x100_A.fbx
+│   │   ├── FloorDivider_Interior_400x100_A.fbx.meta
+│   │   ├── FloorDivider_Interior_400x50_A.fbx
+│   │   ├── FloorDivider_Interior_400x50_A.fbx.meta
+│   │   ├── FloorDivider_Interior_800x100_A.fbx
+│   │   ├── FloorDivider_Interior_800x100_A.fbx.meta
+│   │   ├── FloorDivider_Interior_800x50_A.fbx
+│   │   ├── FloorDivider_Interior_800x50_A.fbx.meta
+│   │   ├── Floor_Corner_Interior_Concave_200_A.fbx
+│   │   ├── Floor_Corner_Interior_Concave_200_A.fbx.meta
+│   │   ├── Floor_Corner_Interior_Concave_Angled_200_A.fbx
+│   │   ├── Floor_Corner_Interior_Concave_Angled_200_A.fbx.meta
+│   │   ├── Floor_Corner_Interior_Concave_Angled_400_A.fbx
+│   │   ├── Floor_Corner_Interior_Concave_Angled_400_A.fbx.meta
+│   │   ├── Floor_Corner_Interior_Convex_100_A.fbx
+│   │   ├── Floor_Corner_Interior_Convex_100_A.fbx.meta
+│   │   ├── Floor_Corner_Interior_Convex_200_A.fbx
+│   │   ├── Floor_Corner_Interior_Convex_200_A.fbx.meta
+│   │   ├── Floor_Corner_Interior_Convex_Angled_200_A.fbx
+│   │   ├── Floor_Corner_Interior_Convex_Angled_200_A.fbx.meta
+│   │   ├── Floor_Corner_Interior_Convex_Angled_400_A.fbx
+│   │   ├── Floor_Corner_Interior_Convex_Angled_400_A.fbx.meta
+│   │   ├── Floor_Corner_Interior_Convex_Angled_600_A.fbx
+│   │   ├── Floor_Corner_Interior_Convex_Angled_600_A.fbx.meta
+│   │   ├── Floor_Corner_Interior_Door_A.fbx
+│   │   ├── Floor_Corner_Interior_Door_A.fbx.meta
+│   │   ├── Floor_Interior_200x200_A.fbx
+│   │   ├── Floor_Interior_200x200_A.fbx.meta
+│   │   ├── Floor_Interior_200x400_A.fbx
+│   │   ├── Floor_Interior_200x400_A.fbx.meta
+│   │   ├── Floor_Interior_400x400_A.fbx
+│   │   ├── Floor_Interior_400x400_A.fbx.meta
+│   │   ├── Floor_Interior_800x800_A.fbx
+│   │   ├── Floor_Interior_800x800_A.fbx.meta
+│   │   ├── Floor_S_Shape_Interior_A.fbx
+│   │   ├── Floor_S_Shape_Interior_A.fbx.meta
+│   │   ├── Floor_S_Shape_Interior_B.fbx
+│   │   ├── Floor_S_Shape_Interior_B.fbx.meta
+│   │   ├── Floor_Wall_Interior_1200_A.fbx
+│   │   ├── Floor_Wall_Interior_1200_A.fbx.meta
+│   │   ├── Floor_Wall_Interior_200_A.fbx
+│   │   ├── Floor_Wall_Interior_200_A.fbx.meta
+│   │   ├── Floor_Wall_Interior_400_A.fbx
+│   │   ├── Floor_Wall_Interior_400_A.fbx.meta
+│   │   ├── Floor_Wall_Interior_800_A.fbx
+│   │   ├── Floor_Wall_Interior_800_A.fbx.meta
+│   │   ├── Floor_Wall_Interior_Door_1200_A.fbx
+│   │   ├── Floor_Wall_Interior_Door_1200_A.fbx.meta
+│   │   ├── Floor_Wall_Interior_Door_400_A.fbx
+│   │   ├── Floor_Wall_Interior_Door_400_A.fbx.meta
+│   │   ├── Floor_Wall_Interior_Door_800_A.fbx
+│   │   ├── Floor_Wall_Interior_Door_800_A.fbx.meta
+│   │   ├── Floor_Wall_Interior_Door_Staircase_400_A.fbx
+│   │   ├── Floor_Wall_Interior_Door_Staircase_400_A.fbx.meta
+│   │   ├── Floor_Wall_Interior_Door_Staircase_800_A.fbx
+│   │   ├── Floor_Wall_Interior_Door_Staircase_800_A.fbx.meta
+│   │   ├── Floor_Wall_Interior_Door_Stop_1200_A.fbx
+│   │   ├── Floor_Wall_Interior_Door_Stop_1200_A.fbx.meta
+│   │   ├── Floor_Wall_Interior_Door_Stop_400_A.fbx
+│   │   ├── Floor_Wall_Interior_Door_Stop_400_A.fbx.meta
+│   │   ├── Floor_Wall_Interior_Door_Stop_800_A.fbx
+│   │   ├── Floor_Wall_Interior_Door_Stop_800_A.fbx.meta
+│   │   ├── Wall_Interior_1200x1100_A.fbx
+│   │   ├── Wall_Interior_1200x1100_A.fbx.meta
+│   │   ├── Wall_Interior_1200x500_A.fbx
+│   │   ├── Wall_Interior_1200x500_A.fbx.meta
+│   │   ├── Wall_Interior_1200x500_B.fbx
+│   │   ├── Wall_Interior_1200x500_B.fbx.meta
+│   │   ├── Wall_Interior_200x500_A.fbx
+│   │   ├── Wall_Interior_200x500_A.fbx.meta
+│   │   ├── Wall_Interior_400x1100_A.fbx
+│   │   ├── Wall_Interior_400x1100_A.fbx.meta
+│   │   ├── Wall_Interior_400x500_A.fbx
+│   │   ├── Wall_Interior_400x500_A.fbx.meta
+│   │   ├── Wall_Interior_400x500_B.fbx
+│   │   ├── Wall_Interior_400x500_B.fbx.meta
+│   │   ├── Wall_Interior_800x1100_A.fbx
+│   │   ├── Wall_Interior_800x1100_A.fbx.meta
+│   │   ├── Wall_Interior_800x500_A.fbx
+│   │   ├── Wall_Interior_800x500_A.fbx.meta
+│   │   ├── Wall_Interior_800x500_B.fbx
+│   │   ├── Wall_Interior_800x500_B.fbx.meta
+│   │   ├── Wall_Interior_Door_1200x1100_A.fbx
+│   │   ├── Wall_Interior_Door_1200x1100_A.fbx.meta
+│   │   ├── Wall_Interior_Door_400x1100_A.fbx
+│   │   ├── Wall_Interior_Door_400x1100_A.fbx.meta
+│   │   ├── Wall_Interior_Door_400x500_A.fbx
+│   │   ├── Wall_Interior_Door_400x500_A.fbx.meta
+│   │   ├── Wall_Interior_Door_800x1100_A.fbx
+│   │   ├── Wall_Interior_Door_800x1100_A.fbx.meta
+│   │   ├── Wall_Interior_Door_800x500_A.fbx
+│   │   ├── Wall_Interior_Door_800x500_A.fbx.meta
+│   │   ├── Wall_Interior_Door_800x500_B.fbx
+│   │   ├── Wall_Interior_Door_800x500_B.fbx.meta
+│   │   ├── Wall_Interior_Door_Staircase_400x500_A.fbx
+│   │   ├── Wall_Interior_Door_Staircase_400x500_A.fbx.meta
+│   │   ├── Wall_Interior_Door_Staircase_800x500_A.fbx
+│   │   └── Wall_Interior_Door_Staircase_800x500_A.fbx.meta
+│   ├── Environment_Tileset_Scifi_A.meta
+│   ├── Levels
+│   │   ├── Level_01
+│   │   │   ├── Building_A_Room_A_Ceiling_A.fbx
+│   │   │   ├── Building_A_Room_A_Ceiling_A.fbx.meta
+│   │   │   ├── Building_A_Room_A_Ceiling_B.fbx
+│   │   │   ├── Building_A_Room_A_Ceiling_B.fbx.meta
+│   │   │   ├── Building_A_Room_A_Floor_A.fbx
+│   │   │   ├── Building_A_Room_A_Floor_A.fbx.meta
+│   │   │   ├── Building_A_Room_A_Floor_B.fbx
+│   │   │   ├── Building_A_Room_A_Floor_B.fbx.meta
+│   │   │   ├── Building_A_Room_C_Ceiling_A.fbx
+│   │   │   ├── Building_A_Room_C_Ceiling_A.fbx.meta
+│   │   │   ├── Building_A_Room_C_Floor_A.fbx
+│   │   │   ├── Building_A_Room_C_Floor_A.fbx.meta
+│   │   │   ├── Building_A_Room_C_Floor_B.fbx
+│   │   │   ├── Building_A_Room_C_Floor_B.fbx.meta
+│   │   │   ├── Building_A_Room_D_Ceiling_A.fbx
+│   │   │   ├── Building_A_Room_D_Ceiling_A.fbx.meta
+│   │   │   ├── Building_A_Room_D_Floor_A.fbx
+│   │   │   ├── Building_A_Room_D_Floor_A.fbx.meta
+│   │   │   ├── Building_A_Room_E_Ceiling_A.fbx
+│   │   │   ├── Building_A_Room_E_Ceiling_A.fbx.meta
+│   │   │   ├── Building_A_Room_E_Floor_A.fbx
+│   │   │   ├── Building_A_Room_E_Floor_A.fbx.meta
+│   │   │   ├── Building_A_Staircase_B_Ceiling_A.fbx
+│   │   │   ├── Building_A_Staircase_B_Ceiling_A.fbx.meta
+│   │   │   ├── Building_A_Staircase_B_Floor_A.fbx
+│   │   │   ├── Building_A_Staircase_B_Floor_A.fbx.meta
+│   │   │   ├── Building_A_Staircase_C_Ceiling_A.fbx
+│   │   │   ├── Building_A_Staircase_C_Ceiling_A.fbx.meta
+│   │   │   ├── Building_A_Staircase_C_Floor_A.fbx
+│   │   │   ├── Building_A_Staircase_C_Floor_A.fbx.meta
+│   │   │   ├── Building_A_Staircase_C_Floor_B.fbx
+│   │   │   ├── Building_A_Staircase_C_Floor_B.fbx.meta
+│   │   │   ├── Building_B_Room_A_Ceiling_A.fbx
+│   │   │   ├── Building_B_Room_A_Ceiling_A.fbx.meta
+│   │   │   ├── Building_B_Room_A_Ceiling_B.fbx
+│   │   │   ├── Building_B_Room_A_Ceiling_B.fbx.meta
+│   │   │   ├── Building_B_Room_A_Ceiling_C.fbx
+│   │   │   ├── Building_B_Room_A_Ceiling_C.fbx.meta
+│   │   │   ├── Building_B_Room_A_Floor_A.fbx
+│   │   │   ├── Building_B_Room_A_Floor_A.fbx.meta
+│   │   │   ├── Building_B_Room_A_Floor_B.fbx
+│   │   │   ├── Building_B_Room_A_Floor_B.fbx.meta
+│   │   │   ├── Building_B_Room_A_Floor_C.fbx
+│   │   │   ├── Building_B_Room_A_Floor_C.fbx.meta
+│   │   │   ├── Building_B_Room_A_Floor_D.fbx
+│   │   │   ├── Building_B_Room_A_Floor_D.fbx.meta
+│   │   │   ├── Building_B_Room_A_Floor_E.fbx
+│   │   │   ├── Building_B_Room_A_Floor_E.fbx.meta
+│   │   │   ├── Building_B_Room_B_Ceiling_A.fbx
+│   │   │   ├── Building_B_Room_B_Ceiling_A.fbx.meta
+│   │   │   ├── Building_B_Room_B_Floor_A.fbx
+│   │   │   ├── Building_B_Room_B_Floor_A.fbx.meta
+│   │   │   ├── Building_B_Room_C_Ceiling_A.fbx
+│   │   │   ├── Building_B_Room_C_Ceiling_A.fbx.meta
+│   │   │   ├── Building_B_Room_C_Floor_A.fbx
+│   │   │   ├── Building_B_Room_C_Floor_A.fbx.meta
+│   │   │   ├── Building_B_Room_D_Ceiling_A.fbx
+│   │   │   ├── Building_B_Room_D_Ceiling_A.fbx.meta
+│   │   │   ├── Building_B_Room_D_Floor_A.fbx
+│   │   │   ├── Building_B_Room_D_Floor_A.fbx.meta
+│   │   │   ├── Building_B_Staircase_A_Ceiling_A.fbx
+│   │   │   ├── Building_B_Staircase_A_Ceiling_A.fbx.meta
+│   │   │   ├── Building_B_Staircase_A_Ceiling_B.fbx
+│   │   │   ├── Building_B_Staircase_A_Ceiling_B.fbx.meta
+│   │   │   ├── Building_B_Staircase_A_Floor_A.fbx
+│   │   │   ├── Building_B_Staircase_A_Floor_A.fbx.meta
+│   │   │   ├── Building_B_Staircase_A_Floor_B.fbx
+│   │   │   ├── Building_B_Staircase_A_Floor_B.fbx.meta
+│   │   │   ├── Building_B_Staircase_B_Ceiling_A.fbx
+│   │   │   ├── Building_B_Staircase_B_Ceiling_A.fbx.meta
+│   │   │   ├── Building_B_Staircase_B_Ceiling_B.fbx
+│   │   │   ├── Building_B_Staircase_B_Ceiling_B.fbx.meta
+│   │   │   ├── Building_B_Staircase_B_Floor_A.fbx
+│   │   │   ├── Building_B_Staircase_B_Floor_A.fbx.meta
+│   │   │   ├── Building_B_Staircase_C_Ceiling_A.fbx
+│   │   │   ├── Building_B_Staircase_C_Ceiling_A.fbx.meta
+│   │   │   ├── Building_B_Staircase_C_Ceiling_B.fbx
+│   │   │   ├── Building_B_Staircase_C_Ceiling_B.fbx.meta
+│   │   │   ├── Building_B_Staircase_C_Floor_A.fbx
+│   │   │   ├── Building_B_Staircase_C_Floor_A.fbx.meta
+│   │   │   ├── Building_B_Staircase_C_Floor_B.fbx
+│   │   │   ├── Building_B_Staircase_C_Floor_B.fbx.meta
+│   │   │   ├── Building_C_Room_A_Ceiling_A.fbx
+│   │   │   ├── Building_C_Room_A_Ceiling_A.fbx.meta
+│   │   │   ├── Building_C_Room_A_Floor_A.fbx
+│   │   │   ├── Building_C_Room_A_Floor_A.fbx.meta
+│   │   │   ├── Building_D_Room_A_Ceiling_A.fbx
+│   │   │   ├── Building_D_Room_A_Ceiling_A.fbx.meta
+│   │   │   ├── Building_D_Room_A_Floor_A.fbx
+│   │   │   ├── Building_D_Room_A_Floor_A.fbx.meta
+│   │   │   ├── Level_01_Backdrop_A.fbx
+│   │   │   ├── Level_01_Backdrop_A.fbx.meta
+│   │   │   ├── Level_01_Backdrop_B.fbx
+│   │   │   ├── Level_01_Backdrop_B.fbx.meta
+│   │   │   ├── Level_01_Backdrop_Billboards_A.FBX
+│   │   │   ├── Level_01_Backdrop_Billboards_A.FBX.meta
+│   │   │   ├── Level_01_Backdrop_Building_A.fbx
+│   │   │   ├── Level_01_Backdrop_Building_A.fbx.meta
+│   │   │   ├── Level_01_Backdrop_Building_B.fbx
+│   │   │   ├── Level_01_Backdrop_Building_B.fbx.meta
+│   │   │   ├── Level_01_Backdrop_Building_C.fbx
+│   │   │   ├── Level_01_Backdrop_Building_C.fbx.meta
+│   │   │   ├── Level_01_Backdrop_Building_D.fbx
+│   │   │   ├── Level_01_Backdrop_Building_D.fbx.meta
+│   │   │   ├── Level_01_Backdrop_Building_E.fbx
+│   │   │   ├── Level_01_Backdrop_Building_E.fbx.meta
+│   │   │   ├── Level_01_Backdrop_C.fbx
+│   │   │   ├── Level_01_Backdrop_C.fbx.meta
+│   │   │   ├── Level_01_Backdrop_D.fbx
+│   │   │   ├── Level_01_Backdrop_D.fbx.meta
+│   │   │   ├── Level_01_Backdrop_Docking_Bridge_A.fbx
+│   │   │   ├── Level_01_Backdrop_Docking_Bridge_A.fbx.meta
+│   │   │   ├── Level_01_Backdrop_E.fbx
+│   │   │   ├── Level_01_Backdrop_E.fbx.meta
+│   │   │   ├── Level_01_Backdrop_F.fbx
+│   │   │   ├── Level_01_Backdrop_F.fbx.meta
+│   │   │   ├── Level_01_Building_A_Shell_A.fbx
+│   │   │   ├── Level_01_Building_A_Shell_A.fbx.meta
+│   │   │   ├── Level_01_Building_B_Shell_A.fbx
+│   │   │   ├── Level_01_Building_B_Shell_A.fbx.meta
+│   │   │   ├── Level_01_Building_C_Shell_A.fbx
+│   │   │   ├── Level_01_Building_C_Shell_A.fbx.meta
+│   │   │   ├── Level_01_Building_D_Shell_A.fbx
+│   │   │   ├── Level_01_Building_D_Shell_A.fbx.meta
+│   │   │   ├── Level_01_Docking_Bridge_A.fbx
+│   │   │   ├── Level_01_Docking_Bridge_A.fbx.meta
+│   │   │   ├── Level_01_Far_Backdrop_A.FBX
+│   │   │   ├── Level_01_Far_Backdrop_A.FBX.meta
+│   │   │   ├── Level_01_Far_Backdrop_B.FBX
+│   │   │   ├── Level_01_Far_Backdrop_B.FBX.meta
+│   │   │   ├── Level_01_Far_Backdrop_C.FBX
+│   │   │   ├── Level_01_Far_Backdrop_C.FBX.meta
+│   │   │   ├── Level_01_Far_Backdrop_Strip_A.fbx
+│   │   │   ├── Level_01_Far_Backdrop_Strip_A.fbx.meta
+│   │   │   ├── Level_01_Terrain_A.fbx
+│   │   │   ├── Level_01_Terrain_A.fbx.meta
+│   │   │   ├── Level_01_Terrain_B.fbx
+│   │   │   ├── Level_01_Terrain_B.fbx.meta
+│   │   │   ├── Level_01_Terrain_C.fbx
+│   │   │   ├── Level_01_Terrain_C.fbx.meta
+│   │   │   ├── Level_01_Terrain_D.fbx
+│   │   │   ├── Level_01_Terrain_D.fbx.meta
+│   │   │   ├── Level_01_Terrain_E.fbx
+│   │   │   ├── Level_01_Terrain_E.fbx.meta
+│   │   │   ├── Level_01_Terrain_Tunnel_A.fbx
+│   │   │   └── Level_01_Terrain_Tunnel_A.fbx.meta
+│   │   ├── Level_01.meta
+│   │   ├── Level_Menu
+│   │   │   ├── Level_Menu_Backdrop_Terrain_A.fbx
+│   │   │   ├── Level_Menu_Backdrop_Terrain_A.fbx.meta
+│   │   │   ├── Level_Menu_Terrain_A.fbx
+│   │   │   ├── Level_Menu_Terrain_A.fbx.meta
+│   │   │   ├── Level_Menu_Terrain_A_Liquids_A.fbx
+│   │   │   └── Level_Menu_Terrain_A_Liquids_A.fbx.meta
+│   │   └── Level_Menu.meta
+│   ├── Levels.meta
+│   ├── Props
+│   │   ├── Barrels
+│   │   │   ├── Barrel_Scifi_A
+│   │   │   │   ├── Barrel_Scifi_A.fbx
+│   │   │   │   ├── Barrel_Scifi_A.fbx.meta
+│   │   │   │   ├── Barrel_Scifi_A_Shatter.fbx
+│   │   │   │   └── Barrel_Scifi_A_Shatter.fbx.meta
+│   │   │   └── Barrel_Scifi_A.meta
+│   │   ├── Barrels.meta
+│   │   ├── Crates
+│   │   │   ├── Crates_Scifi_A
+│   │   │   │   ├── Crate_Scifi_A.fbx
+│   │   │   │   ├── Crate_Scifi_A.fbx.meta
+│   │   │   │   ├── Materials
+│   │   │   │   │   ├── MaterialU+005C#75.mat
+│   │   │   │   │   └── MaterialU+005C#75.mat.meta
+│   │   │   │   └── Materials.meta
+│   │   │   └── Crates_Scifi_A.meta
+│   │   ├── Crates.meta
+│   │   ├── Destruction
+│   │   │   ├── Building_Destruction_Pieces_Scifi_A
+│   │   │   │   ├── Building_A_Floor_Destuction_A.FBX
+│   │   │   │   ├── Building_A_Floor_Destuction_A.FBX.meta
+│   │   │   │   ├── Building_A_Floor_Destuction_B.FBX
+│   │   │   │   ├── Building_A_Floor_Destuction_B.FBX.meta
+│   │   │   │   ├── Building_A_Roof_Destuction_A.FBX
+│   │   │   │   ├── Building_A_Roof_Destuction_A.FBX.meta
+│   │   │   │   ├── Building_A_Wall_Destuction_A.FBX
+│   │   │   │   ├── Building_A_Wall_Destuction_A.FBX.meta
+│   │   │   │   ├── Building_B_Floor_Destuction_A.FBX
+│   │   │   │   ├── Building_B_Floor_Destuction_A.FBX.meta
+│   │   │   │   ├── Building_B_Wall_Destuction_A.FBX
+│   │   │   │   ├── Building_B_Wall_Destuction_A.FBX.meta
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_Floor_Interior_4m_A.fbx
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_Floor_Interior_4m_A.fbx.meta
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_Wall_Interior_4m_A.fbx
+│   │   │   │   └── Building_Destruction_Piece_Scifi_Wall_Interior_4m_A.fbx.meta
+│   │   │   └── Building_Destruction_Pieces_Scifi_A.meta
+│   │   ├── Destruction.meta
+│   │   ├── Doors
+│   │   │   ├── Doors_Scifi_A
+│   │   │   │   ├── Door_1200x1100_A.fbx
+│   │   │   │   ├── Door_1200x1100_A.fbx.meta
+│   │   │   │   ├── Door_400x500_A.fbx
+│   │   │   │   ├── Door_400x500_A.fbx.meta
+│   │   │   │   ├── Door_800x500_A.fbx
+│   │   │   │   ├── Door_800x500_A.fbx.meta
+│   │   │   │   ├── Door_800x500_Floormat_A.fbx
+│   │   │   │   └── Door_800x500_Floormat_A.fbx.meta
+│   │   │   └── Doors_Scifi_A.meta
+│   │   ├── Doors.meta
+│   │   ├── Elevators
+│   │   │   ├── Elevator_Industrial_Scifi_A
+│   │   │   │   ├── Elevator_Industrial_Scifi_A.fbx
+│   │   │   │   └── Elevator_Industrial_Scifi_A.fbx.meta
+│   │   │   ├── Elevator_Industrial_Scifi_A.meta
+│   │   │   ├── Elevator_Industrial_Shaft_Scifi_A
+│   │   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_BottomDoor_400x550_A.fbx
+│   │   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_BottomDoor_400x550_A.fbx.meta
+│   │   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_MidsectionDoor_400x550_A.fbx
+│   │   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_MidsectionDoor_400x550_A.fbx.meta
+│   │   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_Midsection_400x550_A.fbx
+│   │   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_Midsection_400x550_A.fbx.meta
+│   │   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_Rails_A.FBX
+│   │   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_Rails_A.FBX.meta
+│   │   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_TopDoor_400x550_A.fbx
+│   │   │   │   └── Elevator_Industrial_Shaft_Scifi_A_TopDoor_400x550_A.fbx.meta
+│   │   │   └── Elevator_Industrial_Shaft_Scifi_A.meta
+│   │   ├── Elevators.meta
+│   │   ├── Foliage
+│   │   │   ├── Flower_Alien_Big_A
+│   │   │   │   ├── Flower_Alien_Big_A.fbx
+│   │   │   │   ├── Flower_Alien_Big_A.fbx.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A.fbx
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A.fbx.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Rigged.FBX
+│   │   │   │   └── Flower_Alien_Big_A_Rigged.FBX.meta
+│   │   │   ├── Flower_Alien_Big_A.meta
+│   │   │   ├── Flower_Alien_Sprout_A
+│   │   │   │   ├── Flower_Alien_Sprout_A.FBX
+│   │   │   │   └── Flower_Alien_Sprout_A.FBX.meta
+│   │   │   ├── Flower_Alien_Sprout_A.meta
+│   │   │   ├── Grass_Alien_A
+│   │   │   │   ├── Grass_Alien_A.fbx
+│   │   │   │   ├── Grass_Alien_A.fbx.bak
+│   │   │   │   ├── Grass_Alien_A.fbx.bak.meta
+│   │   │   │   └── Grass_Alien_A.fbx.meta
+│   │   │   ├── Grass_Alien_A.meta
+│   │   │   ├── Grass_Alien_B
+│   │   │   │   ├── Grass_Alien_B.fbx
+│   │   │   │   ├── Grass_Alien_B.fbx.bak
+│   │   │   │   ├── Grass_Alien_B.fbx.bak.meta
+│   │   │   │   └── Grass_Alien_B.fbx.meta
+│   │   │   ├── Grass_Alien_B.meta
+│   │   │   ├── Grass_Alien_C
+│   │   │   │   ├── Grass_Alien_C.FBX
+│   │   │   │   ├── Grass_Alien_C.FBX.meta
+│   │   │   │   ├── Grass_Alien_C.fbx.bak
+│   │   │   │   └── Grass_Alien_C.fbx.bak.meta
+│   │   │   ├── Grass_Alien_C.meta
+│   │   │   ├── Grass_Alien_D
+│   │   │   │   ├── Grass_Alien_D.FBX
+│   │   │   │   ├── Grass_Alien_D.FBX.meta
+│   │   │   │   ├── Grass_Alien_D.fbx.bak
+│   │   │   │   └── Grass_Alien_D.fbx.bak.meta
+│   │   │   ├── Grass_Alien_D.meta
+│   │   │   ├── Grass_Alien_E
+│   │   │   │   ├── Grass_Alien_E.FBX
+│   │   │   │   ├── Grass_Alien_E.FBX.meta
+│   │   │   │   ├── Grass_Alien_E.fbx.bak
+│   │   │   │   └── Grass_Alien_E.fbx.bak.meta
+│   │   │   ├── Grass_Alien_E.meta
+│   │   │   ├── Spaceplant_Liana_A
+│   │   │   │   ├── Spaceplant_Liana_A.fbx
+│   │   │   │   ├── Spaceplant_Liana_A.fbx.meta
+│   │   │   │   ├── Spaceplant_Liana_Shrubs_A.fbx
+│   │   │   │   └── Spaceplant_Liana_Shrubs_A.fbx.meta
+│   │   │   ├── Spaceplant_Liana_A.meta
+│   │   │   ├── Spaceplant_Undergrowth_A
+│   │   │   │   ├── Spaceplant_Undergrowth_A_Cluster_A.fbx
+│   │   │   │   ├── Spaceplant_Undergrowth_A_Cluster_A.fbx.meta
+│   │   │   │   ├── Spaceplant_Undergrowth_A_Cluster_B.fbx
+│   │   │   │   ├── Spaceplant_Undergrowth_A_Cluster_B.fbx.meta
+│   │   │   │   ├── Spaceplant_Undergrowth_A_Cluster_C.fbx
+│   │   │   │   └── Spaceplant_Undergrowth_A_Cluster_C.fbx.meta
+│   │   │   ├── Spaceplant_Undergrowth_A.meta
+│   │   │   ├── Spaceplants_A
+│   │   │   │   ├── Spacegrass_A.fbx
+│   │   │   │   ├── Spacegrass_A.fbx.meta
+│   │   │   │   ├── Spaceliana_A.fbx
+│   │   │   │   ├── Spaceliana_A.fbx.meta
+│   │   │   │   ├── Spaceplant_A.fbx
+│   │   │   │   ├── Spaceplant_A.fbx.meta
+│   │   │   │   ├── Spaceplant_Cluster_A.fbx
+│   │   │   │   ├── Spaceplant_Cluster_A.fbx.meta
+│   │   │   │   ├── Spaceplant_Undergrowth_A.fbx
+│   │   │   │   ├── Spaceplant_Undergrowth_A.fbx.meta
+│   │   │   │   ├── Spaceshrubs_A.fbx
+│   │   │   │   └── Spaceshrubs_A.fbx.meta
+│   │   │   └── Spaceplants_A.meta
+│   │   ├── Foliage.meta
+│   │   ├── Industrial
+│   │   │   ├── Factory_Antenna_Scifi_A
+│   │   │   │   ├── Factory_Antenna_Scifi_A.fbx
+│   │   │   │   └── Factory_Antenna_Scifi_A.fbx.meta
+│   │   │   ├── Factory_Antenna_Scifi_A.meta
+│   │   │   ├── Factory_Antenna_Scifi_B
+│   │   │   │   ├── Factory_Antenna_Scifi_B.fbx
+│   │   │   │   └── Factory_Antenna_Scifi_B.fbx.meta
+│   │   │   ├── Factory_Antenna_Scifi_B.meta
+│   │   │   ├── Factory_Antenna_Scifi_C
+│   │   │   │   ├── Factory_Antenna_Scifi_C.fbx
+│   │   │   │   └── Factory_Antenna_Scifi_C.fbx.meta
+│   │   │   ├── Factory_Antenna_Scifi_C.meta
+│   │   │   ├── Factory_Detail_Scifi_A
+│   │   │   │   ├── Factory_Detail_Scifi_A.fbx
+│   │   │   │   ├── Factory_Detail_Scifi_A.fbx.meta
+│   │   │   │   ├── Factory_Detail_Scifi_A_Base.fbx
+│   │   │   │   └── Factory_Detail_Scifi_A_Base.fbx.meta
+│   │   │   ├── Factory_Detail_Scifi_A.meta
+│   │   │   ├── Factory_Detail_Scifi_B
+│   │   │   │   ├── Factory_Detail_Scifi_B.fbx
+│   │   │   │   ├── Factory_Detail_Scifi_B.fbx.meta
+│   │   │   │   ├── Factory_Detail_Scifi_B_Base.fbx
+│   │   │   │   └── Factory_Detail_Scifi_B_Base.fbx.meta
+│   │   │   ├── Factory_Detail_Scifi_B.meta
+│   │   │   ├── Factory_Detail_Scifi_C
+│   │   │   │   ├── Factory_Detail_Scifi_C.fbx
+│   │   │   │   ├── Factory_Detail_Scifi_C.fbx.meta
+│   │   │   │   ├── Factory_Detail_Scifi_C_Base.fbx
+│   │   │   │   └── Factory_Detail_Scifi_C_Base.fbx.meta
+│   │   │   ├── Factory_Detail_Scifi_C.meta
+│   │   │   ├── Factory_Detail_Scifi_D
+│   │   │   │   ├── Factory_Detail_Scifi_D.FBX
+│   │   │   │   ├── Factory_Detail_Scifi_D.FBX.meta
+│   │   │   │   ├── Factory_Detail_Scifi_D_Short.FBX
+│   │   │   │   └── Factory_Detail_Scifi_D_Short.FBX.meta
+│   │   │   ├── Factory_Detail_Scifi_D.meta
+│   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A.fbx
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A.fbx.meta
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_B.fbx
+│   │   │   │   └── Factory_Interior_Ceiling_Detail_Scifi_B.fbx.meta
+│   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A.meta
+│   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A
+│   │   │   │   ├── Factory_Interior_Floor_Trench_Scifi_400x400_A.fbx
+│   │   │   │   ├── Factory_Interior_Floor_Trench_Scifi_400x400_A.fbx.meta
+│   │   │   │   ├── Factory_Interior_Floor_Trench_Scifi_End_400x400_A.fbx
+│   │   │   │   └── Factory_Interior_Floor_Trench_Scifi_End_400x400_A.fbx.meta
+│   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A.meta
+│   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A.fbx
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A.fbx.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B.fbx
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B.fbx.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C.fbx
+│   │   │   │   └── Factory_Interior_Wall_Detail_Scifi_C.fbx.meta
+│   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A.meta
+│   │   │   ├── Fittings_Scifi_A
+│   │   │   │   ├── Fitting_Scifi_A.FBX
+│   │   │   │   ├── Fitting_Scifi_A.FBX.meta
+│   │   │   │   ├── Fitting_Scifi_B.FBX
+│   │   │   │   ├── Fitting_Scifi_B.FBX.meta
+│   │   │   │   ├── Fitting_Scifi_C.FBX
+│   │   │   │   ├── Fitting_Scifi_C.FBX.meta
+│   │   │   │   ├── Fitting_Scifi_D.FBX
+│   │   │   │   └── Fitting_Scifi_D.FBX.meta
+│   │   │   ├── Fittings_Scifi_A.meta
+│   │   │   ├── Smokestack_Industrial_Scifi_A
+│   │   │   │   ├── Smokestack_Industrial_Scifi_A.fbx
+│   │   │   │   └── Smokestack_Industrial_Scifi_A.fbx.meta
+│   │   │   ├── Smokestack_Industrial_Scifi_A.meta
+│   │   │   ├── Smokestack_Industrial_Scifi_B
+│   │   │   │   ├── Smokestack_Industrial_Scifi_B.fbx
+│   │   │   │   └── Smokestack_Industrial_Scifi_B.fbx.meta
+│   │   │   ├── Smokestack_Industrial_Scifi_B.meta
+│   │   │   ├── Tank_Industrial_Scifi_A
+│   │   │   │   ├── Tank_Industrial_Scifi_A.fbx
+│   │   │   │   └── Tank_Industrial_Scifi_A.fbx.meta
+│   │   │   ├── Tank_Industrial_Scifi_A.meta
+│   │   │   ├── Tank_Industrial_Scifi_B
+│   │   │   │   ├── Tank_Industrial_Scifi_B.fbx
+│   │   │   │   └── Tank_Industrial_Scifi_B.fbx.meta
+│   │   │   ├── Tank_Industrial_Scifi_B.meta
+│   │   │   ├── Tank_Industrial_Scifi_C
+│   │   │   │   ├── Tank_Industrial_Scifi_C.fbx
+│   │   │   │   └── Tank_Industrial_Scifi_C.fbx.meta
+│   │   │   ├── Tank_Industrial_Scifi_C.meta
+│   │   │   ├── Tubes_Industrial_Scifi_A
+│   │   │   │   ├── Tube_Industrial_Scifi_A.fbx
+│   │   │   │   ├── Tube_Industrial_Scifi_A.fbx.meta
+│   │   │   │   ├── Tube_Industrial_Scifi_Wall_1200_A.fbx
+│   │   │   │   ├── Tube_Industrial_Scifi_Wall_1200_A.fbx.meta
+│   │   │   │   ├── Tube_Industrial_Scifi_Wall_800_A.fbx
+│   │   │   │   └── Tube_Industrial_Scifi_Wall_800_A.fbx.meta
+│   │   │   └── Tubes_Industrial_Scifi_A.meta
+│   │   ├── Industrial.meta
+│   │   ├── Lamps
+│   │   │   ├── Lamp_Ceiling_Scifi_A
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A.fbx
+│   │   │   │   └── Lamp_Ceiling_Scifi_A.fbx.meta
+│   │   │   ├── Lamp_Ceiling_Scifi_A.meta
+│   │   │   ├── Lamp_Door_800x500_A
+│   │   │   │   ├── Lamp_Door_800x500_A.fbx
+│   │   │   │   └── Lamp_Door_800x500_A.fbx.meta
+│   │   │   ├── Lamp_Door_800x500_A.meta
+│   │   │   ├── Lamp_Post_Medium_Scifi_A
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A.fbx
+│   │   │   │   └── Lamp_Post_Medium_Scifi_A.fbx.meta
+│   │   │   ├── Lamp_Post_Medium_Scifi_A.meta
+│   │   │   ├── Lamps_Floor_Medium_Scifi_A
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A.fbx
+│   │   │   │   └── Lamp_Floor_Medium_Scifi_A.fbx.meta
+│   │   │   ├── Lamps_Floor_Medium_Scifi_A.meta
+│   │   │   ├── Lamps_Small_Scifi_A
+│   │   │   │   ├── Lamp_Small_Red_Scifi_A.fbx
+│   │   │   │   ├── Lamp_Small_Red_Scifi_A.fbx.meta
+│   │   │   │   ├── Lamp_Small_Red_Scifi_B.fbx
+│   │   │   │   └── Lamp_Small_Red_Scifi_B.fbx.meta
+│   │   │   ├── Lamps_Small_Scifi_A.meta
+│   │   │   ├── Lamps_Wall_Scifi_A
+│   │   │   │   ├── Lamp_Wall_Big_Scifi_A.fbx
+│   │   │   │   ├── Lamp_Wall_Big_Scifi_A.fbx.meta
+│   │   │   │   ├── Lamp_Wall_Big_Scifi_B.fbx
+│   │   │   │   ├── Lamp_Wall_Big_Scifi_B.fbx.meta
+│   │   │   │   ├── Lamp_Wall_Medium_Scifi_A.fbx
+│   │   │   │   ├── Lamp_Wall_Medium_Scifi_A.fbx.meta
+│   │   │   │   ├── Lamp_Wall_Small_Scifi_A.fbx
+│   │   │   │   └── Lamp_Wall_Small_Scifi_A.fbx.meta
+│   │   │   └── Lamps_Wall_Scifi_A.meta
+│   │   ├── Lamps.meta
+│   │   ├── Machines
+│   │   │   ├── Factory_Crane_A
+│   │   │   │   ├── Factory_Crane_A.fbx
+│   │   │   │   ├── Factory_Crane_A.fbx.meta
+│   │   │   │   ├── Factory_Crane_A_Body.fbx
+│   │   │   │   ├── Factory_Crane_A_Body.fbx.meta
+│   │   │   │   ├── Factory_Crane_A_Rigged.FBX
+│   │   │   │   └── Factory_Crane_A_Rigged.FBX.meta
+│   │   │   ├── Factory_Crane_A.meta
+│   │   │   ├── Factory_Crane_B
+│   │   │   │   ├── Factory_Crane_B.fbx
+│   │   │   │   └── Factory_Crane_B.fbx.meta
+│   │   │   ├── Factory_Crane_B.meta
+│   │   │   ├── Factory_Furnace_A
+│   │   │   │   ├── Factory_Furnace_A.fbx
+│   │   │   │   ├── Factory_Furnace_A.fbx.meta
+│   │   │   │   ├── Factory_Furnace_A_Rotator_A.fbx
+│   │   │   │   ├── Factory_Furnace_A_Rotator_A.fbx.meta
+│   │   │   │   ├── Factory_Furnace_A_Side_A.fbx
+│   │   │   │   └── Factory_Furnace_A_Side_A.fbx.meta
+│   │   │   └── Factory_Furnace_A.meta
+│   │   ├── Machines.meta
+│   │   ├── Pillars
+│   │   │   ├── Pillars_Scifi_A
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x1100_A.fbx
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x1100_A.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x1200_A.fbx
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x1200_A.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x500_A.fbx
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x500_A.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x500_B.fbx
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x500_B.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x500_C.fbx
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x500_C.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x500_D.fbx
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x500_D.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x600_A.fbx
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x600_A.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x600_B.fbx
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x600_B.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x600_C.fbx
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x600_C.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x600_D.fbx
+│   │   │   │   ├── Pillar_Scifi_Bulky_100x600_D.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Bulky_Base_A.fbx
+│   │   │   │   ├── Pillar_Scifi_Bulky_Base_A.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Bulky_Top_A.fbx
+│   │   │   │   ├── Pillar_Scifi_Bulky_Top_A.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Bulky_Top_B.fbx
+│   │   │   │   ├── Pillar_Scifi_Bulky_Top_B.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Huge_150x2500_A.fbx
+│   │   │   │   ├── Pillar_Scifi_Huge_150x2500_A.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Slim_100x1100_A.fbx
+│   │   │   │   ├── Pillar_Scifi_Slim_100x1100_A.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Slim_100x1200_A.fbx
+│   │   │   │   ├── Pillar_Scifi_Slim_100x1200_A.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Slim_100x600_A.fbx
+│   │   │   │   ├── Pillar_Scifi_Slim_100x600_A.fbx.meta
+│   │   │   │   ├── Pillar_Scifi_Slim_Base_A.fbx
+│   │   │   │   └── Pillar_Scifi_Slim_Base_A.fbx.meta
+│   │   │   └── Pillars_Scifi_A.meta
+│   │   ├── Pillars.meta
+│   │   ├── Pipes
+│   │   │   ├── Pipes_A_Tileset_A
+│   │   │   │   ├── Pipe_D160_A_Angled_100_A.fbx
+│   │   │   │   ├── Pipe_D160_A_Angled_100_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_Bracket_A.FBX
+│   │   │   │   ├── Pipe_D160_A_Bracket_A.FBX.meta
+│   │   │   │   ├── Pipe_D160_A_Concave_Angled_400_A.fbx
+│   │   │   │   ├── Pipe_D160_A_Concave_Angled_400_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_Concave_Angled_800_A.fbx
+│   │   │   │   ├── Pipe_D160_A_Concave_Angled_800_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_Convex_Angled_400_A.fbx
+│   │   │   │   ├── Pipe_D160_A_Convex_Angled_400_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_Convex_Angled_600_A.fbx
+│   │   │   │   ├── Pipe_D160_A_Convex_Angled_600_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_Corner_A.fbx
+│   │   │   │   ├── Pipe_D160_A_Corner_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_Corner_Convex_200_A.fbx
+│   │   │   │   ├── Pipe_D160_A_Corner_Convex_200_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_Stairs_400x300_A.fbx
+│   │   │   │   ├── Pipe_D160_A_Stairs_400x300_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_Stairs_800x600_A.fbx
+│   │   │   │   ├── Pipe_D160_A_Stairs_800x600_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_Straight_100_A.fbx
+│   │   │   │   ├── Pipe_D160_A_Straight_100_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_Straight_200_A.fbx
+│   │   │   │   ├── Pipe_D160_A_Straight_200_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_Straight_400_A.fbx
+│   │   │   │   ├── Pipe_D160_A_Straight_400_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_Straight_800_A.fbx
+│   │   │   │   ├── Pipe_D160_A_Straight_800_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_T_Junction_A.fbx
+│   │   │   │   ├── Pipe_D160_A_T_Junction_A.fbx.meta
+│   │   │   │   ├── Pipe_D160_A_Valve_A.FBX
+│   │   │   │   ├── Pipe_D160_A_Valve_A.FBX.meta
+│   │   │   │   ├── Pipe_D160_Valve_Part_D_LP.FBX
+│   │   │   │   ├── Pipe_D160_Valve_Part_D_LP.FBX.meta
+│   │   │   │   ├── Pipe_D80_A_Angled_100_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Angled_100_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Bracket_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Bracket_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Concave_Angled_400_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Concave_Angled_400_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Convex_Angled_400_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Convex_Angled_400_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Convex_Angled_600_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Convex_Angled_600_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Corner_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Corner_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Corner_B.fbx
+│   │   │   │   ├── Pipe_D80_A_Corner_B.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Corner_Concave_200_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Corner_Concave_200_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Corner_Convex_200_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Corner_Convex_200_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Stairs_400x300_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Stairs_400x300_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Stairs_800x600_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Stairs_800x600_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Straight_100_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Straight_100_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Straight_200_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Straight_200_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Straight_400_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Straight_400_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Straight_800_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Straight_800_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_T_Junction_A.fbx
+│   │   │   │   ├── Pipe_D80_A_T_Junction_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Valve_A.fbx
+│   │   │   │   ├── Pipe_D80_A_Valve_A.fbx.meta
+│   │   │   │   ├── Pipe_D80_A_Valve_B.fbx
+│   │   │   │   └── Pipe_D80_A_Valve_B.fbx.meta
+│   │   │   └── Pipes_A_Tileset_A.meta
+│   │   ├── Pipes.meta
+│   │   ├── Platforms
+│   │   │   ├── Platforms_Scifi_A
+│   │   │   │   ├── Platform_200x400_A.fbx
+│   │   │   │   ├── Platform_200x400_A.fbx.meta
+│   │   │   │   ├── Platform_400x400_A.fbx
+│   │   │   │   ├── Platform_400x400_A.fbx.meta
+│   │   │   │   ├── Platform_800x400_A.fbx
+│   │   │   │   ├── Platform_800x400_A.fbx.meta
+│   │   │   │   ├── Platform_Concave_Angled_800x400_A.fbx
+│   │   │   │   ├── Platform_Concave_Angled_800x400_A.fbx.meta
+│   │   │   │   ├── Platform_Convex_Angled_1000x400_A.fbx
+│   │   │   │   ├── Platform_Convex_Angled_1000x400_A.fbx.meta
+│   │   │   │   ├── Platform_Convex_Angled_400x400_A.fbx
+│   │   │   │   ├── Platform_Convex_Angled_400x400_A.fbx.meta
+│   │   │   │   ├── Platform_Convex_Angled_800x400_A.fbx
+│   │   │   │   ├── Platform_Convex_Angled_800x400_A.fbx.meta
+│   │   │   │   ├── Platform_Corner_400x400_A.fbx
+│   │   │   │   ├── Platform_Corner_400x400_A.fbx.meta
+│   │   │   │   ├── Platform_End_400x400_A.fbx
+│   │   │   │   ├── Platform_End_400x400_A.fbx.meta
+│   │   │   │   ├── Platform_T_Junction_400x400_A.fbx
+│   │   │   │   ├── Platform_T_Junction_400x400_A.fbx.meta
+│   │   │   │   ├── Stairs_400x100_A.fbx
+│   │   │   │   ├── Stairs_400x100_A.fbx.meta
+│   │   │   │   ├── Stairs_400x300_A.fbx
+│   │   │   │   └── Stairs_400x300_A.fbx.meta
+│   │   │   └── Platforms_Scifi_A.meta
+│   │   ├── Platforms.meta
+│   │   ├── Rocks
+│   │   │   ├── Rock_Billboards_A
+│   │   │   │   ├── Rock_Billboard_Big_A.fbx
+│   │   │   │   ├── Rock_Billboard_Big_A.fbx.meta
+│   │   │   │   ├── Rock_Billboard_Big_B.fbx
+│   │   │   │   ├── Rock_Billboard_Big_B.fbx.meta
+│   │   │   │   ├── Rock_Billboard_Big_C.fbx
+│   │   │   │   ├── Rock_Billboard_Big_C.fbx.meta
+│   │   │   │   ├── Rock_Billboard_Medium_A.fbx
+│   │   │   │   ├── Rock_Billboard_Medium_A.fbx.meta
+│   │   │   │   ├── Rock_Billboard_Medium_B.fbx
+│   │   │   │   ├── Rock_Billboard_Medium_B.fbx.meta
+│   │   │   │   ├── Rock_Billboard_Medium_C.fbx
+│   │   │   │   ├── Rock_Billboard_Medium_C.fbx.meta
+│   │   │   │   ├── Rock_Billboard_Medium_D.fbx
+│   │   │   │   ├── Rock_Billboard_Medium_D.fbx.meta
+│   │   │   │   ├── Rock_Billboard_Medium_E.fbx
+│   │   │   │   ├── Rock_Billboard_Medium_E.fbx.meta
+│   │   │   │   ├── Rock_Billboard_Small_A.fbx
+│   │   │   │   ├── Rock_Billboard_Small_A.fbx.meta
+│   │   │   │   ├── Rock_Billboard_Small_B.fbx
+│   │   │   │   ├── Rock_Billboard_Small_B.fbx.meta
+│   │   │   │   ├── Rock_Billboard_Small_C.fbx
+│   │   │   │   ├── Rock_Billboard_Small_C.fbx.meta
+│   │   │   │   ├── Rock_Billboard_Small_D.fbx
+│   │   │   │   ├── Rock_Billboard_Small_D.fbx.meta
+│   │   │   │   ├── Rock_Billboard_Small_E.fbx
+│   │   │   │   └── Rock_Billboard_Small_E.fbx.meta
+│   │   │   ├── Rock_Billboards_A.meta
+│   │   │   ├── Rock_Boulder_A
+│   │   │   │   ├── Rock_Boulder_A.fbx
+│   │   │   │   └── Rock_Boulder_A.fbx.meta
+│   │   │   ├── Rock_Boulder_A.meta
+│   │   │   ├── Rock_Boulder_B
+│   │   │   │   ├── Rock_Boulder_B.fbx
+│   │   │   │   └── Rock_Boulder_B.fbx.meta
+│   │   │   ├── Rock_Boulder_B.meta
+│   │   │   ├── Rock_Boulder_C
+│   │   │   │   ├── Rock_Boulder_C.fbx
+│   │   │   │   └── Rock_Boulder_C.fbx.meta
+│   │   │   ├── Rock_Boulder_C.meta
+│   │   │   ├── Rock_Boulder_D
+│   │   │   │   ├── Rock_Boulder_D.fbx
+│   │   │   │   └── Rock_Boulder_D.fbx.meta
+│   │   │   ├── Rock_Boulder_D.meta
+│   │   │   ├── Rock_Collection_A
+│   │   │   │   ├── Rock_Collection_A.fbx
+│   │   │   │   ├── Rock_Collection_A.fbx.meta
+│   │   │   │   ├── Rock_Collection_A_Inset_A.fbx
+│   │   │   │   ├── Rock_Collection_A_Inset_A.fbx.meta
+│   │   │   │   ├── Rock_Collection_A_Rock_A.fbx
+│   │   │   │   ├── Rock_Collection_A_Rock_A.fbx.meta
+│   │   │   │   ├── Rock_Collection_A_Rock_B.fbx
+│   │   │   │   ├── Rock_Collection_A_Rock_B.fbx.meta
+│   │   │   │   ├── Rock_Collection_A_Rock_C.fbx
+│   │   │   │   ├── Rock_Collection_A_Rock_C.fbx.meta
+│   │   │   │   ├── Rock_Collection_A_Rock_D.fbx
+│   │   │   │   ├── Rock_Collection_A_Rock_D.fbx.meta
+│   │   │   │   ├── Rock_Collection_A_Rock_E.fbx
+│   │   │   │   ├── Rock_Collection_A_Rock_E.fbx.meta
+│   │   │   │   ├── Rock_Collection_B.fbx
+│   │   │   │   ├── Rock_Collection_B.fbx.meta
+│   │   │   │   ├── Rock_Collection_C.fbx
+│   │   │   │   └── Rock_Collection_C.fbx.meta
+│   │   │   ├── Rock_Collection_A.meta
+│   │   │   ├── Rock_Planet_A
+│   │   │   │   ├── Rock_Planet_A.fbx
+│   │   │   │   └── Rock_Planet_A.fbx.meta
+│   │   │   ├── Rock_Planet_A.meta
+│   │   │   ├── Rock_Planet_B
+│   │   │   │   ├── Rock_Planet_B.fbx
+│   │   │   │   ├── Rock_Planet_B.fbx.meta
+│   │   │   │   ├── Rock_Planet_B_Original.fbx
+│   │   │   │   └── Rock_Planet_B_Original.fbx.meta
+│   │   │   ├── Rock_Planet_B.meta
+│   │   │   ├── Rock_Planet_C
+│   │   │   │   ├── Rock_Planet_C.fbx
+│   │   │   │   └── Rock_Planet_C.fbx.meta
+│   │   │   ├── Rock_Planet_C.meta
+│   │   │   ├── Stalactites_A
+│   │   │   │   ├── Stalactite_A.fbx
+│   │   │   │   ├── Stalactite_A.fbx.meta
+│   │   │   │   ├── Stalactite_B.fbx
+│   │   │   │   ├── Stalactite_B.fbx.meta
+│   │   │   │   ├── Stalactite_C.fbx
+│   │   │   │   ├── Stalactite_C.fbx.meta
+│   │   │   │   ├── Stalactites_Cluster_A.fbx
+│   │   │   │   └── Stalactites_Cluster_A.fbx.meta
+│   │   │   └── Stalactites_A.meta
+│   │   ├── Rocks.meta
+│   │   ├── Terrain
+│   │   │   ├── Sand_Dunes_A
+│   │   │   │   ├── Sand_Dune_A.fbx
+│   │   │   │   ├── Sand_Dune_A.fbx.meta
+│   │   │   │   ├── Sand_Dune_Corner_A.fbx
+│   │   │   │   ├── Sand_Dune_Corner_A.fbx.meta
+│   │   │   │   ├── Sand_Dune_Wall_A.fbx
+│   │   │   │   ├── Sand_Dune_Wall_A.fbx.meta
+│   │   │   │   ├── Sand_Dune_Wall_B.fbx
+│   │   │   │   ├── Sand_Dune_Wall_B.fbx.meta
+│   │   │   │   ├── Sand_Dune_Wall_C.fbx
+│   │   │   │   └── Sand_Dune_Wall_C.fbx.meta
+│   │   │   └── Sand_Dunes_A.meta
+│   │   ├── Terrain.meta
+│   │   ├── Vents
+│   │   │   ├── Vent_Scifi_A
+│   │   │   │   ├── Vent_Scifi_A.fbx
+│   │   │   │   ├── Vent_Scifi_A.fbx.meta
+│   │   │   │   ├── Vent_Scifi_A_Fan.fbx
+│   │   │   │   └── Vent_Scifi_A_Fan.fbx.meta
+│   │   │   ├── Vent_Scifi_A.meta
+│   │   │   ├── Ventilation_1200x1200_A
+│   │   │   │   ├── Ventilation_1200x1200_A.fbx
+│   │   │   │   ├── Ventilation_1200x1200_A.fbx.meta
+│   │   │   │   ├── Ventilation_1200x1200_A_Fan_A.fbx
+│   │   │   │   └── Ventilation_1200x1200_A_Fan_A.fbx.meta
+│   │   │   ├── Ventilation_1200x1200_A.meta
+│   │   │   ├── Ventilation_A
+│   │   │   │   ├── Ventilation_A.fbx
+│   │   │   │   ├── Ventilation_A.fbx.meta
+│   │   │   │   ├── Ventilation_A_Fan_A.fbx
+│   │   │   │   └── Ventilation_A_Fan_A.fbx.meta
+│   │   │   ├── Ventilation_A.meta
+│   │   │   ├── Ventilation_B
+│   │   │   │   ├── Ventilation_B.fbx
+│   │   │   │   └── Ventilation_B.fbx.meta
+│   │   │   ├── Ventilation_B.meta
+│   │   │   ├── Ventilation_C
+│   │   │   │   ├── Ventilation_C.fbx
+│   │   │   │   ├── Ventilation_C.fbx.meta
+│   │   │   │   ├── Ventilation_C_Fan_A.fbx
+│   │   │   │   └── Ventilation_C_Fan_A.fbx.meta
+│   │   │   ├── Ventilation_C.meta
+│   │   │   ├── Ventilation_D
+│   │   │   │   ├── Ventilation_D.fbx
+│   │   │   │   ├── Ventilation_D.fbx.meta
+│   │   │   │   ├── Ventilation_D_Fan_A.fbx
+│   │   │   │   └── Ventilation_D_Fan_A.fbx.meta
+│   │   │   └── Ventilation_D.meta
+│   │   └── Vents.meta
+│   ├── Props.meta
+│   ├── Vehicles
+│   │   ├── Giant_Digger_A
+│   │   │   ├── Giant_Digger_A.fbx
+│   │   │   ├── Giant_Digger_A.fbx.meta
+│   │   │   ├── Giant_Digger_A_Front.fbx
+│   │   │   ├── Giant_Digger_A_Front.fbx.meta
+│   │   │   ├── Giant_Digger_A_Front_Crusher.fbx
+│   │   │   ├── Giant_Digger_A_Front_Crusher.fbx.meta
+│   │   │   ├── Giant_Digger_A_Head.fbx
+│   │   │   └── Giant_Digger_A_Head.fbx.meta
+│   │   ├── Giant_Digger_A.meta
+│   │   ├── Spaceships
+│   │   │   ├── SpaceShip_Terraformers_Pod_A
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A.fbx
+│   │   │   │   └── SpaceShip_Terraformers_Pod_A.fbx.meta
+│   │   │   ├── SpaceShip_Terraformers_Pod_A.meta
+│   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken.fbx
+│   │   │   │   └── SpaceShip_Terraformers_Pod_A_Broken.fbx.meta
+│   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken.meta
+│   │   │   ├── Spaceship_A
+│   │   │   │   ├── Spaceship_A.fbx
+│   │   │   │   ├── Spaceship_A.fbx.meta
+│   │   │   │   ├── Spaceship_A_Crashed.fbx
+│   │   │   │   ├── Spaceship_A_Crashed.fbx.meta
+│   │   │   │   ├── Spaceship_A_Rigged.FBX
+│   │   │   │   └── Spaceship_A_Rigged.FBX.meta
+│   │   │   ├── Spaceship_A.meta
+│   │   │   ├── Spaceship_Background_A
+│   │   │   │   ├── Spaceship_Background_A.fbx
+│   │   │   │   ├── Spaceship_Background_A.fbx.meta
+│   │   │   │   ├── Spaceship_Background_A_Engine_Turbine.FBX
+│   │   │   │   └── Spaceship_Background_A_Engine_Turbine.FBX.meta
+│   │   │   └── Spaceship_Background_A.meta
+│   │   ├── Spaceships.meta
+│   │   ├── Tunnel_Digger_A
+│   │   │   ├── Rail_Scifi_A.fbx
+│   │   │   ├── Rail_Scifi_A.fbx.meta
+│   │   │   ├── Rail_Tie_Scifi_A.fbx
+│   │   │   ├── Rail_Tie_Scifi_A.fbx.meta
+│   │   │   ├── TunneL_Digger_A_Front.fbx
+│   │   │   ├── TunneL_Digger_A_Front.fbx.meta
+│   │   │   ├── TunneL_Digger_A_Front_Spinner.fbx
+│   │   │   ├── TunneL_Digger_A_Front_Spinner.fbx.meta
+│   │   │   ├── Tunnel_Digger_A.fbx
+│   │   │   ├── Tunnel_Digger_A.fbx.meta
+│   │   │   ├── Tunnel_Digger_A_Rigged.FBX
+│   │   │   └── Tunnel_Digger_A_Rigged.FBX.meta
+│   │   └── Tunnel_Digger_A.meta
+│   └── Vehicles.meta
+├── Environment.meta
+├── Gameplay
+│   ├── Capturepoint_A
+│   │   ├── Capturepoint_A.FBX
+│   │   └── Capturepoint_A.FBX.meta
+│   ├── Capturepoint_A.meta
+│   ├── Spawn_Area_A
+│   │   ├── Spawn_Area_A.FBX
+│   │   └── Spawn_Area_A.FBX.meta
+│   ├── Spawn_Area_A.meta
+│   ├── Spawn_ForceField_A
+│   │   ├── Spawn_ForceField_A.FBX
+│   │   └── Spawn_ForceField_A.FBX.meta
+│   ├── Spawn_ForceField_A.meta
+│   ├── Spawn_ForceField_Doors_A
+│   │   ├── Spawn_ForceField_Door_400x500_A.FBX
+│   │   ├── Spawn_ForceField_Door_400x500_A.FBX.meta
+│   │   ├── Spawn_ForceField_Door_800x500_A.FBX
+│   │   └── Spawn_ForceField_Door_800x500_A.FBX.meta
+│   └── Spawn_ForceField_Doors_A.meta
+├── Gameplay.meta
+├── Weapons
+│   ├── Robot_Weapon_A
+│   │   ├── Robot_Weapon_A.fbx
+│   │   ├── Robot_Weapon_A.fbx.meta
+│   │   ├── Robot_Weapon_A_Default_Mask.mask
+│   │   ├── Robot_Weapon_A_Default_Mask.mask.meta
+│   │   ├── Robot_Weapon_A_Grenade_A.FBX
+│   │   ├── Robot_Weapon_A_Grenade_A.FBX.meta
+│   │   ├── Robot_Weapon_A_Grenade_A_Shell.FBX
+│   │   └── Robot_Weapon_A_Grenade_A_Shell.FBX.meta
+│   ├── Robot_Weapon_A.meta
+│   ├── Terraformer_Sniper_A
+│   │   ├── Terraformer_Sniper_A.FBX
+│   │   └── Terraformer_Sniper_A.FBX.meta
+│   ├── Terraformer_Sniper_A.meta
+│   ├── Terraformer_Weapon_A
+│   │   ├── Terraformer_Weapon_A_1P--Sniper.fbx
+│   │   ├── Terraformer_Weapon_A_1P--Sniper.fbx.meta
+│   │   ├── Terraformer_Weapon_A_1P.fbx
+│   │   ├── Terraformer_Weapon_A_1P.fbx.meta
+│   │   ├── Terraformer_Weapon_A_3P--Sniper.fbx
+│   │   ├── Terraformer_Weapon_A_3P--Sniper.fbx.meta
+│   │   ├── Terraformer_Weapon_A_3P.fbx
+│   │   ├── Terraformer_Weapon_A_3P.fbx.meta
+│   │   ├── Terraformer_Weapon_A_Default_Mask.mask
+│   │   └── Terraformer_Weapon_A_Default_Mask.mask.meta
+│   └── Terraformer_Weapon_A.meta
+└── Weapons.meta
+" }

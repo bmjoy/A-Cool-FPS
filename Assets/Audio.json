@@ -1,0 +1,316 @@
+{"TREE" : "GITSTRUCTURESERVER"} : { "RETURN" : "AUDIO", "REQUEST" : "git@github/server/Individual/Snowynx/AudioFiles/..",
+"
+.
+├── Bank.asset
+├── Bank.asset.meta
+├── Clips
+│   ├── Ambient
+│   │   ├── InGameMusic01.wav
+│   │   ├── InGameMusic01.wav.meta
+│   │   ├── UnitySampleGame-TitleScreenMusic.wav
+│   │   ├── UnitySampleGame-TitleScreenMusic.wav.meta
+│   │   ├── UnitySampleGameDroneMusic-action.wav
+│   │   └── UnitySampleGameDroneMusic-action.wav.meta
+│   ├── Ambient.meta
+│   ├── Characters
+│   │   ├── GirlFootstepsV2-01.wav
+│   │   ├── GirlFootstepsV2-01.wav.meta
+│   │   ├── GirlFootstepsV2-02.wav
+│   │   ├── GirlFootstepsV2-02.wav.meta
+│   │   ├── GirlFootstepsV2-03.wav
+│   │   ├── GirlFootstepsV2-03.wav.meta
+│   │   ├── GirlFootstepsV2-04.wav
+│   │   ├── GirlFootstepsV2-04.wav.meta
+│   │   ├── GirlFootstepsV2-05.wav
+│   │   ├── GirlFootstepsV2-05.wav.meta
+│   │   ├── GirlFootstepsV2-06.wav
+│   │   ├── GirlFootstepsV2-06.wav.meta
+│   │   ├── GirlFootstepsV2-07.wav
+│   │   ├── GirlFootstepsV2-07.wav.meta
+│   │   ├── GirlFootstepsV2-08.wav
+│   │   ├── GirlFootstepsV2-08.wav.meta
+│   │   ├── GirlFootstepsV2-09.wav
+│   │   ├── GirlFootstepsV2-09.wav.meta
+│   │   ├── GirlFootstepsV2-10.wav
+│   │   ├── GirlFootstepsV2-10.wav.meta
+│   │   ├── GirlFootstepsV2-11.wav
+│   │   ├── GirlFootstepsV2-11.wav.meta
+│   │   ├── GirlJetPack01.wav
+│   │   ├── GirlJetPack01.wav.meta
+│   │   ├── GirlLandLarge01.wav
+│   │   ├── GirlLandLarge01.wav.meta
+│   │   ├── GirlLandLarge02.wav
+│   │   ├── GirlLandLarge02.wav.meta
+│   │   ├── GirlLandLarge03.wav
+│   │   ├── GirlLandLarge03.wav.meta
+│   │   ├── GirlLandSmall01.wav
+│   │   ├── GirlLandSmall01.wav.meta
+│   │   ├── GirlLandSmall02.wav
+│   │   ├── GirlLandSmall02.wav.meta
+│   │   ├── GirlLandSmall03.wav
+│   │   ├── GirlLandSmall03.wav.meta
+│   │   ├── GirlLandSmall04.wav
+│   │   ├── GirlLandSmall04.wav.meta
+│   │   ├── GirlLandSmall05.wav
+│   │   ├── GirlLandSmall05.wav.meta
+│   │   ├── GirlLandSmall06.wav
+│   │   ├── GirlLandSmall06.wav.meta
+│   │   ├── GirlMovementClothes01.wav
+│   │   ├── GirlMovementClothes01.wav.meta
+│   │   ├── GirlMovementClothes02.wav
+│   │   ├── GirlMovementClothes02.wav.meta
+│   │   ├── GirlMovementClothes03.wav
+│   │   ├── GirlMovementClothes03.wav.meta
+│   │   ├── GirlMovementClothes04.wav
+│   │   ├── GirlMovementClothes04.wav.meta
+│   │   ├── GirlMovementClothes05.wav
+│   │   ├── GirlMovementClothes05.wav.meta
+│   │   ├── GirlMovementClothes06.wav
+│   │   ├── GirlMovementClothes06.wav.meta
+│   │   ├── GirlMovementClothes07.wav
+│   │   ├── GirlMovementClothes07.wav.meta
+│   │   ├── GirlMovementClothes08.wav
+│   │   ├── GirlMovementClothes08.wav.meta
+│   │   ├── GirlMovementClothes09.wav
+│   │   ├── GirlMovementClothes09.wav.meta
+│   │   ├── GirlMovementClothes10.wav
+│   │   ├── GirlMovementClothes10.wav.meta
+│   │   ├── Robot_footstep_01.wav
+│   │   ├── Robot_footstep_01.wav.meta
+│   │   ├── Robot_footstep_02.wav
+│   │   ├── Robot_footstep_02.wav.meta
+│   │   ├── Robot_footstep_03.wav
+│   │   ├── Robot_footstep_03.wav.meta
+│   │   ├── Robot_footstep_04.wav
+│   │   ├── Robot_footstep_04.wav.meta
+│   │   ├── Robot_footstep_05.wav
+│   │   ├── Robot_footstep_05.wav.meta
+│   │   ├── Robot_footstep_06.wav
+│   │   ├── Robot_footstep_06.wav.meta
+│   │   ├── Robot_footstep_07.wav
+│   │   ├── Robot_footstep_07.wav.meta
+│   │   ├── Robot_footstep_08.wav
+│   │   ├── Robot_footstep_08.wav.meta
+│   │   ├── Robot_footstep_09.wav
+│   │   ├── Robot_footstep_09.wav.meta
+│   │   ├── Robot_footstep_10.wav
+│   │   ├── Robot_footstep_10.wav.meta
+│   │   ├── Robot_footstep_11.wav
+│   │   ├── Robot_footstep_11.wav.meta
+│   │   ├── Robot_footstep_12.wav
+│   │   ├── Robot_footstep_12.wav.meta
+│   │   ├── Robot_footstep_13.wav
+│   │   ├── Robot_footstep_13.wav.meta
+│   │   ├── Robot_footstep_14.wav
+│   │   ├── Robot_footstep_14.wav.meta
+│   │   ├── Robot_footstep_15.wav
+│   │   └── Robot_footstep_15.wav.meta
+│   ├── Characters.meta
+│   ├── HUD
+│   │   ├── Lethal01.wav
+│   │   ├── Lethal01.wav.meta
+│   │   ├── Lethal02.wav
+│   │   ├── Lethal02.wav.meta
+│   │   ├── NonLethal01.wav
+│   │   ├── NonLethal01.wav.meta
+│   │   ├── NonLethal02.wav
+│   │   └── NonLethal02.wav.meta
+│   ├── HUD.meta
+│   ├── Impacts
+│   │   ├── GirlWeaponImpact01.wav
+│   │   ├── GirlWeaponImpact01.wav.meta
+│   │   ├── RobotWeaponImpact01.wav
+│   │   └── RobotWeaponImpact01.wav.meta
+│   ├── Impacts.meta
+│   ├── Level
+│   │   ├── BarrelExplode01.wav
+│   │   └── BarrelExplode01.wav.meta
+│   ├── Level.meta
+│   ├── Menu
+│   │   ├── UI-select01.wav
+│   │   ├── UI-select01.wav.meta
+│   │   ├── UI-select02.wav
+│   │   ├── UI-select02.wav.meta
+│   │   ├── UI-select03.wav
+│   │   ├── UI-select03.wav.meta
+│   │   ├── UI-select04wav.wav
+│   │   └── UI-select04wav.wav.meta
+│   ├── Menu.meta
+│   ├── Weapons
+│   │   ├── GirlWeaponFire01.wav
+│   │   ├── GirlWeaponFire01.wav.meta
+│   │   ├── GirlWeaponFireAlt01.wav
+│   │   ├── GirlWeaponFireAlt01.wav.meta
+│   │   ├── GirlWeaponFireAlt04.wav
+│   │   ├── GirlWeaponFireAlt04.wav.meta
+│   │   ├── GirlWeaponGrenadeExplodeV2.wav
+│   │   ├── GirlWeaponGrenadeExplodeV2.wav.meta
+│   │   ├── GirlWeaponGrenadeFire01.wav
+│   │   ├── GirlWeaponGrenadeFire01.wav.meta
+│   │   ├── GirlWeaponGrenadeImpact01.wav
+│   │   ├── GirlWeaponGrenadeImpact01.wav.meta
+│   │   ├── GirlWeaponReload01.wav
+│   │   ├── GirlWeaponReload01.wav.meta
+│   │   ├── GirlWeaponReloadPart1.wav
+│   │   ├── GirlWeaponReloadPart1.wav.meta
+│   │   ├── GirlWeaponReloadPart2.wav
+│   │   ├── GirlWeaponReloadPart2.wav.meta
+│   │   ├── RobotGunVariation01.wav
+│   │   ├── RobotGunVariation01.wav.meta
+│   │   ├── RobotGunVariation02.wav
+│   │   ├── RobotGunVariation02.wav.meta
+│   │   ├── RobotGunVariation03.wav
+│   │   ├── RobotGunVariation03.wav.meta
+│   │   ├── Robot_grenade_bouce01.wav
+│   │   ├── Robot_grenade_bouce01.wav.meta
+│   │   ├── Robot_gunfire_01.wav
+│   │   ├── Robot_gunfire_01.wav.meta
+│   │   ├── Robot_gunfire_02.wav
+│   │   ├── Robot_gunfire_02.wav.meta
+│   │   ├── Robot_gunfire_03.wav
+│   │   ├── Robot_gunfire_03.wav.meta
+│   │   ├── Robot_gunfire_04.wav
+│   │   ├── Robot_gunfire_04.wav.meta
+│   │   ├── Robot_gunfire_05.wav
+│   │   ├── Robot_gunfire_05.wav.meta
+│   │   ├── Robot_gunfire_06.wav
+│   │   ├── Robot_gunfire_06.wav.meta
+│   │   ├── Robot_gunfire_07.wav
+│   │   ├── Robot_gunfire_07.wav.meta
+│   │   ├── Robot_gunfire_08.wav
+│   │   ├── Robot_gunfire_08.wav.meta
+│   │   ├── Robot_gunfire_09.wav
+│   │   ├── Robot_gunfire_09.wav.meta
+│   │   ├── Robot_gunfire_10.wav
+│   │   ├── Robot_gunfire_10.wav.meta
+│   │   ├── Robot_gunfire_11.wav
+│   │   ├── Robot_gunfire_11.wav.meta
+│   │   ├── Robot_gunfire_12.wav
+│   │   ├── Robot_gunfire_12.wav.meta
+│   │   ├── Robot_gunfire_13.wav
+│   │   ├── Robot_gunfire_13.wav.meta
+│   │   ├── Robot_gunfire_14.wav
+│   │   ├── Robot_gunfire_14.wav.meta
+│   │   ├── Robot_gunfire_15.wav
+│   │   ├── Robot_gunfire_15.wav.meta
+│   │   ├── Robot_gunfire_16.wav
+│   │   ├── Robot_gunfire_16.wav.meta
+│   │   ├── Robot_gunfire_17.wav
+│   │   ├── Robot_gunfire_17.wav.meta
+│   │   ├── Robot_gunfire_18.wav
+│   │   ├── Robot_gunfire_18.wav.meta
+│   │   ├── Robot_gunfire_19.wav
+│   │   └── Robot_gunfire_19.wav.meta
+│   └── Weapons.meta
+├── Clips.meta
+├── Mixers
+│   ├── DefaultMixer.mixer
+│   ├── DefaultMixer.mixer.meta
+│   ├── Master.asset
+│   └── Master.asset.meta
+├── Mixers.meta
+├── Sounddefs
+│   ├── Ambient
+│   │   ├── Drone_Dull.asset
+│   │   ├── Drone_Dull.asset.meta
+│   │   ├── Menu_Music.asset
+│   │   └── Menu_Music.asset.meta
+│   ├── Ambient.meta
+│   ├── Characters
+│   │   ├── Robot_1P_DoubleJump.asset
+│   │   ├── Robot_1P_DoubleJump.asset.meta
+│   │   ├── Robot_1P_Land.asset
+│   │   ├── Robot_1P_Land.asset.meta
+│   │   ├── Robot_3P_DoubleJump.asset
+│   │   ├── Robot_3P_DoubleJump.asset.meta
+│   │   ├── Robot_3P_Land.asset
+│   │   ├── Robot_3P_Land.asset.meta
+│   │   ├── Robot_A_1P_FootStep_Left.asset
+│   │   ├── Robot_A_1P_FootStep_Left.asset.meta
+│   │   ├── Robot_A_1P_FootStep_Right.asset
+│   │   ├── Robot_A_1P_FootStep_Right.asset.meta
+│   │   ├── Robot_A_3P_FootStep.asset
+│   │   ├── Robot_A_3P_FootStep.asset.meta
+│   │   ├── Terraformer_1P_DoubleJump.asset
+│   │   ├── Terraformer_1P_DoubleJump.asset.meta
+│   │   ├── Terraformer_1P_FootStep_Left.asset
+│   │   ├── Terraformer_1P_FootStep_Left.asset.meta
+│   │   ├── Terraformer_1P_FootStep_Right.asset
+│   │   ├── Terraformer_1P_FootStep_Right.asset.meta
+│   │   ├── Terraformer_1P_JumpStart.asset
+│   │   ├── Terraformer_1P_JumpStart.asset.meta
+│   │   ├── Terraformer_1P_Land.asset
+│   │   ├── Terraformer_1P_Land.asset.meta
+│   │   ├── Terraformer_3P_DoubleJump.asset
+│   │   ├── Terraformer_3P_DoubleJump.asset.meta
+│   │   ├── Terraformer_3P_FootStep.asset
+│   │   ├── Terraformer_3P_FootStep.asset.meta
+│   │   ├── Terraformer_3P_JumpStart.asset
+│   │   ├── Terraformer_3P_JumpStart.asset.meta
+│   │   ├── Terraformer_3P_Land.asset
+│   │   └── Terraformer_3P_Land.asset.meta
+│   ├── Characters.meta
+│   ├── HUD
+│   │   ├── HUD_LethalDamage.asset
+│   │   ├── HUD_LethalDamage.asset.meta
+│   │   ├── HUD_NonlethalDamage.asset
+│   │   └── HUD_NonlethalDamage.asset.meta
+│   ├── HUD.meta
+│   ├── Impacts
+│   │   ├── GooA_Generic_ImpactU+005C1.asset
+│   │   ├── GooA_Generic_ImpactU+005C1.asset.meta
+│   │   ├── GooImpact3P.asset
+│   │   ├── GooImpact3P.asset.meta
+│   │   ├── MeleeImpact1P.asset
+│   │   ├── MeleeImpact1P.asset.meta
+│   │   ├── MeleeImpact3P.asset
+│   │   ├── MeleeImpact3P.asset.meta
+│   │   ├── RobotWeaponA_Impact.asset
+│   │   └── RobotWeaponA_Impact.asset.meta
+│   ├── Impacts.meta
+│   ├── Level
+│   │   ├── Barrel_Scifi_Explosion.asset
+│   │   ├── Barrel_Scifi_Explosion.asset.meta
+│   │   ├── Teleporter.asset
+│   │   └── Teleporter.asset.meta
+│   ├── Level.meta
+│   ├── Menu
+│   │   ├── MenuClose.asset
+│   │   ├── MenuClose.asset.meta
+│   │   ├── MenuHighlight.asset
+│   │   ├── MenuHighlight.asset.meta
+│   │   ├── MenuSelectHeavy.asset
+│   │   ├── MenuSelectHeavy.asset.meta
+│   │   ├── MenuSelectLight.asset
+│   │   └── MenuSelectLight.asset.meta
+│   ├── Menu.meta
+│   ├── Weapons
+│   │   ├── ContainerAttach1P.asset
+│   │   ├── ContainerAttach1P.asset.meta
+│   │   ├── ContainerAttach3P.asset
+│   │   ├── ContainerAttach3P.asset.meta
+│   │   ├── ContainerRelease1P.asset
+│   │   ├── ContainerRelease1P.asset.meta
+│   │   ├── ContainerRelease3P.asset
+│   │   ├── ContainerRelease3P.asset.meta
+│   │   ├── GooFire1P.asset
+│   │   ├── GooFire1P.asset.meta
+│   │   ├── GooFire3P.asset
+│   │   ├── GooFire3P.asset.meta
+│   │   ├── RobotWeaponA_GrenadeBounce.asset
+│   │   ├── RobotWeaponA_GrenadeBounce.asset.meta
+│   │   ├── RobotWeaponA_PrimaryFire1P.asset
+│   │   ├── RobotWeaponA_PrimaryFire1P.asset.meta
+│   │   ├── RobotWeaponA_PrimaryFire3P.asset
+│   │   ├── RobotWeaponA_PrimaryFire3P.asset.meta
+│   │   ├── RocketFire1P.asset
+│   │   ├── RocketFire1P.asset.meta
+│   │   ├── RocketFire3P.asset
+│   │   ├── RocketFire3P.asset.meta
+│   │   ├── Rocket_Generic_Impact.asset
+│   │   ├── Rocket_Generic_Impact.asset.meta
+│   │   ├── Rocket_Thruster.asset
+│   │   └── Rocket_Thruster.asset.meta
+│   └── Weapons.meta
+└── Sounddefs.meta
+" }

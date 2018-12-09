@@ -1,0 +1,2358 @@
+{"TREE" : "GITSTRUCTURESERVER"} : { "RETURN" : "TEXTURES", "REQUEST" : "git@github/server/Individual/Snowynx/Textures/..",
+"
+.
+├── Characters
+│   ├── DefaultCharacter
+│   │   ├── DefaultCharacterSpecularSmoothness.tif
+│   │   ├── DefaultCharacterSpecularSmoothness.tif.meta
+│   │   ├── DefaultCharacter_AO.tif
+│   │   ├── DefaultCharacter_AO.tif.meta
+│   │   ├── DefaultCharacter_Albedo.tif
+│   │   ├── DefaultCharacter_Albedo.tif.meta
+│   │   ├── DefaultCharacter_Emissive.tif
+│   │   ├── DefaultCharacter_Emissive.tif.meta
+│   │   ├── DefaultCharacter_Normal.tif
+│   │   ├── DefaultCharacter_Normal.tif.meta
+│   │   ├── DefaultFemale_AO.tif
+│   │   ├── DefaultFemale_AO.tif.meta
+│   │   ├── DefaultFemale_Albedo.tif
+│   │   ├── DefaultFemale_Albedo.tif.meta
+│   │   ├── DefaultFemale_MetalSmooth.tif
+│   │   ├── DefaultFemale_MetalSmooth.tif.meta
+│   │   ├── DefaultFemale_Normal.tif
+│   │   ├── DefaultFemale_Normal.tif.meta
+│   │   ├── DefaultFemale_SpecSmooth.tif
+│   │   ├── DefaultFemale_SpecSmooth.tif.meta
+│   │   ├── Team_Blue
+│   │   │   ├── DefaultFemale_Blue_Albedo.tif
+│   │   │   ├── DefaultFemale_Blue_Albedo.tif.meta
+│   │   │   ├── DefaultFemale_Blue_Emmision.tif
+│   │   │   └── DefaultFemale_Blue_Emmision.tif.meta
+│   │   ├── Team_Blue.meta
+│   │   ├── Team_Red
+│   │   │   ├── DefaultFemale_Red_Albedo.tif
+│   │   │   ├── DefaultFemale_Red_Albedo.tif.meta
+│   │   │   ├── DefaultFemale_Red_Emission.tif
+│   │   │   └── DefaultFemale_Red_Emission.tif.meta
+│   │   └── Team_Red.meta
+│   ├── DefaultCharacter.meta
+│   ├── Robot_A
+│   │   ├── Robot_A_Body_BNM.tif
+│   │   ├── Robot_A_Body_BNM.tif.meta
+│   │   ├── Robot_A_Body_Diffuse.tif
+│   │   ├── Robot_A_Body_Diffuse.tif.meta
+│   │   ├── Robot_A_Body_Height.tif
+│   │   ├── Robot_A_Body_Height.tif.meta
+│   │   ├── Robot_A_Body_Mask_Map.tif
+│   │   ├── Robot_A_Body_Mask_Map.tif.meta
+│   │   ├── Robot_A_Body_Normal.tif
+│   │   ├── Robot_A_Body_Normal.tif.meta
+│   │   ├── Robot_A_Body_Transmission.tif
+│   │   ├── Robot_A_Body_Transmission.tif.meta
+│   │   ├── Robot_A_Eye_BNM.tif
+│   │   ├── Robot_A_Eye_BNM.tif.meta
+│   │   ├── Robot_A_Eye_Diffuse.tif
+│   │   ├── Robot_A_Eye_Diffuse.tif.meta
+│   │   ├── Robot_A_Eye_Emissive.exr
+│   │   ├── Robot_A_Eye_Emissive.exr.meta
+│   │   ├── Robot_A_Eye_Height.tif
+│   │   ├── Robot_A_Eye_Height.tif.meta
+│   │   ├── Robot_A_Eye_Mask_Map.tif
+│   │   ├── Robot_A_Eye_Mask_Map.tif.meta
+│   │   ├── Robot_A_Eye_Normal.tif
+│   │   ├── Robot_A_Eye_Normal.tif.meta
+│   │   ├── Robot_A_Eye_Transmission.tif
+│   │   ├── Robot_A_Eye_Transmission.tif.meta
+│   │   ├── Robot_A_Firstperson_BNM.tif
+│   │   ├── Robot_A_Firstperson_BNM.tif.meta
+│   │   ├── Robot_A_Firstperson_Diffuse.tif
+│   │   ├── Robot_A_Firstperson_Diffuse.tif.meta
+│   │   ├── Robot_A_Firstperson_Emissive.tif
+│   │   ├── Robot_A_Firstperson_Emissive.tif.meta
+│   │   ├── Robot_A_Firstperson_Height.tif
+│   │   ├── Robot_A_Firstperson_Height.tif.meta
+│   │   ├── Robot_A_Firstperson_Mask_Map.tif
+│   │   ├── Robot_A_Firstperson_Mask_Map.tif.meta
+│   │   ├── Robot_A_Firstperson_Normal.tif
+│   │   ├── Robot_A_Firstperson_Normal.tif.meta
+│   │   ├── Robot_A_Firstperson_Transmission.tif
+│   │   ├── Robot_A_Firstperson_Transmission.tif.meta
+│   │   ├── Robot_A_Head_BNM.tif
+│   │   ├── Robot_A_Head_BNM.tif.meta
+│   │   ├── Robot_A_Head_Diffuse.tif
+│   │   ├── Robot_A_Head_Diffuse.tif.meta
+│   │   ├── Robot_A_Head_Height.tif
+│   │   ├── Robot_A_Head_Height.tif.meta
+│   │   ├── Robot_A_Head_Mask_Map.tif
+│   │   ├── Robot_A_Head_Mask_Map.tif.meta
+│   │   ├── Robot_A_Head_Normal.tif
+│   │   ├── Robot_A_Head_Normal.tif.meta
+│   │   ├── Robot_A_Head_Transmission.tif
+│   │   └── Robot_A_Head_Transmission.tif.meta
+│   ├── Robot_A.meta
+│   ├── Terraformer_A
+│   │   ├── Terraformer_A_Backpack_Albedo.tif
+│   │   ├── Terraformer_A_Backpack_Albedo.tif.meta
+│   │   ├── Terraformer_A_Backpack_BNM.tif
+│   │   ├── Terraformer_A_Backpack_BNM.tif.meta
+│   │   ├── Terraformer_A_Backpack_Emissive.tif
+│   │   ├── Terraformer_A_Backpack_Emissive.tif.meta
+│   │   ├── Terraformer_A_Backpack_Height.tif
+│   │   ├── Terraformer_A_Backpack_Height.tif.meta
+│   │   ├── Terraformer_A_Backpack_Mask_map.tif
+│   │   ├── Terraformer_A_Backpack_Mask_map.tif.meta
+│   │   ├── Terraformer_A_Backpack_Normal.tif
+│   │   ├── Terraformer_A_Backpack_Normal.tif.meta
+│   │   ├── Terraformer_A_Backpack_Subsurface_Mask.tif
+│   │   ├── Terraformer_A_Backpack_Subsurface_Mask.tif.meta
+│   │   ├── Terraformer_A_Backpack_Thickness.tif
+│   │   ├── Terraformer_A_Backpack_Thickness.tif.meta
+│   │   ├── Terraformer_A_Body_Albedo.tif
+│   │   ├── Terraformer_A_Body_Albedo.tif.meta
+│   │   ├── Terraformer_A_Body_BNM.tif
+│   │   ├── Terraformer_A_Body_BNM.tif.meta
+│   │   ├── Terraformer_A_Body_Emissive.tif
+│   │   ├── Terraformer_A_Body_Emissive.tif.meta
+│   │   ├── Terraformer_A_Body_Height.tiff
+│   │   ├── Terraformer_A_Body_Height.tiff.meta
+│   │   ├── Terraformer_A_Body_Mask_map.tif
+│   │   ├── Terraformer_A_Body_Mask_map.tif.meta
+│   │   ├── Terraformer_A_Body_Normal.tif
+│   │   ├── Terraformer_A_Body_Normal.tif.meta
+│   │   ├── Terraformer_A_Body_Subsurface_Mask.tif
+│   │   ├── Terraformer_A_Body_Subsurface_Mask.tif.meta
+│   │   ├── Terraformer_A_Body_Thickness.tif
+│   │   ├── Terraformer_A_Body_Thickness.tif.meta
+│   │   ├── Terraformer_A_Eye_Albedo.tif
+│   │   ├── Terraformer_A_Eye_Albedo.tif.meta
+│   │   ├── Terraformer_A_Eye_Emissive.tif
+│   │   ├── Terraformer_A_Eye_Emissive.tif.meta
+│   │   ├── Terraformer_A_Eye_Height.tif
+│   │   ├── Terraformer_A_Eye_Height.tif.meta
+│   │   ├── Terraformer_A_Eye_Mask_map.tif
+│   │   ├── Terraformer_A_Eye_Mask_map.tif.meta
+│   │   ├── Terraformer_A_Eye_Normal.tif
+│   │   ├── Terraformer_A_Eye_Normal.tif.meta
+│   │   ├── Terraformer_A_Eye_Thickness.tif
+│   │   ├── Terraformer_A_Eye_Thickness.tif.meta
+│   │   ├── Terraformer_A_Firstperson_Albedo.tif
+│   │   ├── Terraformer_A_Firstperson_Albedo.tif.meta
+│   │   ├── Terraformer_A_Firstperson_BNM.tif
+│   │   ├── Terraformer_A_Firstperson_BNM.tif.meta
+│   │   ├── Terraformer_A_Firstperson_Emissive.tif
+│   │   ├── Terraformer_A_Firstperson_Emissive.tif.meta
+│   │   ├── Terraformer_A_Firstperson_Height.tif
+│   │   ├── Terraformer_A_Firstperson_Height.tif.meta
+│   │   ├── Terraformer_A_Firstperson_Mask.tif
+│   │   ├── Terraformer_A_Firstperson_Mask.tif.meta
+│   │   ├── Terraformer_A_Firstperson_Mask_map.tif
+│   │   ├── Terraformer_A_Firstperson_Mask_map.tif.meta
+│   │   ├── Terraformer_A_Firstperson_Normal.tif
+│   │   ├── Terraformer_A_Firstperson_Normal.tif.meta
+│   │   ├── Terraformer_A_Firstperson_Thickness.tif
+│   │   ├── Terraformer_A_Firstperson_Thickness.tif.meta
+│   │   ├── Terraformer_A_Hair_Albedo.tif
+│   │   ├── Terraformer_A_Hair_Albedo.tif.meta
+│   │   ├── Terraformer_A_Hair_BNM.tif
+│   │   ├── Terraformer_A_Hair_BNM.tif.meta
+│   │   ├── Terraformer_A_Hair_Height.tif
+│   │   ├── Terraformer_A_Hair_Height.tif.meta
+│   │   ├── Terraformer_A_Hair_Mask_map.tif
+│   │   ├── Terraformer_A_Hair_Mask_map.tif.meta
+│   │   ├── Terraformer_A_Hair_Normal.tif
+│   │   ├── Terraformer_A_Hair_Normal.tif.meta
+│   │   ├── Terraformer_A_Hair_Thickness.tif
+│   │   ├── Terraformer_A_Hair_Thickness.tif.meta
+│   │   ├── Terraformer_A_Head_Albedo.tif
+│   │   ├── Terraformer_A_Head_Albedo.tif.meta
+│   │   ├── Terraformer_A_Head_BNM.tif
+│   │   ├── Terraformer_A_Head_BNM.tif.meta
+│   │   ├── Terraformer_A_Head_Emissive.tif
+│   │   ├── Terraformer_A_Head_Emissive.tif.meta
+│   │   ├── Terraformer_A_Head_Height.tif
+│   │   ├── Terraformer_A_Head_Height.tif.meta
+│   │   ├── Terraformer_A_Head_Mask_map.tif
+│   │   ├── Terraformer_A_Head_Mask_map.tif.meta
+│   │   ├── Terraformer_A_Head_Normal.tif
+│   │   ├── Terraformer_A_Head_Normal.tif.meta
+│   │   ├── Terraformer_A_Head_Thickness.tif
+│   │   ├── Terraformer_A_Head_Thickness.tif.meta
+│   │   ├── Terraformer_A_Helmet_Albedo.tif
+│   │   ├── Terraformer_A_Helmet_Albedo.tif.meta
+│   │   ├── Terraformer_A_Helmet_BNM.tif
+│   │   ├── Terraformer_A_Helmet_BNM.tif.meta
+│   │   ├── Terraformer_A_Helmet_Emissive.tif
+│   │   ├── Terraformer_A_Helmet_Emissive.tif.meta
+│   │   ├── Terraformer_A_Helmet_Height.tif
+│   │   ├── Terraformer_A_Helmet_Height.tif.meta
+│   │   ├── Terraformer_A_Helmet_Mask_map.tif
+│   │   ├── Terraformer_A_Helmet_Mask_map.tif.meta
+│   │   ├── Terraformer_A_Helmet_Normal.tif
+│   │   ├── Terraformer_A_Helmet_Normal.tif.meta
+│   │   ├── Terraformer_A_Helmet_Subsurface_Mask.tif
+│   │   ├── Terraformer_A_Helmet_Subsurface_Mask.tif.meta
+│   │   ├── Terraformer_A_Helmet_Thickness.tif
+│   │   ├── Terraformer_A_Helmet_Thickness.tif.meta
+│   │   ├── Terraformer_A_Teeth_Albedo.tif
+│   │   ├── Terraformer_A_Teeth_Albedo.tif.meta
+│   │   ├── Terraformer_A_Teeth_BNM.tif
+│   │   ├── Terraformer_A_Teeth_BNM.tif.meta
+│   │   ├── Terraformer_A_Teeth_Height.tiff
+│   │   ├── Terraformer_A_Teeth_Height.tiff.meta
+│   │   ├── Terraformer_A_Teeth_Mask_map.tif
+│   │   ├── Terraformer_A_Teeth_Mask_map.tif.meta
+│   │   ├── Terraformer_A_Teeth_Normal.tif
+│   │   ├── Terraformer_A_Teeth_Normal.tif.meta
+│   │   ├── Terraformer_A_Teeth_Thickness.tif
+│   │   └── Terraformer_A_Teeth_Thickness.tif.meta
+│   └── Terraformer_A.meta
+├── Characters.meta
+├── Constants
+│   ├── black.tif
+│   ├── black.tif.meta
+│   ├── blue.tif
+│   ├── blue.tif.meta
+│   ├── gray_186.tif
+│   ├── gray_186.tif.meta
+│   ├── green.tif
+│   ├── green.tif.meta
+│   ├── magenta.tif
+│   ├── magenta.tif.meta
+│   ├── normal.tif
+│   ├── normal.tif.meta
+│   ├── red.tif
+│   ├── red.tif.meta
+│   ├── white.tif
+│   ├── white.tif.meta
+│   ├── yellow.tif
+│   └── yellow.tif.meta
+├── Constants.meta
+├── Effects
+│   ├── Cookies
+│   │   ├── Square_HalogenSpot_A_Cookie.tif
+│   │   ├── Square_HalogenSpot_A_Cookie.tif.meta
+│   │   ├── Square_Soft_A_Cookie.tif
+│   │   └── Square_Soft_A_Cookie.tif.meta
+│   ├── Cookies.meta
+│   ├── Impacts
+│   │   ├── Impact_Rocket_Terraformer_A.tif
+│   │   └── Impact_Rocket_Terraformer_A.tif.meta
+│   ├── Impacts.meta
+│   ├── LensDirt
+│   │   ├── LensDirtSG_A_00_Albedo.png
+│   │   └── LensDirtSG_A_00_Albedo.png.meta
+│   ├── LensDirt.meta
+│   ├── Muzzleflashes
+│   │   ├── Muzzleflash_Robot_Weapon_A.tif
+│   │   ├── Muzzleflash_Robot_Weapon_A.tif.meta
+│   │   ├── Muzzleflash_Robot_Weapon_Color_A.tif
+│   │   ├── Muzzleflash_Robot_Weapon_Color_A.tif.meta
+│   │   ├── Muzzleflash_Terraformer_Weapon_A.tif
+│   │   └── Muzzleflash_Terraformer_Weapon_A.tif.meta
+│   └── Muzzleflashes.meta
+├── Effects.meta
+├── Environment
+│   ├── Architecture
+│   │   ├── Spacestation_Beams_A
+│   │   │   ├── Spacestation_Beams_A_Color_A_Albedo.tif
+│   │   │   ├── Spacestation_Beams_A_Color_A_Albedo.tif.meta
+│   │   │   ├── Spacestation_Beams_A_Color_B_Albedo.tif
+│   │   │   ├── Spacestation_Beams_A_Color_B_Albedo.tif.meta
+│   │   │   ├── Spacestation_Beams_A_MaskMap.tif
+│   │   │   ├── Spacestation_Beams_A_MaskMap.tif.meta
+│   │   │   ├── Spacestation_Beams_A_Normal.tif
+│   │   │   └── Spacestation_Beams_A_Normal.tif.meta
+│   │   ├── Spacestation_Beams_A.meta
+│   │   ├── Spacestation_Beams_B
+│   │   │   ├── Spacestation_Beams_B_Color_A_Albedo.tif
+│   │   │   ├── Spacestation_Beams_B_Color_A_Albedo.tif.meta
+│   │   │   ├── Spacestation_Beams_B_Color_B_Albedo.tif
+│   │   │   ├── Spacestation_Beams_B_Color_B_Albedo.tif.meta
+│   │   │   ├── Spacestation_Beams_B_MaskMap.tif
+│   │   │   ├── Spacestation_Beams_B_MaskMap.tif.meta
+│   │   │   ├── Spacestation_Beams_B_Normal.tif
+│   │   │   └── Spacestation_Beams_B_Normal.tif.meta
+│   │   ├── Spacestation_Beams_B.meta
+│   │   ├── Spacestation_Elements_A
+│   │   │   ├── Spacestation_Elements_A_Color_A_Albedo.tif
+│   │   │   ├── Spacestation_Elements_A_Color_A_Albedo.tif.meta
+│   │   │   ├── Spacestation_Elements_A_Color_B_Albedo.tif
+│   │   │   ├── Spacestation_Elements_A_Color_B_Albedo.tif.meta
+│   │   │   ├── Spacestation_Elements_A_MaskMap.tif
+│   │   │   ├── Spacestation_Elements_A_MaskMap.tif.meta
+│   │   │   ├── Spacestation_Elements_A_Normal.tif
+│   │   │   └── Spacestation_Elements_A_Normal.tif.meta
+│   │   └── Spacestation_Elements_A.meta
+│   ├── Architecture.meta
+│   ├── Backdrop
+│   │   ├── Asteroid_Belt_A
+│   │   │   ├── Asteroid_Belt_A_Color_A_Albedo.tif
+│   │   │   ├── Asteroid_Belt_A_Color_A_Albedo.tif.meta
+│   │   │   ├── Asteroid_Belt_A_MaskMap.tif
+│   │   │   ├── Asteroid_Belt_A_MaskMap.tif.meta
+│   │   │   ├── Asteroid_Belt_A_Normal.tif
+│   │   │   ├── Asteroid_Belt_A_Normal.tif.meta
+│   │   │   ├── Asteroids_A_SpecialMask.tif
+│   │   │   └── Asteroids_A_SpecialMask.tif.meta
+│   │   ├── Asteroid_Belt_A.meta
+│   │   ├── Asteroids_A
+│   │   │   ├── Asteroids_A_LayerMask.tif
+│   │   │   └── Asteroids_A_LayerMask.tif.meta
+│   │   ├── Asteroids_A.meta
+│   │   ├── Level_01_Far_Backdrop_A
+│   │   │   ├── Level_01_Far_Backdrop_A_Color_A_Albedo.tif
+│   │   │   ├── Level_01_Far_Backdrop_A_Color_A_Albedo.tif.meta
+│   │   │   ├── Level_01_Far_Backdrop_A_H.exr
+│   │   │   ├── Level_01_Far_Backdrop_A_H.exr.meta
+│   │   │   ├── Level_01_Far_Backdrop_A_Layermask.tif
+│   │   │   ├── Level_01_Far_Backdrop_A_Layermask.tif.meta
+│   │   │   ├── Level_01_Far_Backdrop_A_Normal.tif
+│   │   │   └── Level_01_Far_Backdrop_A_Normal.tif.meta
+│   │   ├── Level_01_Far_Backdrop_A.meta
+│   │   ├── Level_01_Far_Backdrop_Strip_A
+│   │   │   ├── Level_01_Far_Backdrop_Strip_A_Albedo.tif
+│   │   │   ├── Level_01_Far_Backdrop_Strip_A_Albedo.tif.meta
+│   │   │   ├── Level_01_Far_Backdrop_Strip_A_MaskMap.tif
+│   │   │   ├── Level_01_Far_Backdrop_Strip_A_MaskMap.tif.meta
+│   │   │   ├── Level_01_Far_Backdrop_Strip_A_Normal.tif
+│   │   │   └── Level_01_Far_Backdrop_Strip_A_Normal.tif.meta
+│   │   └── Level_01_Far_Backdrop_Strip_A.meta
+│   ├── Backdrop.meta
+│   ├── Ceilings
+│   │   ├── Ceiling_Metal_Elements_A
+│   │   │   ├── Ceiling_Metal_Elements_A_Albedo.tif
+│   │   │   ├── Ceiling_Metal_Elements_A_Albedo.tif.meta
+│   │   │   ├── Ceiling_Metal_Elements_A_BNM.tif
+│   │   │   ├── Ceiling_Metal_Elements_A_BNM.tif.meta
+│   │   │   ├── Ceiling_Metal_Elements_A_Height.tif
+│   │   │   ├── Ceiling_Metal_Elements_A_Height.tif.meta
+│   │   │   ├── Ceiling_Metal_Elements_A_LayerMask.tif
+│   │   │   ├── Ceiling_Metal_Elements_A_LayerMask.tif.meta
+│   │   │   ├── Ceiling_Metal_Elements_A_MaskMap.tif
+│   │   │   ├── Ceiling_Metal_Elements_A_MaskMap.tif.meta
+│   │   │   ├── Ceiling_Metal_Elements_A_Normal.tif
+│   │   │   └── Ceiling_Metal_Elements_A_Normal.tif.meta
+│   │   └── Ceiling_Metal_Elements_A.meta
+│   ├── Ceilings.meta
+│   ├── Concrete
+│   │   ├── Concrete_A
+│   │   │   ├── Concrete_A_BaseColor_A.tif
+│   │   │   ├── Concrete_A_BaseColor_A.tif.meta
+│   │   │   ├── Concrete_A_Height.tif
+│   │   │   ├── Concrete_A_Height.tif.meta
+│   │   │   ├── Concrete_A_Mask_Map.tif
+│   │   │   ├── Concrete_A_Mask_Map.tif.meta
+│   │   │   ├── Concrete_A_Normal.tif
+│   │   │   └── Concrete_A_Normal.tif.meta
+│   │   ├── Concrete_A.meta
+│   │   ├── Concrete_B
+│   │   │   ├── Concrete_B_BaseColor_A.tif
+│   │   │   ├── Concrete_B_BaseColor_A.tif.meta
+│   │   │   ├── Concrete_B_Height.tif
+│   │   │   ├── Concrete_B_Height.tif.meta
+│   │   │   ├── Concrete_B_Mask_Map.tif
+│   │   │   ├── Concrete_B_Mask_Map.tif.meta
+│   │   │   ├── Concrete_B_Normal.tif
+│   │   │   └── Concrete_B_Normal.tif.meta
+│   │   └── Concrete_B.meta
+│   ├── Concrete.meta
+│   ├── Decals
+│   │   ├── Decal_Dirt_A
+│   │   │   ├── Decal_Dirt_A_BaseColor_A.tif
+│   │   │   ├── Decal_Dirt_A_BaseColor_A.tif.meta
+│   │   │   ├── Decal_Dirt_A_MaskMap.tif
+│   │   │   ├── Decal_Dirt_A_MaskMap.tif.meta
+│   │   │   ├── Decal_Dirt_A_Normals.tif
+│   │   │   └── Decal_Dirt_A_Normals.tif.meta
+│   │   ├── Decal_Dirt_A.meta
+│   │   ├── Decal_Dirt_B
+│   │   │   ├── Decal_Dirt_B_BaseColor_A.tif
+│   │   │   ├── Decal_Dirt_B_BaseColor_A.tif.meta
+│   │   │   ├── Decal_Dirt_B_MaskMap.tif
+│   │   │   ├── Decal_Dirt_B_MaskMap.tif.meta
+│   │   │   ├── Decal_Dirt_B_Normals.tif
+│   │   │   └── Decal_Dirt_B_Normals.tif.meta
+│   │   ├── Decal_Dirt_B.meta
+│   │   ├── Decal_Dirt_Leak_A
+│   │   │   ├── Decal_Dirt_Leak_A_BaseColor_A.tif
+│   │   │   ├── Decal_Dirt_Leak_A_BaseColor_A.tif.meta
+│   │   │   ├── Decal_Dirt_Leak_A_MaskMap.tif
+│   │   │   ├── Decal_Dirt_Leak_A_MaskMap.tif.meta
+│   │   │   ├── Decal_Dirt_Leak_A_Normals.tif
+│   │   │   └── Decal_Dirt_Leak_A_Normals.tif.meta
+│   │   ├── Decal_Dirt_Leak_A.meta
+│   │   ├── Decal_Rust_A
+│   │   │   ├── Decal_Rust_A_BaseColor_A.tif
+│   │   │   ├── Decal_Rust_A_BaseColor_A.tif.meta
+│   │   │   ├── Decal_Rust_A_MaskMap.tif
+│   │   │   ├── Decal_Rust_A_MaskMap.tif.meta
+│   │   │   ├── Decal_Rust_A_Normals.tif
+│   │   │   └── Decal_Rust_A_Normals.tif.meta
+│   │   ├── Decal_Rust_A.meta
+│   │   ├── Decal_Rust_B
+│   │   │   ├── Decal_Rust_B_BaseColor_A.tif
+│   │   │   ├── Decal_Rust_B_BaseColor_A.tif.meta
+│   │   │   ├── Decal_Rust_B_MaskMap.tif
+│   │   │   ├── Decal_Rust_B_MaskMap.tif.meta
+│   │   │   ├── Decal_Rust_B_Normals.tif
+│   │   │   └── Decal_Rust_B_Normals.tif.meta
+│   │   ├── Decal_Rust_B.meta
+│   │   ├── Decal_Rust_C
+│   │   │   ├── Decal_Rust_C_BaseColor_A.tif
+│   │   │   ├── Decal_Rust_C_BaseColor_A.tif.meta
+│   │   │   ├── Decal_Rust_C_MaskMap.tif
+│   │   │   ├── Decal_Rust_C_MaskMap.tif.meta
+│   │   │   ├── Decal_Rust_C_Normals.tif
+│   │   │   └── Decal_Rust_C_Normals.tif.meta
+│   │   └── Decal_Rust_C.meta
+│   ├── Decals.meta
+│   ├── DefaultGridAlbedo.tif
+│   ├── DefaultGridAlbedo.tif.meta
+│   ├── Elevators
+│   │   ├── Elevator_Industrial_Scifi_A
+│   │   │   ├── Elevator_Industrial_Scifi_A_Albedo.tif
+│   │   │   ├── Elevator_Industrial_Scifi_A_Albedo.tif.meta
+│   │   │   ├── Elevator_Industrial_Scifi_A_BNM.tif
+│   │   │   ├── Elevator_Industrial_Scifi_A_BNM.tif.meta
+│   │   │   ├── Elevator_Industrial_Scifi_A_Height.tif
+│   │   │   ├── Elevator_Industrial_Scifi_A_Height.tif.meta
+│   │   │   ├── Elevator_Industrial_Scifi_A_MaskMap.tif
+│   │   │   ├── Elevator_Industrial_Scifi_A_MaskMap.tif.meta
+│   │   │   ├── Elevator_Industrial_Scifi_A_Normal.tif
+│   │   │   └── Elevator_Industrial_Scifi_A_Normal.tif.meta
+│   │   ├── Elevator_Industrial_Scifi_A.meta
+│   │   ├── Elevator_Industrial_Shaft_Scifi_A
+│   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_Albedo.tif
+│   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_Albedo.tif.meta
+│   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_BNM.tif
+│   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_BNM.tif.meta
+│   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_Height.tif
+│   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_Height.tif.meta
+│   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_MaskMap.tif
+│   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_MaskMap.tif.meta
+│   │   │   ├── Elevator_Industrial_Shaft_Scifi_A_Normal.tif
+│   │   │   └── Elevator_Industrial_Shaft_Scifi_A_Normal.tif.meta
+│   │   └── Elevator_Industrial_Shaft_Scifi_A.meta
+│   ├── Elevators.meta
+│   ├── Environment_Tileset_Scifi_A
+│   │   ├── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A
+│   │   │   ├── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A_Albedo.tif
+│   │   │   ├── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A_Albedo.tif.meta
+│   │   │   ├── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A_BNM.tif
+│   │   │   ├── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A_BNM.tif.meta
+│   │   │   ├── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A_Height.tif
+│   │   │   ├── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A_Height.tif.meta
+│   │   │   ├── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A_LayerMask.tif
+│   │   │   ├── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A_LayerMask.tif.meta
+│   │   │   ├── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A_MaskMap.tif
+│   │   │   ├── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A_MaskMap.tif.meta
+│   │   │   ├── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A_Normal.tif
+│   │   │   └── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A_Normal.tif.meta
+│   │   ├── Environment_Tileset_Scifi_A_Floor_Ceiling_Trims_A.meta
+│   │   ├── Environment_Tileset_Scifi_A_Floordividers_A
+│   │   │   ├── Environment_Tileset_Scifi_A_Floordividers_A_Albedo.tif
+│   │   │   ├── Environment_Tileset_Scifi_A_Floordividers_A_Albedo.tif.meta
+│   │   │   ├── Environment_Tileset_Scifi_A_Floordividers_A_BNM.tif
+│   │   │   ├── Environment_Tileset_Scifi_A_Floordividers_A_BNM.tif.meta
+│   │   │   ├── Environment_Tileset_Scifi_A_Floordividers_A_Height.tif
+│   │   │   ├── Environment_Tileset_Scifi_A_Floordividers_A_Height.tif.meta
+│   │   │   ├── Environment_Tileset_Scifi_A_Floordividers_A_LayerMask.tif
+│   │   │   ├── Environment_Tileset_Scifi_A_Floordividers_A_LayerMask.tif.meta
+│   │   │   ├── Environment_Tileset_Scifi_A_Floordividers_A_MaskMap.tif
+│   │   │   ├── Environment_Tileset_Scifi_A_Floordividers_A_MaskMap.tif.meta
+│   │   │   ├── Environment_Tileset_Scifi_A_Floordividers_A_Normal.tif
+│   │   │   └── Environment_Tileset_Scifi_A_Floordividers_A_Normal.tif.meta
+│   │   └── Environment_Tileset_Scifi_A_Floordividers_A.meta
+│   ├── Environment_Tileset_Scifi_A.meta
+│   ├── Floors
+│   │   ├── Floor_Metal_Diamonds_A
+│   │   │   ├── Floor_Metal_Diamonds_A_Albedo.tif
+│   │   │   ├── Floor_Metal_Diamonds_A_Albedo.tif.meta
+│   │   │   ├── Floor_Metal_Diamonds_A_BNM.tif
+│   │   │   ├── Floor_Metal_Diamonds_A_BNM.tif.meta
+│   │   │   ├── Floor_Metal_Diamonds_A_Height.tif
+│   │   │   ├── Floor_Metal_Diamonds_A_Height.tif.meta
+│   │   │   ├── Floor_Metal_Diamonds_A_MaskMap.tif
+│   │   │   ├── Floor_Metal_Diamonds_A_MaskMap.tif.meta
+│   │   │   ├── Floor_Metal_Diamonds_A_Normal.tif
+│   │   │   └── Floor_Metal_Diamonds_A_Normal.tif.meta
+│   │   ├── Floor_Metal_Diamonds_A.meta
+│   │   ├── Floor_Metal_Elements_A
+│   │   │   ├── Floor_Metal_Elements_A_Albedo.tif
+│   │   │   ├── Floor_Metal_Elements_A_Albedo.tif.meta
+│   │   │   ├── Floor_Metal_Elements_A_BNM.tif
+│   │   │   ├── Floor_Metal_Elements_A_BNM.tif.meta
+│   │   │   ├── Floor_Metal_Elements_A_Height.tif
+│   │   │   ├── Floor_Metal_Elements_A_Height.tif.meta
+│   │   │   ├── Floor_Metal_Elements_A_LayerMask.tif
+│   │   │   ├── Floor_Metal_Elements_A_LayerMask.tif.meta
+│   │   │   ├── Floor_Metal_Elements_A_MaskMap.tif
+│   │   │   ├── Floor_Metal_Elements_A_MaskMap.tif.meta
+│   │   │   ├── Floor_Metal_Elements_A_Normal.tif
+│   │   │   └── Floor_Metal_Elements_A_Normal.tif.meta
+│   │   └── Floor_Metal_Elements_A.meta
+│   ├── Floors.meta
+│   ├── Ground
+│   │   ├── Bedrock_Ochre_A
+│   │   │   ├── Bedrock_Ochre_A_Albedo.tif
+│   │   │   ├── Bedrock_Ochre_A_Albedo.tif.meta
+│   │   │   ├── Bedrock_Ochre_A_Height.tiff
+│   │   │   ├── Bedrock_Ochre_A_Height.tiff.meta
+│   │   │   ├── Bedrock_Ochre_A_Mask_Map.tif
+│   │   │   ├── Bedrock_Ochre_A_Mask_Map.tif.meta
+│   │   │   ├── Bedrock_Ochre_A_Normal.tif
+│   │   │   └── Bedrock_Ochre_A_Normal.tif.meta
+│   │   ├── Bedrock_Ochre_A.meta
+│   │   ├── Moss_Clump_A
+│   │   │   ├── Moss_Clump_A_Albedo.tif
+│   │   │   ├── Moss_Clump_A_Albedo.tif.meta
+│   │   │   ├── Moss_Clump_A_Height.tif
+│   │   │   ├── Moss_Clump_A_Height.tif.meta
+│   │   │   ├── Moss_Clump_A_Mask_Map.tif
+│   │   │   ├── Moss_Clump_A_Mask_Map.tif.meta
+│   │   │   ├── Moss_Clump_A_Normal.tif
+│   │   │   ├── Moss_Clump_A_Normal.tif.meta
+│   │   │   ├── Moss_Clump_A_Thickness.tif
+│   │   │   └── Moss_Clump_A_Thickness.tif.meta
+│   │   ├── Moss_Clump_A.meta
+│   │   ├── Sand_Dunes_A
+│   │   │   ├── Sand_Dunes_A_Albedo.tif
+│   │   │   ├── Sand_Dunes_A_Albedo.tif.meta
+│   │   │   ├── Sand_Dunes_A_Height.tiff
+│   │   │   ├── Sand_Dunes_A_Height.tiff.meta
+│   │   │   ├── Sand_Dunes_A_Mask_Map.tif
+│   │   │   ├── Sand_Dunes_A_Mask_Map.tif.meta
+│   │   │   ├── Sand_Dunes_A_Normal.tif
+│   │   │   └── Sand_Dunes_A_Normal.tif.meta
+│   │   ├── Sand_Dunes_A.meta
+│   │   ├── Sand_Ochre_A
+│   │   │   ├── Sand_Ochre_A_Albedo.tif
+│   │   │   ├── Sand_Ochre_A_Albedo.tif.meta
+│   │   │   ├── Sand_Ochre_A_Mask_Map.tif
+│   │   │   ├── Sand_Ochre_A_Mask_Map.tif.meta
+│   │   │   ├── Sand_Ochre_A_Normal.tif
+│   │   │   └── Sand_Ochre_A_Normal.tif.meta
+│   │   ├── Sand_Ochre_A.meta
+│   │   ├── Sand_Pebbles_A
+│   │   │   ├── Sand_Pebbles_A_Albedo.tif
+│   │   │   ├── Sand_Pebbles_A_Albedo.tif.meta
+│   │   │   ├── Sand_Pebbles_A_Height.tiff
+│   │   │   ├── Sand_Pebbles_A_Height.tiff.meta
+│   │   │   ├── Sand_Pebbles_A_Mask_Map.tif
+│   │   │   ├── Sand_Pebbles_A_Mask_Map.tif.meta
+│   │   │   ├── Sand_Pebbles_A_Normal.tif
+│   │   │   └── Sand_Pebbles_A_Normal.tif.meta
+│   │   └── Sand_Pebbles_A.meta
+│   ├── Ground.meta
+│   ├── Levels
+│   │   ├── Level_01
+│   │   │   ├── Level_01_Backdrop_A
+│   │   │   │   ├── Level_01_Backdrop_A_Color_A_Albedo.tif
+│   │   │   │   ├── Level_01_Backdrop_A_Color_A_Albedo.tif.meta
+│   │   │   │   ├── Level_01_Backdrop_A_LayerMask.tif
+│   │   │   │   ├── Level_01_Backdrop_A_LayerMask.tif.meta
+│   │   │   │   ├── Level_01_Backdrop_A_MaskMap.tif
+│   │   │   │   ├── Level_01_Backdrop_A_MaskMap.tif.meta
+│   │   │   │   ├── Level_01_Backdrop_A_Normal.tif
+│   │   │   │   ├── Level_01_Backdrop_A_Normal.tif.meta
+│   │   │   │   ├── level_01_backdrop_a_height.tif
+│   │   │   │   └── level_01_backdrop_a_height.tif.meta
+│   │   │   └── Level_01_Backdrop_A.meta
+│   │   └── Level_01.meta
+│   ├── Levels.meta
+│   ├── Metal
+│   │   ├── Metal_Aircraft_Panels_A
+│   │   │   ├── Metal_Aircraft_Panels_A_BNM.tiff
+│   │   │   ├── Metal_Aircraft_Panels_A_BNM.tiff.meta
+│   │   │   ├── Metal_Aircraft_Panels_A_Color_A_Albedo.tif
+│   │   │   ├── Metal_Aircraft_Panels_A_Color_A_Albedo.tif.meta
+│   │   │   ├── Metal_Aircraft_Panels_A_Color_A_Grunge_Albedo.tif
+│   │   │   ├── Metal_Aircraft_Panels_A_Color_A_Grunge_Albedo.tif.meta
+│   │   │   ├── Metal_Aircraft_Panels_A_Color_B_Albedo.tif
+│   │   │   ├── Metal_Aircraft_Panels_A_Color_B_Albedo.tif.meta
+│   │   │   ├── Metal_Aircraft_Panels_A_Color_B_Grunge_Albedo.tif
+│   │   │   ├── Metal_Aircraft_Panels_A_Color_B_Grunge_Albedo.tif.meta
+│   │   │   ├── Metal_Aircraft_Panels_A_Grunge_MaskMap.tif
+│   │   │   ├── Metal_Aircraft_Panels_A_Grunge_MaskMap.tif.meta
+│   │   │   ├── Metal_Aircraft_Panels_A_Grunge_Normal.tif
+│   │   │   ├── Metal_Aircraft_Panels_A_Grunge_Normal.tif.meta
+│   │   │   ├── Metal_Aircraft_Panels_A_MaskMap.tif
+│   │   │   ├── Metal_Aircraft_Panels_A_MaskMap.tif.meta
+│   │   │   ├── Metal_Aircraft_Panels_A_Normal.tif
+│   │   │   ├── Metal_Aircraft_Panels_A_Normal.tif.meta
+│   │   │   ├── Metal_Aircraft_Panels_A_height.tiff
+│   │   │   └── Metal_Aircraft_Panels_A_height.tiff.meta
+│   │   ├── Metal_Aircraft_Panels_A.meta
+│   │   ├── Metal_Grating_Floor_A
+│   │   │   ├── Metal_Grating_Floor_A_BNM.tiff
+│   │   │   ├── Metal_Grating_Floor_A_BNM.tiff.meta
+│   │   │   ├── Metal_Grating_Floor_A_Color_A_Albedo.tif
+│   │   │   ├── Metal_Grating_Floor_A_Color_A_Albedo.tif.meta
+│   │   │   ├── Metal_Grating_Floor_A_Color_B_Albedo.tif
+│   │   │   ├── Metal_Grating_Floor_A_Color_B_Albedo.tif.meta
+│   │   │   ├── Metal_Grating_Floor_A_MaskMap.tif
+│   │   │   ├── Metal_Grating_Floor_A_MaskMap.tif.meta
+│   │   │   ├── Metal_Grating_Floor_A_Normal.tif
+│   │   │   ├── Metal_Grating_Floor_A_Normal.tif.meta
+│   │   │   ├── Metal_Grating_Floor_A_height.tiff
+│   │   │   └── Metal_Grating_Floor_A_height.tiff.meta
+│   │   ├── Metal_Grating_Floor_A.meta
+│   │   ├── Metal_Greeble_A
+│   │   │   ├── Metal_Greeble_A_BNM.tiff
+│   │   │   ├── Metal_Greeble_A_BNM.tiff.meta
+│   │   │   ├── Metal_Greeble_A_Color_A_Albedo.tif
+│   │   │   ├── Metal_Greeble_A_Color_A_Albedo.tif.meta
+│   │   │   ├── Metal_Greeble_A_Height.tiff
+│   │   │   ├── Metal_Greeble_A_Height.tiff.meta
+│   │   │   ├── Metal_Greeble_A_MaskMap.tif
+│   │   │   ├── Metal_Greeble_A_MaskMap.tif.meta
+│   │   │   ├── Metal_Greeble_A_Normal.tif
+│   │   │   └── Metal_Greeble_A_Normal.tif.meta
+│   │   ├── Metal_Greeble_A.meta
+│   │   ├── Metal_Roller_Wall_A
+│   │   │   ├── Metal_Roller_Wall_A_BNM.tiff
+│   │   │   ├── Metal_Roller_Wall_A_BNM.tiff.meta
+│   │   │   ├── Metal_Roller_Wall_A_Color_A_Albedo.tif
+│   │   │   ├── Metal_Roller_Wall_A_Color_A_Albedo.tif.meta
+│   │   │   ├── Metal_Roller_Wall_A_Color_B_Albedo.tif
+│   │   │   ├── Metal_Roller_Wall_A_Color_B_Albedo.tif.meta
+│   │   │   ├── Metal_Roller_Wall_A_MaskMap.tif
+│   │   │   ├── Metal_Roller_Wall_A_MaskMap.tif.meta
+│   │   │   ├── Metal_Roller_Wall_A_Normal.tif
+│   │   │   ├── Metal_Roller_Wall_A_Normal.tif.meta
+│   │   │   ├── Metal_Roller_Wall_A_height.tiff
+│   │   │   └── Metal_Roller_Wall_A_height.tiff.meta
+│   │   └── Metal_Roller_Wall_A.meta
+│   ├── Metal.meta
+│   ├── Props
+│   │   ├── Barrels
+│   │   │   ├── Barrel_Scifi_A
+│   │   │   │   ├── Barrel_Scifi_A_BNM.tiff
+│   │   │   │   ├── Barrel_Scifi_A_BNM.tiff.meta
+│   │   │   │   ├── Barrel_Scifi_A_BaseColor_A.tif
+│   │   │   │   ├── Barrel_Scifi_A_BaseColor_A.tif.meta
+│   │   │   │   ├── Barrel_Scifi_A_Glass_BaseColor_A.tif
+│   │   │   │   ├── Barrel_Scifi_A_Glass_BaseColor_A.tif.meta
+│   │   │   │   ├── Barrel_Scifi_A_Glass_MaskMap.tif
+│   │   │   │   ├── Barrel_Scifi_A_Glass_MaskMap.tif.meta
+│   │   │   │   ├── Barrel_Scifi_A_Glass_Normal.tif
+│   │   │   │   ├── Barrel_Scifi_A_Glass_Normal.tif.meta
+│   │   │   │   ├── Barrel_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Barrel_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Barrel_Scifi_A_Normal.tif
+│   │   │   │   └── Barrel_Scifi_A_Normal.tif.meta
+│   │   │   └── Barrel_Scifi_A.meta
+│   │   ├── Barrels.meta
+│   │   ├── Crates
+│   │   │   ├── Crate_Scifi_A
+│   │   │   │   ├── Crate_Scifi_A_Albedo.tif
+│   │   │   │   ├── Crate_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Crate_Scifi_A_Height.tif
+│   │   │   │   ├── Crate_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Crate_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Crate_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Crate_Scifi_A_Normal.tif
+│   │   │   │   └── Crate_Scifi_A_Normal.tif.meta
+│   │   │   └── Crate_Scifi_A.meta
+│   │   ├── Crates.meta
+│   │   ├── Destruction
+│   │   │   ├── Building_Destruction_Pieces_Scifi_A
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_A_Albedo.tif
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_A_BNM.tif
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_A_Emissive.tif
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_A_Emissive.tif.meta
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_A_Height.tif
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_A_LayerMask.tif
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_A_LayerMask.tif.meta
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Building_Destruction_Piece_Scifi_A_Normal.tif
+│   │   │   │   └── Building_Destruction_Piece_Scifi_A_Normal.tif.meta
+│   │   │   └── Building_Destruction_Pieces_Scifi_A.meta
+│   │   ├── Destruction.meta
+│   │   ├── Doors
+│   │   │   ├── Doors_Scifi_A
+│   │   │   │   ├── Door_1200x1100_A
+│   │   │   │   │   ├── Door_1200x1100_A_Albedo.tif
+│   │   │   │   │   ├── Door_1200x1100_A_Albedo.tif.meta
+│   │   │   │   │   ├── Door_1200x1100_A_BNM.tif
+│   │   │   │   │   ├── Door_1200x1100_A_BNM.tif.meta
+│   │   │   │   │   ├── Door_1200x1100_A_Height.tif
+│   │   │   │   │   ├── Door_1200x1100_A_Height.tif.meta
+│   │   │   │   │   ├── Door_1200x1100_A_LayerMask.tif
+│   │   │   │   │   ├── Door_1200x1100_A_LayerMask.tif.meta
+│   │   │   │   │   ├── Door_1200x1100_A_MaskMap.tif
+│   │   │   │   │   ├── Door_1200x1100_A_MaskMap.tif.meta
+│   │   │   │   │   ├── Door_1200x1100_A_Normal.tif
+│   │   │   │   │   └── Door_1200x1100_A_Normal.tif.meta
+│   │   │   │   ├── Door_1200x1100_A.meta
+│   │   │   │   ├── Door_400x500_A
+│   │   │   │   │   ├── Door_400x500_A_Albedo.tif
+│   │   │   │   │   ├── Door_400x500_A_Albedo.tif.meta
+│   │   │   │   │   ├── Door_400x500_A_BNM.tif
+│   │   │   │   │   ├── Door_400x500_A_BNM.tif.meta
+│   │   │   │   │   ├── Door_400x500_A_Glass_Albedo.tif
+│   │   │   │   │   ├── Door_400x500_A_Glass_Albedo.tif.meta
+│   │   │   │   │   ├── Door_400x500_A_Glass_BNM.tif
+│   │   │   │   │   ├── Door_400x500_A_Glass_BNM.tif.meta
+│   │   │   │   │   ├── Door_400x500_A_Glass_BNM.tiff
+│   │   │   │   │   ├── Door_400x500_A_Glass_BNM.tiff.meta
+│   │   │   │   │   ├── Door_400x500_A_Glass_Height.tif
+│   │   │   │   │   ├── Door_400x500_A_Glass_Height.tif.meta
+│   │   │   │   │   ├── Door_400x500_A_Glass_Height.tiff
+│   │   │   │   │   ├── Door_400x500_A_Glass_Height.tiff.meta
+│   │   │   │   │   ├── Door_400x500_A_Glass_MaskMap.tif
+│   │   │   │   │   ├── Door_400x500_A_Glass_MaskMap.tif.meta
+│   │   │   │   │   ├── Door_400x500_A_Glass_Normal.tif
+│   │   │   │   │   ├── Door_400x500_A_Glass_Normal.tif.meta
+│   │   │   │   │   ├── Door_400x500_A_Height.tif
+│   │   │   │   │   ├── Door_400x500_A_Height.tif.meta
+│   │   │   │   │   ├── Door_400x500_A_LayerMask.tif
+│   │   │   │   │   ├── Door_400x500_A_LayerMask.tif.meta
+│   │   │   │   │   ├── Door_400x500_A_MaskMap.tif
+│   │   │   │   │   ├── Door_400x500_A_MaskMap.tif.meta
+│   │   │   │   │   ├── Door_400x500_A_Normal.tif
+│   │   │   │   │   └── Door_400x500_A_Normal.tif.meta
+│   │   │   │   ├── Door_400x500_A.meta
+│   │   │   │   ├── Door_400x500_A_Glass_Albedo.tif
+│   │   │   │   ├── Door_400x500_A_Glass_Albedo.tif.meta
+│   │   │   │   ├── Door_400x500_A_Glass_MaskMap.tif
+│   │   │   │   ├── Door_400x500_A_Glass_MaskMap.tif.meta
+│   │   │   │   ├── Door_400x500_A_Glass_Normal.tif
+│   │   │   │   ├── Door_400x500_A_Glass_Normal.tif.meta
+│   │   │   │   ├── Door_400x500_A_MaskMap.tif
+│   │   │   │   ├── Door_400x500_A_MaskMap.tif.meta
+│   │   │   │   ├── Door_400x500_A_Normal.tif
+│   │   │   │   ├── Door_400x500_A_Normal.tif.meta
+│   │   │   │   ├── Door_800x500_A
+│   │   │   │   │   ├── Door_800x500_A_Albedo.tif
+│   │   │   │   │   ├── Door_800x500_A_Albedo.tif.meta
+│   │   │   │   │   ├── Door_800x500_A_BNM.tif
+│   │   │   │   │   ├── Door_800x500_A_BNM.tif.meta
+│   │   │   │   │   ├── Door_800x500_A_Height.tif
+│   │   │   │   │   ├── Door_800x500_A_Height.tif.meta
+│   │   │   │   │   ├── Door_800x500_A_LayerMask.tif
+│   │   │   │   │   ├── Door_800x500_A_LayerMask.tif.meta
+│   │   │   │   │   ├── Door_800x500_A_MaskMap.tif
+│   │   │   │   │   ├── Door_800x500_A_MaskMap.tif.meta
+│   │   │   │   │   ├── Door_800x500_A_Normal.tif
+│   │   │   │   │   └── Door_800x500_A_Normal.tif.meta
+│   │   │   │   ├── Door_800x500_A.meta
+│   │   │   │   ├── Door_800x500_Floormat_A
+│   │   │   │   │   ├── Door_800x500_Floormat_A_Albedo.tif
+│   │   │   │   │   ├── Door_800x500_Floormat_A_Albedo.tif.meta
+│   │   │   │   │   ├── Door_800x500_Floormat_A_BNM.tif
+│   │   │   │   │   ├── Door_800x500_Floormat_A_BNM.tif.meta
+│   │   │   │   │   ├── Door_800x500_Floormat_A_Height.tif
+│   │   │   │   │   ├── Door_800x500_Floormat_A_Height.tif.meta
+│   │   │   │   │   ├── Door_800x500_Floormat_A_LayerMask.tif
+│   │   │   │   │   ├── Door_800x500_Floormat_A_LayerMask.tif.meta
+│   │   │   │   │   ├── Door_800x500_Floormat_A_MaskMap.tif
+│   │   │   │   │   ├── Door_800x500_Floormat_A_MaskMap.tif.meta
+│   │   │   │   │   ├── Door_800x500_Floormat_A_Normal.tif
+│   │   │   │   │   └── Door_800x500_Floormat_A_Normal.tif.meta
+│   │   │   │   └── Door_800x500_Floormat_A.meta
+│   │   │   └── Doors_Scifi_A.meta
+│   │   ├── Doors.meta
+│   │   ├── Foliage
+│   │   │   ├── Flower_Alien_Big_A
+│   │   │   │   ├── Flower_Alien_Big_A_BNM.tiff
+│   │   │   │   ├── Flower_Alien_Big_A_BNM.tiff.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_BNM.tif
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_BNM.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_Height.tif
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_Height.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_Mask_Map.tif
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_Mask_Map.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_Normal.tif
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_Normal.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_SSS_Mask.tif
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_SSS_Mask.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_Thickness.tif
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_Thickness.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_WSNormal.tif
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_WSNormal.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_albedo.tif
+│   │   │   │   ├── Flower_Alien_Big_A_Custom_Roots_A_albedo.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Height.tif
+│   │   │   │   ├── Flower_Alien_Big_A_Height.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Mask_Map.tif
+│   │   │   │   ├── Flower_Alien_Big_A_Mask_Map.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Normal.tif
+│   │   │   │   ├── Flower_Alien_Big_A_Normal.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_SSS_Mask.tif
+│   │   │   │   ├── Flower_Alien_Big_A_SSS_Mask.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_Thickness.tif
+│   │   │   │   ├── Flower_Alien_Big_A_Thickness.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_WSNormal.tif
+│   │   │   │   ├── Flower_Alien_Big_A_WSNormal.tif.meta
+│   │   │   │   ├── Flower_Alien_Big_A_albedo.tif
+│   │   │   │   ├── Flower_Alien_Big_A_albedo.tif.meta
+│   │   │   │   ├── Materials
+│   │   │   │   │   ├── Flower_Alien_Big_A_albedo.mat
+│   │   │   │   │   └── Flower_Alien_Big_A_albedo.mat.meta
+│   │   │   │   └── Materials.meta
+│   │   │   ├── Flower_Alien_Big_A.meta
+│   │   │   ├── Flower_Alien_Sprout_A
+│   │   │   │   ├── Flower_Alien_Sprout_A_Albedo.tif
+│   │   │   │   ├── Flower_Alien_Sprout_A_Albedo.tif.meta
+│   │   │   │   ├── Flower_Alien_Sprout_A_BNM.tiff
+│   │   │   │   ├── Flower_Alien_Sprout_A_BNM.tiff.meta
+│   │   │   │   ├── Flower_Alien_Sprout_A_Height.tiff
+│   │   │   │   ├── Flower_Alien_Sprout_A_Height.tiff.meta
+│   │   │   │   ├── Flower_Alien_Sprout_A_Mask_Map.tif
+│   │   │   │   ├── Flower_Alien_Sprout_A_Mask_Map.tif.meta
+│   │   │   │   ├── Flower_Alien_Sprout_A_Normal.tif
+│   │   │   │   ├── Flower_Alien_Sprout_A_Normal.tif.meta
+│   │   │   │   ├── Flower_Alien_Sprout_A_Thickness.tif
+│   │   │   │   └── Flower_Alien_Sprout_A_Thickness.tif.meta
+│   │   │   ├── Flower_Alien_Sprout_A.meta
+│   │   │   ├── Grass_Alien_A
+│   │   │   │   ├── Grass_Alien_A_Albedo.tif
+│   │   │   │   ├── Grass_Alien_A_Albedo.tif.meta
+│   │   │   │   ├── Grass_Alien_A_BNM.tif
+│   │   │   │   ├── Grass_Alien_A_BNM.tif.meta
+│   │   │   │   ├── Grass_Alien_A_Height.tif
+│   │   │   │   ├── Grass_Alien_A_Height.tif.meta
+│   │   │   │   ├── Grass_Alien_A_Mask_Map.tif
+│   │   │   │   ├── Grass_Alien_A_Mask_Map.tif.meta
+│   │   │   │   ├── Grass_Alien_A_Normal.tif
+│   │   │   │   ├── Grass_Alien_A_Normal.tif.meta
+│   │   │   │   ├── Grass_Alien_A_Thickness.tif
+│   │   │   │   └── Grass_Alien_A_Thickness.tif.meta
+│   │   │   ├── Grass_Alien_A.meta
+│   │   │   ├── Grass_Alien_B
+│   │   │   │   ├── Grass_Alien_B_Albedo.tif
+│   │   │   │   ├── Grass_Alien_B_Albedo.tif.meta
+│   │   │   │   ├── Grass_Alien_B_BNM.tif
+│   │   │   │   ├── Grass_Alien_B_BNM.tif.meta
+│   │   │   │   ├── Grass_Alien_B_Height.tif
+│   │   │   │   ├── Grass_Alien_B_Height.tif.meta
+│   │   │   │   ├── Grass_Alien_B_Mask_Map.tif
+│   │   │   │   ├── Grass_Alien_B_Mask_Map.tif.meta
+│   │   │   │   ├── Grass_Alien_B_Normal.tif
+│   │   │   │   ├── Grass_Alien_B_Normal.tif.meta
+│   │   │   │   ├── Grass_Alien_B_Thickness.tif
+│   │   │   │   └── Grass_Alien_B_Thickness.tif.meta
+│   │   │   ├── Grass_Alien_B.meta
+│   │   │   ├── Grass_Alien_C
+│   │   │   │   ├── Grass_Alien_C_Albedo.tif
+│   │   │   │   ├── Grass_Alien_C_Albedo.tif.meta
+│   │   │   │   ├── Grass_Alien_C_BNM.tif
+│   │   │   │   ├── Grass_Alien_C_BNM.tif.meta
+│   │   │   │   ├── Grass_Alien_C_Height.tif
+│   │   │   │   ├── Grass_Alien_C_Height.tif.meta
+│   │   │   │   ├── Grass_Alien_C_Mask_Map.tif
+│   │   │   │   ├── Grass_Alien_C_Mask_Map.tif.meta
+│   │   │   │   ├── Grass_Alien_C_Normal.tif
+│   │   │   │   ├── Grass_Alien_C_Normal.tif.meta
+│   │   │   │   ├── Grass_Alien_C_Thickness.tif
+│   │   │   │   └── Grass_Alien_C_Thickness.tif.meta
+│   │   │   ├── Grass_Alien_C.meta
+│   │   │   ├── Grass_Alien_D
+│   │   │   │   ├── Grass_Alien_D_Albedo.tif
+│   │   │   │   ├── Grass_Alien_D_Albedo.tif.meta
+│   │   │   │   ├── Grass_Alien_D_BNM.tif
+│   │   │   │   ├── Grass_Alien_D_BNM.tif.meta
+│   │   │   │   ├── Grass_Alien_D_Height.tif
+│   │   │   │   ├── Grass_Alien_D_Height.tif.meta
+│   │   │   │   ├── Grass_Alien_D_Mask_Map.tif
+│   │   │   │   ├── Grass_Alien_D_Mask_Map.tif.meta
+│   │   │   │   ├── Grass_Alien_D_Normal.tif
+│   │   │   │   ├── Grass_Alien_D_Normal.tif.meta
+│   │   │   │   ├── Grass_Alien_D_Thickness.tif
+│   │   │   │   └── Grass_Alien_D_Thickness.tif.meta
+│   │   │   ├── Grass_Alien_D.meta
+│   │   │   ├── Grass_Alien_E
+│   │   │   │   ├── Grass_Alien_E_Albedo.tif
+│   │   │   │   ├── Grass_Alien_E_Albedo.tif.meta
+│   │   │   │   ├── Grass_Alien_E_BNM.tif
+│   │   │   │   ├── Grass_Alien_E_BNM.tif.meta
+│   │   │   │   ├── Grass_Alien_E_Height.tif
+│   │   │   │   ├── Grass_Alien_E_Height.tif.meta
+│   │   │   │   ├── Grass_Alien_E_Mask_Map.tif
+│   │   │   │   ├── Grass_Alien_E_Mask_Map.tif.meta
+│   │   │   │   ├── Grass_Alien_E_Normal.tif
+│   │   │   │   ├── Grass_Alien_E_Normal.tif.meta
+│   │   │   │   ├── Grass_Alien_E_Thickness.tif
+│   │   │   │   └── Grass_Alien_E_Thickness.tif.meta
+│   │   │   ├── Grass_Alien_E.meta
+│   │   │   ├── Spaceplant_Liana_A
+│   │   │   │   ├── Spaceplant_Liana_A_Color_A_Albedo.tif
+│   │   │   │   ├── Spaceplant_Liana_A_Color_A_Albedo.tif.meta
+│   │   │   │   ├── Spaceplant_Liana_A_MaskMap.tif
+│   │   │   │   ├── Spaceplant_Liana_A_MaskMap.tif.meta
+│   │   │   │   ├── Spaceplant_Liana_A_Normal.tif
+│   │   │   │   ├── Spaceplant_Liana_A_Normal.tif.meta
+│   │   │   │   ├── Spaceplant_Liana_A_Thickness.tif
+│   │   │   │   └── Spaceplant_Liana_A_Thickness.tif.meta
+│   │   │   ├── Spaceplant_Liana_A.meta
+│   │   │   ├── Spaceplant_Undergrowth_A
+│   │   │   │   ├── Spaceplant_Undergrowth_A_Color_A_Albedo.tif
+│   │   │   │   ├── Spaceplant_Undergrowth_A_Color_A_Albedo.tif.meta
+│   │   │   │   ├── Spaceplant_Undergrowth_A_MaskMap.tif
+│   │   │   │   ├── Spaceplant_Undergrowth_A_MaskMap.tif.meta
+│   │   │   │   ├── Spaceplant_Undergrowth_A_Normal.tif
+│   │   │   │   ├── Spaceplant_Undergrowth_A_Normal.tif.meta
+│   │   │   │   ├── Spaceplant_Undergrowth_A_Thickness.tif
+│   │   │   │   └── Spaceplant_Undergrowth_A_Thickness.tif.meta
+│   │   │   └── Spaceplant_Undergrowth_A.meta
+│   │   ├── Foliage.meta
+│   │   ├── Industrial
+│   │   │   ├── Factory_Antenna_Scifi_A
+│   │   │   │   ├── Factory_Antenna_Scifi_A_Albedo.tif
+│   │   │   │   ├── Factory_Antenna_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Factory_Antenna_Scifi_A_BNM.tif
+│   │   │   │   ├── Factory_Antenna_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Factory_Antenna_Scifi_A_Height.tif
+│   │   │   │   ├── Factory_Antenna_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Factory_Antenna_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Factory_Antenna_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Antenna_Scifi_A_Normal.tif
+│   │   │   │   └── Factory_Antenna_Scifi_A_Normal.tif.meta
+│   │   │   ├── Factory_Antenna_Scifi_A.meta
+│   │   │   ├── Factory_Antenna_Scifi_B
+│   │   │   │   ├── Factory_Antenna_Scifi_B_Albedo.tif
+│   │   │   │   ├── Factory_Antenna_Scifi_B_Albedo.tif.meta
+│   │   │   │   ├── Factory_Antenna_Scifi_B_BNM.tif
+│   │   │   │   ├── Factory_Antenna_Scifi_B_BNM.tif.meta
+│   │   │   │   ├── Factory_Antenna_Scifi_B_Height.tif
+│   │   │   │   ├── Factory_Antenna_Scifi_B_Height.tif.meta
+│   │   │   │   ├── Factory_Antenna_Scifi_B_MaskMap.tif
+│   │   │   │   ├── Factory_Antenna_Scifi_B_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Antenna_Scifi_B_Normal.tif
+│   │   │   │   └── Factory_Antenna_Scifi_B_Normal.tif.meta
+│   │   │   ├── Factory_Antenna_Scifi_B.meta
+│   │   │   ├── Factory_Antenna_Scifi_C
+│   │   │   │   ├── Factory_Antenna_Scifi_C_Albedo.tif
+│   │   │   │   ├── Factory_Antenna_Scifi_C_Albedo.tif.meta
+│   │   │   │   ├── Factory_Antenna_Scifi_C_BNM.tif
+│   │   │   │   ├── Factory_Antenna_Scifi_C_BNM.tif.meta
+│   │   │   │   ├── Factory_Antenna_Scifi_C_Height.tif
+│   │   │   │   ├── Factory_Antenna_Scifi_C_Height.tif.meta
+│   │   │   │   ├── Factory_Antenna_Scifi_C_MaskMap.tif
+│   │   │   │   ├── Factory_Antenna_Scifi_C_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Antenna_Scifi_C_Normal.TIF
+│   │   │   │   └── Factory_Antenna_Scifi_C_Normal.TIF.meta
+│   │   │   ├── Factory_Antenna_Scifi_C.meta
+│   │   │   ├── Factory_Detail_Scifi_A
+│   │   │   │   ├── Factory_Detail_Scifi_A_Albedo.tif
+│   │   │   │   ├── Factory_Detail_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_A_BNM.tif
+│   │   │   │   ├── Factory_Detail_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_A_Height.tif
+│   │   │   │   ├── Factory_Detail_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_A_LayerMask.tif
+│   │   │   │   ├── Factory_Detail_Scifi_A_LayerMask.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Factory_Detail_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_A_Normal.tif
+│   │   │   │   └── Factory_Detail_Scifi_A_Normal.tif.meta
+│   │   │   ├── Factory_Detail_Scifi_A.meta
+│   │   │   ├── Factory_Detail_Scifi_B
+│   │   │   │   ├── Factory_Detail_Scifi_B_Albedo.tif
+│   │   │   │   ├── Factory_Detail_Scifi_B_Albedo.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_B_BNM.tif
+│   │   │   │   ├── Factory_Detail_Scifi_B_BNM.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_B_Height.tif
+│   │   │   │   ├── Factory_Detail_Scifi_B_Height.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_B_LayerMask.tif
+│   │   │   │   ├── Factory_Detail_Scifi_B_LayerMask.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_B_MaskMap.tif
+│   │   │   │   ├── Factory_Detail_Scifi_B_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_B_Normal.tif
+│   │   │   │   └── Factory_Detail_Scifi_B_Normal.tif.meta
+│   │   │   ├── Factory_Detail_Scifi_B.meta
+│   │   │   ├── Factory_Detail_Scifi_C
+│   │   │   │   ├── Factory_Detail_Scifi_C_Albedo.tif
+│   │   │   │   ├── Factory_Detail_Scifi_C_Albedo.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_C_BNM.tif
+│   │   │   │   ├── Factory_Detail_Scifi_C_BNM.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_C_Height.tif
+│   │   │   │   ├── Factory_Detail_Scifi_C_Height.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_C_LayerMask.tif
+│   │   │   │   ├── Factory_Detail_Scifi_C_LayerMask.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_C_MaskMap.tif
+│   │   │   │   ├── Factory_Detail_Scifi_C_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Detail_Scifi_C_Normal.tif
+│   │   │   │   └── Factory_Detail_Scifi_C_Normal.tif.meta
+│   │   │   ├── Factory_Detail_Scifi_C.meta
+│   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A_Albedo.tif
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A_BNM.tif
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A_Height.tif
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A_LayerMap.tif
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A_LayerMap.tif.meta
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A_Normal.tif
+│   │   │   │   └── Factory_Interior_Ceiling_Detail_Scifi_A_Normal.tif.meta
+│   │   │   ├── Factory_Interior_Ceiling_Detail_Scifi_A.meta
+│   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_Albedo.tif
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_BNM.tif
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_Glass_Albedo.tif
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_Glass_Albedo.tif.meta
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_Glass_MaskMap.tif
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_Glass_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_Glass_NormalU+005C.tif
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_Glass_NormalU+005C.tif.meta
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_Height.tif
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_LayerMask.tif
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_LayerMask.tif.meta
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A_Normal.tif
+│   │   │   │   └── Factory_Interior_Floor_Trenches_Scifi_A_Normal.tif.meta
+│   │   │   ├── Factory_Interior_Floor_Trenches_Scifi_A.meta
+│   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A_Albedo.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A_BNM.tiff
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A_BNM.tiff.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A_Height.tiff
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A_Height.tiff.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A_LayerMask.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A_LayerMask.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A_Normal.tif
+│   │   │   │   └── Factory_Interior_Wall_Detail_Scifi_A_Normal.tif.meta
+│   │   │   ├── Factory_Interior_Wall_Detail_Scifi_A.meta
+│   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_Albedo.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_Albedo.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_BNM.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_BNM.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_Emissive.exr
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_Emissive.exr.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_Emissive.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_Emissive.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_Height.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_Height.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_LayerMask.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_LayerMask.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_MaskMap.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B_Normal.tif
+│   │   │   │   └── Factory_Interior_Wall_Detail_Scifi_B_Normal.tif.meta
+│   │   │   ├── Factory_Interior_Wall_Detail_Scifi_B.meta
+│   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_Albedo.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_Albedo.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_BNM.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_BNM.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_Emissive.exr
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_Emissive.exr.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_Emissive.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_Emissive.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_Height.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_Height.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_LayerMask.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_LayerMask.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_MaskMap.tif
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C_Normal.tif
+│   │   │   │   └── Factory_Interior_Wall_Detail_Scifi_C_Normal.tif.meta
+│   │   │   ├── Factory_Interior_Wall_Detail_Scifi_C.meta
+│   │   │   ├── Fittings_Scifi_A
+│   │   │   │   ├── Fittings_Scifi_A_Color_A_Albedo.tif
+│   │   │   │   ├── Fittings_Scifi_A_Color_A_Albedo.tif.meta
+│   │   │   │   ├── Fittings_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Fittings_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Fittings_Scifi_A_Normal.tif
+│   │   │   │   └── Fittings_Scifi_A_Normal.tif.meta
+│   │   │   ├── Fittings_Scifi_A.meta
+│   │   │   ├── Smokestack_Industrial_Scifi_A
+│   │   │   │   ├── Smokestack_Industrial_Scifi_A_Albedo.tif
+│   │   │   │   ├── Smokestack_Industrial_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Smokestack_Industrial_Scifi_A_BNM.tif
+│   │   │   │   ├── Smokestack_Industrial_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Smokestack_Industrial_Scifi_A_Height.tif
+│   │   │   │   ├── Smokestack_Industrial_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Smokestack_Industrial_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Smokestack_Industrial_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Smokestack_Industrial_Scifi_A_Normal.tif
+│   │   │   │   └── Smokestack_Industrial_Scifi_A_Normal.tif.meta
+│   │   │   ├── Smokestack_Industrial_Scifi_A.meta
+│   │   │   ├── Smokestack_Industrial_Scifi_B
+│   │   │   │   ├── Smokestack_Industrial_Scifi_B_Albedo.tif
+│   │   │   │   ├── Smokestack_Industrial_Scifi_B_Albedo.tif.meta
+│   │   │   │   ├── Smokestack_Industrial_Scifi_B_BNM.tif
+│   │   │   │   ├── Smokestack_Industrial_Scifi_B_BNM.tif.meta
+│   │   │   │   ├── Smokestack_Industrial_Scifi_B_Height.tif
+│   │   │   │   ├── Smokestack_Industrial_Scifi_B_Height.tif.meta
+│   │   │   │   ├── Smokestack_Industrial_Scifi_B_MaskMap.tif
+│   │   │   │   ├── Smokestack_Industrial_Scifi_B_MaskMap.tif.meta
+│   │   │   │   ├── Smokestack_Industrial_Scifi_B_Normal.tif
+│   │   │   │   └── Smokestack_Industrial_Scifi_B_Normal.tif.meta
+│   │   │   ├── Smokestack_Industrial_Scifi_B.meta
+│   │   │   ├── Tank_Industrial_Scifi_A
+│   │   │   │   ├── Tank_Industrial_Scifi_A_Albedo.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_A_BNM.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_A_Height.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_A_LayerMask.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_A_LayerMask.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_A_Normal.tif
+│   │   │   │   └── Tank_Industrial_Scifi_A_Normal.tif.meta
+│   │   │   ├── Tank_Industrial_Scifi_A.meta
+│   │   │   ├── Tank_Industrial_Scifi_B
+│   │   │   │   ├── Tank_Industrial_Scifi_B_Albedo.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_B_Albedo.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_B_BNM.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_B_BNM.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_B_Height.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_B_Height.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_B_LayerMask.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_B_LayerMask.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_B_MaskMap.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_B_MaskMap.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_B_Normal.tif
+│   │   │   │   └── Tank_Industrial_Scifi_B_Normal.tif.meta
+│   │   │   ├── Tank_Industrial_Scifi_B.meta
+│   │   │   ├── Tank_Industrial_Scifi_C
+│   │   │   │   ├── Tank_Industrial_Scifi_C_Albedo.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_C_Albedo.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_C_BNM.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_C_BNM.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_C_Height.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_C_Height.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_C_LayerMask.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_C_LayerMask.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_C_MaskMap.tif
+│   │   │   │   ├── Tank_Industrial_Scifi_C_MaskMap.tif.meta
+│   │   │   │   ├── Tank_Industrial_Scifi_C_Normal.tif
+│   │   │   │   └── Tank_Industrial_Scifi_C_Normal.tif.meta
+│   │   │   ├── Tank_Industrial_Scifi_C.meta
+│   │   │   ├── Tubes_Industrial_Scifi_A
+│   │   │   │   ├── Tubes_Industrial_Scifi_A_Albedo.tif
+│   │   │   │   ├── Tubes_Industrial_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Tubes_Industrial_Scifi_A_BNM.tif
+│   │   │   │   ├── Tubes_Industrial_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Tubes_Industrial_Scifi_A_Height.tif
+│   │   │   │   ├── Tubes_Industrial_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Tubes_Industrial_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Tubes_Industrial_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Tubes_Industrial_Scifi_A_Normal.tif
+│   │   │   │   └── Tubes_Industrial_Scifi_A_Normal.tif.meta
+│   │   │   └── Tubes_Industrial_Scifi_A.meta
+│   │   ├── Industrial.meta
+│   │   ├── Lamps
+│   │   │   ├── Lamp_Ceiling_Scifi_A
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Albedo.tif
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_BNM.tif
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Emissive_Albedo.tif
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Emissive_Albedo.tif.meta
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Emissive_BNM.tif
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Emissive_BNM.tif.meta
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Emissive_Emissive.tif
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Emissive_Emissive.tif.meta
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Emissive_Height.tif
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Emissive_Height.tif.meta
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Emissive_MaskMap.tif
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Emissive_MaskMap.tif.meta
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Emissive_Normal.tif
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Emissive_Normal.tif.meta
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Height.tif
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Lamp_Ceiling_Scifi_A_Normal.tif
+│   │   │   │   └── Lamp_Ceiling_Scifi_A_Normal.tif.meta
+│   │   │   ├── Lamp_Ceiling_Scifi_A.meta
+│   │   │   ├── Lamp_Door_800x500_A
+│   │   │   │   ├── Lamp_Door_800x500_A_Albedo.tif
+│   │   │   │   ├── Lamp_Door_800x500_A_Albedo.tif.meta
+│   │   │   │   ├── Lamp_Door_800x500_A_BNM.tif
+│   │   │   │   ├── Lamp_Door_800x500_A_BNM.tif.meta
+│   │   │   │   ├── Lamp_Door_800x500_A_Emissive_Albedo.tif
+│   │   │   │   ├── Lamp_Door_800x500_A_Emissive_Albedo.tif.meta
+│   │   │   │   ├── Lamp_Door_800x500_A_Emissive_BNM.tif
+│   │   │   │   ├── Lamp_Door_800x500_A_Emissive_BNM.tif.meta
+│   │   │   │   ├── Lamp_Door_800x500_A_Emissive_Emissive.tif
+│   │   │   │   ├── Lamp_Door_800x500_A_Emissive_Emissive.tif.meta
+│   │   │   │   ├── Lamp_Door_800x500_A_Emissive_Height.tif
+│   │   │   │   ├── Lamp_Door_800x500_A_Emissive_Height.tif.meta
+│   │   │   │   ├── Lamp_Door_800x500_A_Emissive_MaskMap.tif
+│   │   │   │   ├── Lamp_Door_800x500_A_Emissive_MaskMap.tif.meta
+│   │   │   │   ├── Lamp_Door_800x500_A_Emissive_Normal.tif
+│   │   │   │   ├── Lamp_Door_800x500_A_Emissive_Normal.tif.meta
+│   │   │   │   ├── Lamp_Door_800x500_A_Height.tif
+│   │   │   │   ├── Lamp_Door_800x500_A_Height.tif.meta
+│   │   │   │   ├── Lamp_Door_800x500_A_MaskMap.tif
+│   │   │   │   ├── Lamp_Door_800x500_A_MaskMap.tif.meta
+│   │   │   │   ├── Lamp_Door_800x500_A_Normal.tif
+│   │   │   │   └── Lamp_Door_800x500_A_Normal.tif.meta
+│   │   │   ├── Lamp_Door_800x500_A.meta
+│   │   │   ├── Lamp_Floor_Medium_Scifi_A
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Albedo.tif
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_BNM.tif
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_Albedo.tif
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_Albedo.tif.meta
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_BNM.tif
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_BNM.tif.meta
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_Emissive.tif
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_Emissive.tif.meta
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_HDR.exr
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_HDR.exr.meta
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_Height.tif
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_Height.tif.meta
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_MaskMap.tif
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_MaskMap.tif.meta
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_Normal.tif
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Emissive_Normal.tif.meta
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Height.tif
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Lamp_Floor_Medium_Scifi_A_Normal.tif
+│   │   │   │   └── Lamp_Floor_Medium_Scifi_A_Normal.tif.meta
+│   │   │   ├── Lamp_Floor_Medium_Scifi_A.meta
+│   │   │   ├── Lamp_Post_Medium_Scifi_A
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Albedo.tif
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_BNM.tif
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Emissive_Albedo.tif
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Emissive_Albedo.tif.meta
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Emissive_BNM.tif
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Emissive_BNM.tif.meta
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Emissive_Emissive.tif
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Emissive_Emissive.tif.meta
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Emissive_Height.tif
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Emissive_Height.tif.meta
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Emissive_MaskMap.tif
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Emissive_MaskMap.tif.meta
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Emissive_Normal.tif
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Emissive_Normal.tif.meta
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Height.tif
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Lamp_Post_Medium_Scifi_A_Normal.tif
+│   │   │   │   └── Lamp_Post_Medium_Scifi_A_Normal.tif.meta
+│   │   │   ├── Lamp_Post_Medium_Scifi_A.meta
+│   │   │   ├── Lamps_Small_Scifi_A
+│   │   │   │   ├── Lamp_Small_Scifi_A_Albedo.tif
+│   │   │   │   ├── Lamp_Small_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Lamp_Small_Scifi_A_BNM.tif
+│   │   │   │   ├── Lamp_Small_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Lamp_Small_Scifi_A_Emissive_Albedo.tif
+│   │   │   │   ├── Lamp_Small_Scifi_A_Emissive_Albedo.tif.meta
+│   │   │   │   ├── Lamp_Small_Scifi_A_Emissive_BNM.tif
+│   │   │   │   ├── Lamp_Small_Scifi_A_Emissive_BNM.tif.meta
+│   │   │   │   ├── Lamp_Small_Scifi_A_Emissive_Emissive.tif
+│   │   │   │   ├── Lamp_Small_Scifi_A_Emissive_Emissive.tif.meta
+│   │   │   │   ├── Lamp_Small_Scifi_A_Emissive_MaskMap.tif
+│   │   │   │   ├── Lamp_Small_Scifi_A_Emissive_MaskMap.tif.meta
+│   │   │   │   ├── Lamp_Small_Scifi_A_Emissive_Normal.tif
+│   │   │   │   ├── Lamp_Small_Scifi_A_Emissive_Normal.tif.meta
+│   │   │   │   ├── Lamp_Small_Scifi_A_Height.tif
+│   │   │   │   ├── Lamp_Small_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Lamp_Small_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Lamp_Small_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Lamp_Small_Scifi_A_Normal.tif
+│   │   │   │   └── Lamp_Small_Scifi_A_Normal.tif.meta
+│   │   │   ├── Lamps_Small_Scifi_A.meta
+│   │   │   ├── Lamps_Wall_Scifi_A
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Albedo.tif
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Lamps_Wall_Scifi_A_BNM.tif
+│   │   │   │   ├── Lamps_Wall_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Emissive_Albedo.tif
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Emissive_Albedo.tif.meta
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Emissive_BNM.tif
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Emissive_BNM.tif.meta
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Emissive_Emissive.tif
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Emissive_Emissive.tif.meta
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Emissive_Height.tif
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Emissive_Height.tif.meta
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Emissive_MaskMap.tif
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Emissive_MaskMap.tif.meta
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Emissive_Normal.tif
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Emissive_Normal.tif.meta
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Height.tif
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Lamps_Wall_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Lamps_Wall_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Lamps_Wall_Scifi_A_Normal.tif
+│   │   │   │   └── Lamps_Wall_Scifi_A_Normal.tif.meta
+│   │   │   └── Lamps_Wall_Scifi_A.meta
+│   │   ├── Lamps.meta
+│   │   ├── Machines
+│   │   │   ├── Factory_Crane_A
+│   │   │   │   ├── Factory_Crane_A_Albedo.tif
+│   │   │   │   ├── Factory_Crane_A_Albedo.tif.meta
+│   │   │   │   ├── Factory_Crane_A_BNM.tif
+│   │   │   │   ├── Factory_Crane_A_BNM.tif.meta
+│   │   │   │   ├── Factory_Crane_A_Body_Albedo.tif
+│   │   │   │   ├── Factory_Crane_A_Body_Albedo.tif.meta
+│   │   │   │   ├── Factory_Crane_A_Body_BNM.tif
+│   │   │   │   ├── Factory_Crane_A_Body_BNM.tif.meta
+│   │   │   │   ├── Factory_Crane_A_Body_Height.tif
+│   │   │   │   ├── Factory_Crane_A_Body_Height.tif.meta
+│   │   │   │   ├── Factory_Crane_A_Body_LayerMask.tif
+│   │   │   │   ├── Factory_Crane_A_Body_LayerMask.tif.meta
+│   │   │   │   ├── Factory_Crane_A_Body_MaskMap.tif
+│   │   │   │   ├── Factory_Crane_A_Body_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Crane_A_Body_Normal.tif
+│   │   │   │   ├── Factory_Crane_A_Body_Normal.tif.meta
+│   │   │   │   ├── Factory_Crane_A_Height.tif
+│   │   │   │   ├── Factory_Crane_A_Height.tif.meta
+│   │   │   │   ├── Factory_Crane_A_LayerMask.tif
+│   │   │   │   ├── Factory_Crane_A_LayerMask.tif.meta
+│   │   │   │   ├── Factory_Crane_A_MaskMap.tif
+│   │   │   │   ├── Factory_Crane_A_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Crane_A_Normal.tif
+│   │   │   │   └── Factory_Crane_A_Normal.tif.meta
+│   │   │   ├── Factory_Crane_A.meta
+│   │   │   ├── Factory_Crane_B
+│   │   │   │   ├── Factory_Crane_B_Albedo.tif
+│   │   │   │   ├── Factory_Crane_B_Albedo.tif.meta
+│   │   │   │   ├── Factory_Crane_B_BNM.tif
+│   │   │   │   ├── Factory_Crane_B_BNM.tif.meta
+│   │   │   │   ├── Factory_Crane_B_Height.tif
+│   │   │   │   ├── Factory_Crane_B_Height.tif.meta
+│   │   │   │   ├── Factory_Crane_B_LayerMask.tif
+│   │   │   │   ├── Factory_Crane_B_LayerMask.tif.meta
+│   │   │   │   ├── Factory_Crane_B_MaskMap.tif
+│   │   │   │   ├── Factory_Crane_B_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Crane_B_Normal.tif
+│   │   │   │   └── Factory_Crane_B_Normal.tif.meta
+│   │   │   ├── Factory_Crane_B.meta
+│   │   │   ├── Factory_Furnace_A
+│   │   │   │   ├── Factory_Furnace_A_Albedo.tif
+│   │   │   │   ├── Factory_Furnace_A_Albedo.tif.meta
+│   │   │   │   ├── Factory_Furnace_A_BNM.tif
+│   │   │   │   ├── Factory_Furnace_A_BNM.tif.meta
+│   │   │   │   ├── Factory_Furnace_A_Body_Albedo.tif
+│   │   │   │   ├── Factory_Furnace_A_Body_Albedo.tif.meta
+│   │   │   │   ├── Factory_Furnace_A_Body_BNM.tif
+│   │   │   │   ├── Factory_Furnace_A_Body_BNM.tif.meta
+│   │   │   │   ├── Factory_Furnace_A_Body_Height.tif
+│   │   │   │   ├── Factory_Furnace_A_Body_Height.tif.meta
+│   │   │   │   ├── Factory_Furnace_A_Body_LayerMask.tif
+│   │   │   │   ├── Factory_Furnace_A_Body_LayerMask.tif.meta
+│   │   │   │   ├── Factory_Furnace_A_Body_MaskMap.tif
+│   │   │   │   ├── Factory_Furnace_A_Body_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Furnace_A_Body_Normal.tif
+│   │   │   │   ├── Factory_Furnace_A_Body_Normal.tif.meta
+│   │   │   │   ├── Factory_Furnace_A_Height.tif
+│   │   │   │   ├── Factory_Furnace_A_Height.tif.meta
+│   │   │   │   ├── Factory_Furnace_A_LayerMask.tif
+│   │   │   │   ├── Factory_Furnace_A_LayerMask.tif.meta
+│   │   │   │   ├── Factory_Furnace_A_MaskMap.tif
+│   │   │   │   ├── Factory_Furnace_A_MaskMap.tif.meta
+│   │   │   │   ├── Factory_Furnace_A_Normal.tif
+│   │   │   │   └── Factory_Furnace_A_Normal.tif.meta
+│   │   │   └── Factory_Furnace_A.meta
+│   │   ├── Machines.meta
+│   │   ├── Pillars
+│   │   │   ├── Pillars_Scifi_A
+│   │   │   │   ├── Pillars_Scifi_A_Albedo.tif
+│   │   │   │   ├── Pillars_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_BNM.tif
+│   │   │   │   ├── Pillars_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Height.tif
+│   │   │   │   ├── Pillars_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Huge_A_Albedo.tif
+│   │   │   │   ├── Pillars_Scifi_A_Huge_A_Albedo.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Huge_A_BNM.tif
+│   │   │   │   ├── Pillars_Scifi_A_Huge_A_BNM.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Huge_A_Height.tif
+│   │   │   │   ├── Pillars_Scifi_A_Huge_A_Height.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Huge_A_LayerMask.tif
+│   │   │   │   ├── Pillars_Scifi_A_Huge_A_LayerMask.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Huge_A_MaskMap.tif
+│   │   │   │   ├── Pillars_Scifi_A_Huge_A_MaskMap.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Huge_A_Normal.tif
+│   │   │   │   ├── Pillars_Scifi_A_Huge_A_Normal.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_LayerMask.tif
+│   │   │   │   ├── Pillars_Scifi_A_LayerMask.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Pillars_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Normal.tif
+│   │   │   │   ├── Pillars_Scifi_A_Normal.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Top_Base_A_Albedo.tif
+│   │   │   │   ├── Pillars_Scifi_A_Top_Base_A_Albedo.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Top_Base_A_BNM.tif
+│   │   │   │   ├── Pillars_Scifi_A_Top_Base_A_BNM.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Top_Base_A_Height.tif
+│   │   │   │   ├── Pillars_Scifi_A_Top_Base_A_Height.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Top_Base_A_LayerMask.tif
+│   │   │   │   ├── Pillars_Scifi_A_Top_Base_A_LayerMask.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Top_Base_A_MaskMap.tif
+│   │   │   │   ├── Pillars_Scifi_A_Top_Base_A_MaskMap.tif.meta
+│   │   │   │   ├── Pillars_Scifi_A_Top_Base_A_Normal.tif
+│   │   │   │   └── Pillars_Scifi_A_Top_Base_A_Normal.tif.meta
+│   │   │   └── Pillars_Scifi_A.meta
+│   │   ├── Pillars.meta
+│   │   ├── Pipes
+│   │   │   ├── Pipes_A_Tileset_A
+│   │   │   │   ├── Pipes_D160_Tileset_A_BNM.tiff
+│   │   │   │   ├── Pipes_D160_Tileset_A_BNM.tiff.meta
+│   │   │   │   ├── Pipes_D160_Tileset_A_BaseColor_A.tif
+│   │   │   │   ├── Pipes_D160_Tileset_A_BaseColor_A.tif.meta
+│   │   │   │   ├── Pipes_D160_Tileset_A_LayerMask.tif
+│   │   │   │   ├── Pipes_D160_Tileset_A_LayerMask.tif.meta
+│   │   │   │   ├── Pipes_D160_Tileset_A_MaskMap.tif
+│   │   │   │   ├── Pipes_D160_Tileset_A_MaskMap.tif.meta
+│   │   │   │   ├── Pipes_D160_Tileset_A_Normal.tif
+│   │   │   │   ├── Pipes_D160_Tileset_A_Normal.tif.meta
+│   │   │   │   ├── Pipes_D160_Tileset_A_height.tiff
+│   │   │   │   ├── Pipes_D160_Tileset_A_height.tiff.meta
+│   │   │   │   ├── Pipes_D80_Tileset_A_Albedo.tif
+│   │   │   │   ├── Pipes_D80_Tileset_A_Albedo.tif.meta
+│   │   │   │   ├── Pipes_D80_Tileset_A_BNM.tif
+│   │   │   │   ├── Pipes_D80_Tileset_A_BNM.tif.meta
+│   │   │   │   ├── Pipes_D80_Tileset_A_Height.tif
+│   │   │   │   ├── Pipes_D80_Tileset_A_Height.tif.meta
+│   │   │   │   ├── Pipes_D80_Tileset_A_LayerMask.tif
+│   │   │   │   ├── Pipes_D80_Tileset_A_LayerMask.tif.meta
+│   │   │   │   ├── Pipes_D80_Tileset_A_MaskMap.tif
+│   │   │   │   ├── Pipes_D80_Tileset_A_MaskMap.tif.meta
+│   │   │   │   ├── Pipes_D80_Tileset_A_Normal.tif
+│   │   │   │   └── Pipes_D80_Tileset_A_Normal.tif.meta
+│   │   │   └── Pipes_A_Tileset_A.meta
+│   │   ├── Pipes.meta
+│   │   ├── Platforms
+│   │   │   ├── Platforms_Scifi_A
+│   │   │   │   ├── Platforms_Scifi_A_Albedo.tif
+│   │   │   │   ├── Platforms_Scifi_A_Albedo.tif.meta
+│   │   │   │   ├── Platforms_Scifi_A_BNM.tif
+│   │   │   │   ├── Platforms_Scifi_A_BNM.tif.meta
+│   │   │   │   ├── Platforms_Scifi_A_Height.tif
+│   │   │   │   ├── Platforms_Scifi_A_Height.tif.meta
+│   │   │   │   ├── Platforms_Scifi_A_LayerMask.tif
+│   │   │   │   ├── Platforms_Scifi_A_LayerMask.tif.meta
+│   │   │   │   ├── Platforms_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Platforms_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Platforms_Scifi_A_Normal.tif
+│   │   │   │   ├── Platforms_Scifi_A_Normal.tif.meta
+│   │   │   │   ├── Platforms_Scifi_A_Stairs_Albedo.tif
+│   │   │   │   ├── Platforms_Scifi_A_Stairs_Albedo.tif.meta
+│   │   │   │   ├── Platforms_Scifi_A_Stairs_BNM.tif
+│   │   │   │   ├── Platforms_Scifi_A_Stairs_BNM.tif.meta
+│   │   │   │   ├── Platforms_Scifi_A_Stairs_Height.tif
+│   │   │   │   ├── Platforms_Scifi_A_Stairs_Height.tif.meta
+│   │   │   │   ├── Platforms_Scifi_A_Stairs_LayerMask.tif
+│   │   │   │   ├── Platforms_Scifi_A_Stairs_LayerMask.tif.meta
+│   │   │   │   ├── Platforms_Scifi_A_Stairs_MaskMap.tif
+│   │   │   │   ├── Platforms_Scifi_A_Stairs_MaskMap.tif.meta
+│   │   │   │   ├── Platforms_Scifi_A_Stairs_Normal.tif
+│   │   │   │   └── Platforms_Scifi_A_Stairs_Normal.tif.meta
+│   │   │   └── Platforms_Scifi_A.meta
+│   │   ├── Platforms.meta
+│   │   ├── Rocks
+│   │   │   ├── Rock_Billboards_A
+│   │   │   │   ├── Rock_Billboards_A_Color_A_Albedo.tif
+│   │   │   │   ├── Rock_Billboards_A_Color_A_Albedo.tif.meta
+│   │   │   │   ├── Rock_Billboards_A_MaskMap.tif
+│   │   │   │   ├── Rock_Billboards_A_MaskMap.tif.meta
+│   │   │   │   ├── Rock_Billboards_A_Normal.tif
+│   │   │   │   └── Rock_Billboards_A_Normal.tif.meta
+│   │   │   ├── Rock_Billboards_A.meta
+│   │   │   ├── Rock_Boulder_A
+│   │   │   │   ├── Rock_Boulder_A_BNM.tif
+│   │   │   │   ├── Rock_Boulder_A_BNM.tif.meta
+│   │   │   │   ├── Rock_Boulder_A_BaseColor_A.tif
+│   │   │   │   ├── Rock_Boulder_A_BaseColor_A.tif.meta
+│   │   │   │   ├── Rock_Boulder_A_Height.tif
+│   │   │   │   ├── Rock_Boulder_A_Height.tif.meta
+│   │   │   │   ├── Rock_Boulder_A_MaskMap.tif
+│   │   │   │   ├── Rock_Boulder_A_MaskMap.tif.meta
+│   │   │   │   ├── Rock_Boulder_A_Mask_Map.tif
+│   │   │   │   ├── Rock_Boulder_A_Mask_Map.tif.meta
+│   │   │   │   ├── Rock_Boulder_A_Normal.tif
+│   │   │   │   ├── Rock_Boulder_A_Normal.tif.meta
+│   │   │   │   ├── Rock_Boulder_A_Normals.tif
+│   │   │   │   ├── Rock_Boulder_A_Normals.tif.meta
+│   │   │   │   ├── Rock_Boulder_A_Thickness.tif
+│   │   │   │   ├── Rock_Boulder_A_Thickness.tif.meta
+│   │   │   │   ├── Rock_Boulder_A_albedo.tif
+│   │   │   │   ├── Rock_Boulder_A_albedo.tif.meta
+│   │   │   │   ├── Rock_Boulder_A_ambient_occlusion.tif
+│   │   │   │   ├── Rock_Boulder_A_ambient_occlusion.tif.meta
+│   │   │   │   ├── Rock_Boulder_A_curvature.tif
+│   │   │   │   ├── Rock_Boulder_A_curvature.tif.meta
+│   │   │   │   ├── Rock_Boulder_A_normal_base.tif
+│   │   │   │   ├── Rock_Boulder_A_normal_base.tif.meta
+│   │   │   │   ├── Rock_Boulder_A_position.tif
+│   │   │   │   ├── Rock_Boulder_A_position.tif.meta
+│   │   │   │   ├── Rock_Boulder_A_world_space_normals.tif
+│   │   │   │   └── Rock_Boulder_A_world_space_normals.tif.meta
+│   │   │   ├── Rock_Boulder_A.meta
+│   │   │   ├── Rock_Boulder_B
+│   │   │   │   ├── Rock_Boulder_B_Albedo.tif
+│   │   │   │   ├── Rock_Boulder_B_Albedo.tif.meta
+│   │   │   │   ├── Rock_Boulder_B_BNM.tif
+│   │   │   │   ├── Rock_Boulder_B_BNM.tif.meta
+│   │   │   │   ├── Rock_Boulder_B_Height.tif
+│   │   │   │   ├── Rock_Boulder_B_Height.tif.meta
+│   │   │   │   ├── Rock_Boulder_B_MaskMap.tif
+│   │   │   │   ├── Rock_Boulder_B_MaskMap.tif.meta
+│   │   │   │   ├── Rock_Boulder_B_Mask_Map.tif
+│   │   │   │   ├── Rock_Boulder_B_Mask_Map.tif.meta
+│   │   │   │   ├── Rock_Boulder_B_Normal.tif
+│   │   │   │   ├── Rock_Boulder_B_Normal.tif.meta
+│   │   │   │   ├── Rock_Boulder_B_Normals.tif
+│   │   │   │   ├── Rock_Boulder_B_Normals.tif.meta
+│   │   │   │   ├── Rock_Boulder_B_Thickness.tif
+│   │   │   │   └── Rock_Boulder_B_Thickness.tif.meta
+│   │   │   ├── Rock_Boulder_B.meta
+│   │   │   ├── Rock_Boulder_C
+│   │   │   │   ├── Rock_Boulder_C_Albedo.tif
+│   │   │   │   ├── Rock_Boulder_C_Albedo.tif.meta
+│   │   │   │   ├── Rock_Boulder_C_BNM.tif
+│   │   │   │   ├── Rock_Boulder_C_BNM.tif.meta
+│   │   │   │   ├── Rock_Boulder_C_Height.tif
+│   │   │   │   ├── Rock_Boulder_C_Height.tif.meta
+│   │   │   │   ├── Rock_Boulder_C_MaskMap.tif
+│   │   │   │   ├── Rock_Boulder_C_MaskMap.tif.meta
+│   │   │   │   ├── Rock_Boulder_C_Mask_Map.tif
+│   │   │   │   ├── Rock_Boulder_C_Mask_Map.tif.meta
+│   │   │   │   ├── Rock_Boulder_C_Normal.tif
+│   │   │   │   ├── Rock_Boulder_C_Normal.tif.meta
+│   │   │   │   ├── Rock_Boulder_C_Normals.tif
+│   │   │   │   ├── Rock_Boulder_C_Normals.tif.meta
+│   │   │   │   ├── Rock_Boulder_C_Thickness.tif
+│   │   │   │   └── Rock_Boulder_C_Thickness.tif.meta
+│   │   │   ├── Rock_Boulder_C.meta
+│   │   │   ├── Rock_Boulder_D
+│   │   │   │   ├── Rock_BouldeR_D_MaskMap.tif
+│   │   │   │   ├── Rock_BouldeR_D_MaskMap.tif.meta
+│   │   │   │   ├── Rock_BouldeR_D_Normals.tif
+│   │   │   │   ├── Rock_BouldeR_D_Normals.tif.meta
+│   │   │   │   ├── Rock_Boulder_D_Albedo.tif
+│   │   │   │   ├── Rock_Boulder_D_Albedo.tif.meta
+│   │   │   │   ├── Rock_Boulder_D_BNM.tif
+│   │   │   │   ├── Rock_Boulder_D_BNM.tif.meta
+│   │   │   │   ├── Rock_Boulder_D_Height.tif
+│   │   │   │   ├── Rock_Boulder_D_Height.tif.meta
+│   │   │   │   ├── Rock_Boulder_D_Mask_Map.tif
+│   │   │   │   ├── Rock_Boulder_D_Mask_Map.tif.meta
+│   │   │   │   ├── Rock_Boulder_D_Normal.tif
+│   │   │   │   ├── Rock_Boulder_D_Normal.tif.meta
+│   │   │   │   ├── Rock_Boulder_D_Thickness.tif
+│   │   │   │   └── Rock_Boulder_D_Thickness.tif.meta
+│   │   │   ├── Rock_Boulder_D.meta
+│   │   │   ├── Rock_Collection_A
+│   │   │   │   ├── Rock_Collection_A_BaseColor_A.tif
+│   │   │   │   ├── Rock_Collection_A_BaseColor_A.tif.meta
+│   │   │   │   ├── Rock_Collection_A_MaskMap.tif
+│   │   │   │   ├── Rock_Collection_A_MaskMap.tif.meta
+│   │   │   │   ├── Rock_Collection_A_Normals.tif
+│   │   │   │   └── Rock_Collection_A_Normals.tif.meta
+│   │   │   ├── Rock_Collection_A.meta
+│   │   │   ├── Rock_Planet_A
+│   │   │   │   ├── Rock_Planet_A_Color_A_Albedo.tif
+│   │   │   │   ├── Rock_Planet_A_Color_A_Albedo.tif.meta
+│   │   │   │   ├── Rock_Planet_A_DirectionalMask.tif
+│   │   │   │   ├── Rock_Planet_A_DirectionalMask.tif.meta
+│   │   │   │   ├── Rock_Planet_A_MaskMap.tif
+│   │   │   │   ├── Rock_Planet_A_MaskMap.tif.meta
+│   │   │   │   ├── Rock_Planet_A_Normal.tif
+│   │   │   │   ├── Rock_Planet_A_Normal.tif.meta
+│   │   │   │   ├── Rock_Planet_A_height.tiff
+│   │   │   │   └── Rock_Planet_A_height.tiff.meta
+│   │   │   ├── Rock_Planet_A.meta
+│   │   │   ├── Rock_Planet_B
+│   │   │   │   ├── Rock_Planet_B_BNM.tiff
+│   │   │   │   ├── Rock_Planet_B_BNM.tiff.meta
+│   │   │   │   ├── Rock_Planet_B_Color_A_Albedo.tif
+│   │   │   │   ├── Rock_Planet_B_Color_A_Albedo.tif.meta
+│   │   │   │   ├── Rock_Planet_B_DirectionalMask.tif
+│   │   │   │   ├── Rock_Planet_B_DirectionalMask.tif.meta
+│   │   │   │   ├── Rock_Planet_B_MaskMap.tif
+│   │   │   │   ├── Rock_Planet_B_MaskMap.tif.meta
+│   │   │   │   ├── Rock_Planet_B_Normal.tif
+│   │   │   │   ├── Rock_Planet_B_Normal.tif.meta
+│   │   │   │   ├── Rock_Planet_B_height.tiff
+│   │   │   │   └── Rock_Planet_B_height.tiff.meta
+│   │   │   ├── Rock_Planet_B.meta
+│   │   │   ├── Rock_Planet_C
+│   │   │   │   ├── Rock_Planet_C_BNM.tiff
+│   │   │   │   ├── Rock_Planet_C_BNM.tiff.meta
+│   │   │   │   ├── Rock_Planet_C_Color_A_Albedo.tif
+│   │   │   │   ├── Rock_Planet_C_Color_A_Albedo.tif.meta
+│   │   │   │   ├── Rock_Planet_C_DirectionalMask.tif
+│   │   │   │   ├── Rock_Planet_C_DirectionalMask.tif.meta
+│   │   │   │   ├── Rock_Planet_C_MaskMap.tif
+│   │   │   │   ├── Rock_Planet_C_MaskMap.tif.meta
+│   │   │   │   ├── Rock_Planet_C_Normal.tif
+│   │   │   │   ├── Rock_Planet_C_Normal.tif.meta
+│   │   │   │   ├── Rock_Planet_C_height.tiff
+│   │   │   │   └── Rock_Planet_C_height.tiff.meta
+│   │   │   ├── Rock_Planet_C.meta
+│   │   │   ├── Stalactites_A
+│   │   │   │   ├── Stalactites_A_Color_A_Albedo.tif
+│   │   │   │   ├── Stalactites_A_Color_A_Albedo.tif.meta
+│   │   │   │   ├── Stalactites_A_LayerMask.tif
+│   │   │   │   ├── Stalactites_A_LayerMask.tif.meta
+│   │   │   │   ├── Stalactites_A_MaskMap.tif
+│   │   │   │   ├── Stalactites_A_MaskMap.tif.meta
+│   │   │   │   ├── Stalactites_A_Normal.tif
+│   │   │   │   └── Stalactites_A_Normal.tif.meta
+│   │   │   └── Stalactites_A.meta
+│   │   ├── Rocks.meta
+│   │   ├── Terrain
+│   │   │   ├── Sand_Dune_A
+│   │   │   │   ├── Sand_Dune_A_BaseColor_A.tif
+│   │   │   │   ├── Sand_Dune_A_BaseColor_A.tif.meta
+│   │   │   │   ├── Sand_Dune_A_LayerMask.tif
+│   │   │   │   ├── Sand_Dune_A_LayerMask.tif.meta
+│   │   │   │   ├── Sand_Dune_A_MaskMap.tif
+│   │   │   │   ├── Sand_Dune_A_MaskMap.tif.meta
+│   │   │   │   ├── Sand_Dune_A_Normals.tif
+│   │   │   │   └── Sand_Dune_A_Normals.tif.meta
+│   │   │   ├── Sand_Dune_A.meta
+│   │   │   ├── Sand_Dune_Corner_A
+│   │   │   │   ├── Sand_Dune_Corner_A_BaseColor_A.tif
+│   │   │   │   ├── Sand_Dune_Corner_A_BaseColor_A.tif.meta
+│   │   │   │   ├── Sand_Dune_Corner_A_LayerMask.tif
+│   │   │   │   ├── Sand_Dune_Corner_A_LayerMask.tif.meta
+│   │   │   │   ├── Sand_Dune_Corner_A_MaskMap.tif
+│   │   │   │   ├── Sand_Dune_Corner_A_MaskMap.tif.meta
+│   │   │   │   ├── Sand_Dune_Corner_A_Normals.tif
+│   │   │   │   └── Sand_Dune_Corner_A_Normals.tif.meta
+│   │   │   ├── Sand_Dune_Corner_A.meta
+│   │   │   ├── Sand_Dune_Wall_A
+│   │   │   │   ├── Sand_Dune_Wall_A_BaseColor_A.tif
+│   │   │   │   ├── Sand_Dune_Wall_A_BaseColor_A.tif.meta
+│   │   │   │   ├── Sand_Dune_Wall_A_LayerMask.tif
+│   │   │   │   ├── Sand_Dune_Wall_A_LayerMask.tif.meta
+│   │   │   │   ├── Sand_Dune_Wall_A_MaskMap.tif
+│   │   │   │   ├── Sand_Dune_Wall_A_MaskMap.tif.meta
+│   │   │   │   ├── Sand_Dune_Wall_A_Normals.tif
+│   │   │   │   └── Sand_Dune_Wall_A_Normals.tif.meta
+│   │   │   ├── Sand_Dune_Wall_A.meta
+│   │   │   ├── Sand_Dune_Wall_C
+│   │   │   │   ├── Sand_Dune_Wall_BNM.tiff
+│   │   │   │   ├── Sand_Dune_Wall_BNM.tiff.meta
+│   │   │   │   ├── Sand_Dune_Wall_C_BaseColor_A.tif
+│   │   │   │   ├── Sand_Dune_Wall_C_BaseColor_A.tif.meta
+│   │   │   │   ├── Sand_Dune_Wall_C_LayerMask.tif
+│   │   │   │   ├── Sand_Dune_Wall_C_LayerMask.tif.meta
+│   │   │   │   ├── Sand_Dune_Wall_C_MaskMap.tif
+│   │   │   │   ├── Sand_Dune_Wall_C_MaskMap.tif.meta
+│   │   │   │   ├── Sand_Dune_Wall_C_Normals.tif
+│   │   │   │   ├── Sand_Dune_Wall_C_Normals.tif.meta
+│   │   │   │   ├── Sand_Dune_Wall_Height.tiff
+│   │   │   │   └── Sand_Dune_Wall_Height.tiff.meta
+│   │   │   └── Sand_Dune_Wall_C.meta
+│   │   ├── Terrain.meta
+│   │   ├── Vents
+│   │   │   ├── Vent_Scifi_A
+│   │   │   │   ├── Vent_Scifi_A_Color_A_Albedo.tif
+│   │   │   │   ├── Vent_Scifi_A_Color_A_Albedo.tif.meta
+│   │   │   │   ├── Vent_Scifi_A_Color_B_Albedo.tif
+│   │   │   │   ├── Vent_Scifi_A_Color_B_Albedo.tif.meta
+│   │   │   │   ├── Vent_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Vent_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Vent_Scifi_A_Normal.tif
+│   │   │   │   ├── Vent_Scifi_A_Normal.tif.meta
+│   │   │   │   ├── Vent_Scifi_A_Normals.tif
+│   │   │   │   ├── Vent_Scifi_A_Normals.tif.meta
+│   │   │   │   ├── Vent_Scifi_A_SpecularOcclusion.tif
+│   │   │   │   └── Vent_Scifi_A_SpecularOcclusion.tif.meta
+│   │   │   ├── Vent_Scifi_A.meta
+│   │   │   ├── Ventilation_1200x1200_A
+│   │   │   │   ├── Ventilation_1200x1200_A_Albedo.tif
+│   │   │   │   ├── Ventilation_1200x1200_A_Albedo.tif.meta
+│   │   │   │   ├── Ventilation_1200x1200_A_BNM.tif
+│   │   │   │   ├── Ventilation_1200x1200_A_BNM.tif.meta
+│   │   │   │   ├── Ventilation_1200x1200_A_Height.tif
+│   │   │   │   ├── Ventilation_1200x1200_A_Height.tif.meta
+│   │   │   │   ├── Ventilation_1200x1200_A_LayerMask.tif
+│   │   │   │   ├── Ventilation_1200x1200_A_LayerMask.tif.meta
+│   │   │   │   ├── Ventilation_1200x1200_A_MaskMap.tif
+│   │   │   │   ├── Ventilation_1200x1200_A_MaskMap.tif.meta
+│   │   │   │   ├── Ventilation_1200x1200_A_Normal.tif
+│   │   │   │   └── Ventilation_1200x1200_A_Normal.tif.meta
+│   │   │   ├── Ventilation_1200x1200_A.meta
+│   │   │   ├── Ventilation_A
+│   │   │   │   ├── Ventilation_A_Albedo.tif
+│   │   │   │   ├── Ventilation_A_Albedo.tif.meta
+│   │   │   │   ├── Ventilation_A_BNM.tif
+│   │   │   │   ├── Ventilation_A_BNM.tif.meta
+│   │   │   │   ├── Ventilation_A_Height.tif
+│   │   │   │   ├── Ventilation_A_Height.tif.meta
+│   │   │   │   ├── Ventilation_A_LayerMask.tif
+│   │   │   │   ├── Ventilation_A_LayerMask.tif.meta
+│   │   │   │   ├── Ventilation_A_MaskMap.tif
+│   │   │   │   ├── Ventilation_A_MaskMap.tif.meta
+│   │   │   │   ├── Ventilation_A_Normal.tif
+│   │   │   │   └── Ventilation_A_Normal.tif.meta
+│   │   │   ├── Ventilation_A.meta
+│   │   │   ├── Ventilation_B
+│   │   │   │   ├── Ventilation_B_Albedo.tif
+│   │   │   │   ├── Ventilation_B_Albedo.tif.meta
+│   │   │   │   ├── Ventilation_B_BNM.tiff
+│   │   │   │   ├── Ventilation_B_BNM.tiff.meta
+│   │   │   │   ├── Ventilation_B_Emissive.tif
+│   │   │   │   ├── Ventilation_B_Emissive.tif.meta
+│   │   │   │   ├── Ventilation_B_Height.tiff
+│   │   │   │   ├── Ventilation_B_Height.tiff.meta
+│   │   │   │   ├── Ventilation_B_LayerMap.tif
+│   │   │   │   ├── Ventilation_B_LayerMap.tif.meta
+│   │   │   │   ├── Ventilation_B_MaskMap.tif
+│   │   │   │   ├── Ventilation_B_MaskMap.tif.meta
+│   │   │   │   ├── Ventilation_B_Normal.tif
+│   │   │   │   └── Ventilation_B_Normal.tif.meta
+│   │   │   ├── Ventilation_B.meta
+│   │   │   ├── Ventilation_C
+│   │   │   │   ├── Ventilation_C_Albedo.tif
+│   │   │   │   ├── Ventilation_C_Albedo.tif.meta
+│   │   │   │   ├── Ventilation_C_BNM.tif
+│   │   │   │   ├── Ventilation_C_BNM.tif.meta
+│   │   │   │   ├── Ventilation_C_Height.tif
+│   │   │   │   ├── Ventilation_C_Height.tif.meta
+│   │   │   │   ├── Ventilation_C_LayerMask.tif
+│   │   │   │   ├── Ventilation_C_LayerMask.tif.meta
+│   │   │   │   ├── Ventilation_C_MaskMap.tif
+│   │   │   │   ├── Ventilation_C_MaskMap.tif.meta
+│   │   │   │   ├── Ventilation_C_Normal.tif
+│   │   │   │   └── Ventilation_C_Normal.tif.meta
+│   │   │   ├── Ventilation_C.meta
+│   │   │   ├── Ventilation_D
+│   │   │   │   ├── Ventilation_D_Albedo.tif
+│   │   │   │   ├── Ventilation_D_Albedo.tif.meta
+│   │   │   │   ├── Ventilation_D_BNM.tif
+│   │   │   │   ├── Ventilation_D_BNM.tif.meta
+│   │   │   │   ├── Ventilation_D_Height.tif
+│   │   │   │   ├── Ventilation_D_Height.tif.meta
+│   │   │   │   ├── Ventilation_D_LayerMask.tif
+│   │   │   │   ├── Ventilation_D_LayerMask.tif.meta
+│   │   │   │   ├── Ventilation_D_MaskMap.tif
+│   │   │   │   ├── Ventilation_D_MaskMap.tif.meta
+│   │   │   │   ├── Ventilation_D_Normal.tif
+│   │   │   │   └── Ventilation_D_Normal.tif.meta
+│   │   │   └── Ventilation_D.meta
+│   │   ├── Vents.meta
+│   │   ├── Wires
+│   │   │   ├── Wires_Scifi_A
+│   │   │   │   ├── Wires_Scifi_A_Color_A_Albedo.tif
+│   │   │   │   ├── Wires_Scifi_A_Color_A_Albedo.tif.meta
+│   │   │   │   ├── Wires_Scifi_A_MaskMap.tif
+│   │   │   │   ├── Wires_Scifi_A_MaskMap.tif.meta
+│   │   │   │   ├── Wires_Scifi_A_Normal.tif
+│   │   │   │   └── Wires_Scifi_A_Normal.tif.meta
+│   │   │   └── Wires_Scifi_A.meta
+│   │   └── Wires.meta
+│   ├── Props.meta
+│   ├── Rock
+│   │   ├── Rockwall_Planet_A
+│   │   │   ├── Rockwall_Planet_A_BNM.tiff
+│   │   │   ├── Rockwall_Planet_A_BNM.tiff.meta
+│   │   │   ├── Rockwall_Planet_A_BaseColor_A.tif
+│   │   │   ├── Rockwall_Planet_A_BaseColor_A.tif.meta
+│   │   │   ├── Rockwall_Planet_A_Height.tif
+│   │   │   ├── Rockwall_Planet_A_Height.tif.meta
+│   │   │   ├── Rockwall_Planet_A_MaskMap.tif
+│   │   │   ├── Rockwall_Planet_A_MaskMap.tif.meta
+│   │   │   ├── Rockwall_Planet_A_Normals.tif
+│   │   │   └── Rockwall_Planet_A_Normals.tif.meta
+│   │   ├── Rockwall_Planet_A.meta
+│   │   ├── Rockwall_Planet_B
+│   │   │   ├── Rockwall_Planet_B_BNM.tiff
+│   │   │   ├── Rockwall_Planet_B_BNM.tiff.meta
+│   │   │   ├── Rockwall_Planet_B_BaseColor_A.tif
+│   │   │   ├── Rockwall_Planet_B_BaseColor_A.tif.meta
+│   │   │   ├── Rockwall_Planet_B_Height.tif
+│   │   │   ├── Rockwall_Planet_B_Height.tif.meta
+│   │   │   ├── Rockwall_Planet_B_MaskMap.tif
+│   │   │   ├── Rockwall_Planet_B_MaskMap.tif.meta
+│   │   │   ├── Rockwall_Planet_B_Normals.tif
+│   │   │   └── Rockwall_Planet_B_Normals.tif.meta
+│   │   ├── Rockwall_Planet_B.meta
+│   │   ├── Rockwall_Planet_C
+│   │   │   ├── Rockwall_Planet_C_BNM.tiff
+│   │   │   ├── Rockwall_Planet_C_BNM.tiff.meta
+│   │   │   ├── Rockwall_Planet_C_BaseColor_A.tif
+│   │   │   ├── Rockwall_Planet_C_BaseColor_A.tif.meta
+│   │   │   ├── Rockwall_Planet_C_MaskMap.tif
+│   │   │   ├── Rockwall_Planet_C_MaskMap.tif.meta
+│   │   │   ├── Rockwall_Planet_C_Normals.tif
+│   │   │   ├── Rockwall_Planet_C_Normals.tif.meta
+│   │   │   ├── Rockwall_Planet_C_height.tiff
+│   │   │   └── Rockwall_Planet_C_height.tiff.meta
+│   │   └── Rockwall_Planet_C.meta
+│   ├── Rock.meta
+│   ├── Trims
+│   │   ├── Trims_Spacestation_A
+│   │   │   ├── Trims_Spacestation_A_Color_A_Albedo.tif
+│   │   │   ├── Trims_Spacestation_A_Color_A_Albedo.tif.meta
+│   │   │   ├── Trims_Spacestation_A_Mask.tif
+│   │   │   ├── Trims_Spacestation_A_Mask.tif.meta
+│   │   │   ├── Trims_Spacestation_A_MaskMap.tif
+│   │   │   ├── Trims_Spacestation_A_MaskMap.tif.meta
+│   │   │   ├── Trims_Spacestation_A_Normal.tif
+│   │   │   └── Trims_Spacestation_A_Normal.tif.meta
+│   │   ├── Trims_Spacestation_A.meta
+│   │   ├── Trims_Terrain_Rocky_A
+│   │   │   ├── Trims_Terrain_Rocky_A_BNM.tiff
+│   │   │   ├── Trims_Terrain_Rocky_A_BNM.tiff.meta
+│   │   │   ├── Trims_Terrain_Rocky_A_BaseColor_A.tif
+│   │   │   ├── Trims_Terrain_Rocky_A_BaseColor_A.tif.meta
+│   │   │   ├── Trims_Terrain_Rocky_A_InfluenceMask.tif
+│   │   │   ├── Trims_Terrain_Rocky_A_InfluenceMask.tif.meta
+│   │   │   ├── Trims_Terrain_Rocky_A_MaskMap.tif
+│   │   │   ├── Trims_Terrain_Rocky_A_MaskMap.tif.meta
+│   │   │   ├── Trims_Terrain_Rocky_A_Normals.tif
+│   │   │   ├── Trims_Terrain_Rocky_A_Normals.tif.meta
+│   │   │   ├── Trims_Terrain_Rocky_A_height.tiff
+│   │   │   └── Trims_Terrain_Rocky_A_height.tiff.meta
+│   │   └── Trims_Terrain_Rocky_A.meta
+│   ├── Trims.meta
+│   ├── Vehicles
+│   │   ├── Giant_Digger_A
+│   │   │   ├── Giant_Digger_A_Albedo.tif
+│   │   │   ├── Giant_Digger_A_Albedo.tif.meta
+│   │   │   ├── Giant_Digger_A_BNM.tif
+│   │   │   ├── Giant_Digger_A_BNM.tif.meta
+│   │   │   ├── Giant_Digger_A_Emissive.tif
+│   │   │   ├── Giant_Digger_A_Emissive.tif.meta
+│   │   │   ├── Giant_Digger_A_Height.tif
+│   │   │   ├── Giant_Digger_A_Height.tif.meta
+│   │   │   ├── Giant_Digger_A_LayerMask.tif
+│   │   │   ├── Giant_Digger_A_LayerMask.tif.meta
+│   │   │   ├── Giant_Digger_A_MaskMap.tif
+│   │   │   ├── Giant_Digger_A_MaskMap.tif.meta
+│   │   │   ├── Giant_Digger_A_Normal.tif
+│   │   │   └── Giant_Digger_A_Normal.tif.meta
+│   │   ├── Giant_Digger_A.meta
+│   │   ├── Spaceships
+│   │   │   ├── SpaceShip_Terraformers_Pod_A
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Albedo.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Albedo.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_BNM.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_BNM.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Emissive.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Emissive.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Glass_Albedo.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Glass_Albedo.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Glass_BNM.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Glass_BNM.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Glass_Height.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Glass_Height.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Glass_Mask_Map.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Glass_Mask_Map.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Glass_Normal.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Glass_Normal.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Glass_Thickness.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Glass_Thickness.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Height.tiff
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Height.tiff.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Mask_Map.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Mask_Map.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Normal.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Normal.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Thickness.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Thickness.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_mask.tif
+│   │   │   │   └── SpaceShip_Terraformers_Pod_A_mask.tif.meta
+│   │   │   ├── SpaceShip_Terraformers_Pod_A.meta
+│   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Albedo.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Albedo.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_BNM.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_BNM.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Emissive.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Emissive.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Glass_Albedo.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Glass_Albedo.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Glass_BNM.tiff
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Glass_BNM.tiff.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Glass_Height.tiff
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Glass_Height.tiff.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Glass_Mask_Map.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Glass_Mask_Map.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Glass_Normal.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Glass_Normal.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Glass_Thickness.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Glass_Thickness.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Height.tiff
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Height.tiff.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Mask_Map.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Mask_Map.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Normal.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Normal.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Thickness.tif
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_Thickness.tif.meta
+│   │   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken_mask.tif
+│   │   │   │   └── SpaceShip_Terraformers_Pod_A_Broken_mask.tif.meta
+│   │   │   ├── SpaceShip_Terraformers_Pod_A_Broken.meta
+│   │   │   ├── Spaceship_A
+│   │   │   │   ├── Spaceship_A_Beeswax_A_Albedo.tif
+│   │   │   │   ├── Spaceship_A_Beeswax_A_Albedo.tif.meta
+│   │   │   │   ├── Spaceship_A_Beeswax_A_Height.tiff
+│   │   │   │   ├── Spaceship_A_Beeswax_A_Height.tiff.meta
+│   │   │   │   ├── Spaceship_A_Beeswax_A_MaskMap.tif
+│   │   │   │   ├── Spaceship_A_Beeswax_A_MaskMap.tif.meta
+│   │   │   │   ├── Spaceship_A_Beeswax_A_Normal.tif
+│   │   │   │   ├── Spaceship_A_Beeswax_A_Normal.tif.meta
+│   │   │   │   ├── Spaceship_A_Glass_Emissive_A_Albedo.tif
+│   │   │   │   ├── Spaceship_A_Glass_Emissive_A_Albedo.tif.meta
+│   │   │   │   ├── Spaceship_A_Glass_Emissive_A_Emissive.tif
+│   │   │   │   ├── Spaceship_A_Glass_Emissive_A_Emissive.tif.meta
+│   │   │   │   ├── Spaceship_A_Glass_Emissive_A_Height.tiff
+│   │   │   │   ├── Spaceship_A_Glass_Emissive_A_Height.tiff.meta
+│   │   │   │   ├── Spaceship_A_Glass_Emissive_A_MaskMap.tif
+│   │   │   │   ├── Spaceship_A_Glass_Emissive_A_MaskMap.tif.meta
+│   │   │   │   ├── Spaceship_A_Glass_Emissive_A_Normal.tif
+│   │   │   │   ├── Spaceship_A_Glass_Emissive_A_Normal.tif.meta
+│   │   │   │   ├── Spaceship_A_Honeycomb_A_Albedo.tif
+│   │   │   │   ├── Spaceship_A_Honeycomb_A_Albedo.tif.meta
+│   │   │   │   ├── Spaceship_A_Honeycomb_A_Height.tif
+│   │   │   │   ├── Spaceship_A_Honeycomb_A_Height.tif.meta
+│   │   │   │   ├── Spaceship_A_Honeycomb_A_MaskMap.tif
+│   │   │   │   ├── Spaceship_A_Honeycomb_A_MaskMap.tif.meta
+│   │   │   │   ├── Spaceship_A_Honeycomb_A_Normal.tif
+│   │   │   │   ├── Spaceship_A_Honeycomb_A_Normal.tif.meta
+│   │   │   │   ├── Spaceship_A_Unique_A_Albedo.tif
+│   │   │   │   ├── Spaceship_A_Unique_A_Albedo.tif.meta
+│   │   │   │   ├── Spaceship_A_Unique_A_Emissive.tif
+│   │   │   │   ├── Spaceship_A_Unique_A_Emissive.tif.meta
+│   │   │   │   ├── Spaceship_A_Unique_A_Height.tiff
+│   │   │   │   ├── Spaceship_A_Unique_A_Height.tiff.meta
+│   │   │   │   ├── Spaceship_A_Unique_A_MaskMap.tif
+│   │   │   │   ├── Spaceship_A_Unique_A_MaskMap.tif.meta
+│   │   │   │   ├── Spaceship_A_Unique_A_Normal.tif
+│   │   │   │   ├── Spaceship_A_Unique_A_Normal.tif.meta
+│   │   │   │   ├── Spaceship_Metal_Crumbled_A_Albedo.tif
+│   │   │   │   ├── Spaceship_Metal_Crumbled_A_Albedo.tif.meta
+│   │   │   │   ├── Spaceship_Metal_Crumbled_A_MaskMap.tif
+│   │   │   │   ├── Spaceship_Metal_Crumbled_A_MaskMap.tif.meta
+│   │   │   │   ├── Spaceship_Metal_Crumbled_A_Normal.tif
+│   │   │   │   ├── Spaceship_Metal_Crumbled_A_Normal.tif.meta
+│   │   │   │   ├── Spaceship_Metal_Tiling_A_Albedo.tif
+│   │   │   │   ├── Spaceship_Metal_Tiling_A_Albedo.tif.meta
+│   │   │   │   ├── Spaceship_Metal_Tiling_A_Burnt_Albedo.tif
+│   │   │   │   ├── Spaceship_Metal_Tiling_A_Burnt_Albedo.tif.meta
+│   │   │   │   ├── Spaceship_Metal_Tiling_A_Burnt_MaskMap.tif
+│   │   │   │   ├── Spaceship_Metal_Tiling_A_Burnt_MaskMap.tif.meta
+│   │   │   │   ├── Spaceship_Metal_Tiling_A_Burnt_Normal.tif
+│   │   │   │   ├── Spaceship_Metal_Tiling_A_Burnt_Normal.tif.meta
+│   │   │   │   ├── Spaceship_Metal_Tiling_A_MaskMap.tif
+│   │   │   │   ├── Spaceship_Metal_Tiling_A_MaskMap.tif.meta
+│   │   │   │   ├── Spaceship_Metal_Tiling_A_Normal.tif
+│   │   │   │   ├── Spaceship_Metal_Tiling_A_Normal.tif.meta
+│   │   │   │   ├── Spaceship_Plastic_Melted_A_Albedo.tif
+│   │   │   │   ├── Spaceship_Plastic_Melted_A_Albedo.tif.meta
+│   │   │   │   ├── Spaceship_Plastic_Melted_A_MaskMap.tif
+│   │   │   │   ├── Spaceship_Plastic_Melted_A_MaskMap.tif.meta
+│   │   │   │   ├── Spaceship_Plastic_Melted_A_Normal.tif
+│   │   │   │   ├── Spaceship_Plastic_Melted_A_Normal.tif.meta
+│   │   │   │   ├── Spaceship_Plastic_Tiling_A_Albedo.tif
+│   │   │   │   ├── Spaceship_Plastic_Tiling_A_Albedo.tif.meta
+│   │   │   │   ├── Spaceship_Plastic_Tiling_A_Damaged_Albedo.tif
+│   │   │   │   ├── Spaceship_Plastic_Tiling_A_Damaged_Albedo.tif.meta
+│   │   │   │   ├── Spaceship_Plastic_Tiling_A_Damaged_MaskMap.tif
+│   │   │   │   ├── Spaceship_Plastic_Tiling_A_Damaged_MaskMap.tif.meta
+│   │   │   │   ├── Spaceship_Plastic_Tiling_A_Damaged_Normal.tif
+│   │   │   │   ├── Spaceship_Plastic_Tiling_A_Damaged_Normal.tif.meta
+│   │   │   │   ├── Spaceship_Plastic_Tiling_A_MaskMap.tif
+│   │   │   │   ├── Spaceship_Plastic_Tiling_A_MaskMap.tif.meta
+│   │   │   │   ├── Spaceship_Plastic_Tiling_A_Normal.tif
+│   │   │   │   ├── Spaceship_Plastic_Tiling_A_Normal.tif.meta
+│   │   │   │   ├── Spaceship_Trims_A_Albedo.tif
+│   │   │   │   ├── Spaceship_Trims_A_Albedo.tif.meta
+│   │   │   │   ├── Spaceship_Trims_A_Burnt_A_Albedo.tif
+│   │   │   │   ├── Spaceship_Trims_A_Burnt_A_Albedo.tif.meta
+│   │   │   │   ├── Spaceship_Trims_A_Burnt_A_MaskMap.tif
+│   │   │   │   ├── Spaceship_Trims_A_Burnt_A_MaskMap.tif.meta
+│   │   │   │   ├── Spaceship_Trims_A_Burnt_A_Normal.tif
+│   │   │   │   ├── Spaceship_Trims_A_Burnt_A_Normal.tif.meta
+│   │   │   │   ├── Spaceship_Trims_A_MaskMap.tif
+│   │   │   │   ├── Spaceship_Trims_A_MaskMap.tif.meta
+│   │   │   │   ├── Spaceship_Trims_A_Normal.tif
+│   │   │   │   └── Spaceship_Trims_A_Normal.tif.meta
+│   │   │   ├── Spaceship_A.meta
+│   │   │   ├── Spaceship_Background_A
+│   │   │   │   ├── Spaceship_Background_A_Albedo.tif
+│   │   │   │   ├── Spaceship_Background_A_Albedo.tif.meta
+│   │   │   │   ├── Spaceship_Background_A_BNM.tif
+│   │   │   │   ├── Spaceship_Background_A_BNM.tif.meta
+│   │   │   │   ├── Spaceship_Background_A_Emissive.exr
+│   │   │   │   ├── Spaceship_Background_A_Emissive.exr.meta
+│   │   │   │   ├── Spaceship_Background_A_Emissive.tif
+│   │   │   │   ├── Spaceship_Background_A_Emissive.tif.meta
+│   │   │   │   ├── Spaceship_Background_A_Height.tif
+│   │   │   │   ├── Spaceship_Background_A_Height.tif.meta
+│   │   │   │   ├── Spaceship_Background_A_LayerMask.tif
+│   │   │   │   ├── Spaceship_Background_A_LayerMask.tif.meta
+│   │   │   │   ├── Spaceship_Background_A_MaskMap.tif
+│   │   │   │   ├── Spaceship_Background_A_MaskMap.tif.meta
+│   │   │   │   ├── Spaceship_Background_A_Normal.tif
+│   │   │   │   └── Spaceship_Background_A_Normal.tif.meta
+│   │   │   └── Spaceship_Background_A.meta
+│   │   ├── Spaceships.meta
+│   │   ├── Tunnel_Digger_A
+│   │   │   ├── Rails_Scifi_A_Albedo.tif
+│   │   │   ├── Rails_Scifi_A_Albedo.tif.meta
+│   │   │   ├── Rails_Scifi_A_BNM.tif
+│   │   │   ├── Rails_Scifi_A_BNM.tif.meta
+│   │   │   ├── Rails_Scifi_A_Height.tif
+│   │   │   ├── Rails_Scifi_A_Height.tif.meta
+│   │   │   ├── Rails_Scifi_A_MaskMap.tif
+│   │   │   ├── Rails_Scifi_A_MaskMap.tif.meta
+│   │   │   ├── Rails_Scifi_A_Normal.tif
+│   │   │   ├── Rails_Scifi_A_Normal.tif.meta
+│   │   │   ├── Tunnel_Digger_A_Albedo.tif
+│   │   │   ├── Tunnel_Digger_A_Albedo.tif.meta
+│   │   │   ├── Tunnel_Digger_A_BNM.tif
+│   │   │   ├── Tunnel_Digger_A_BNM.tif.meta
+│   │   │   ├── Tunnel_Digger_A_Height.tif
+│   │   │   ├── Tunnel_Digger_A_Height.tif.meta
+│   │   │   ├── Tunnel_Digger_A_LayerMask.tif
+│   │   │   ├── Tunnel_Digger_A_LayerMask.tif.meta
+│   │   │   ├── Tunnel_Digger_A_MaskMap.tif
+│   │   │   ├── Tunnel_Digger_A_MaskMap.tif.meta
+│   │   │   ├── Tunnel_Digger_A_Normal.tif
+│   │   │   └── Tunnel_Digger_A_Normal.tif.meta
+│   │   └── Tunnel_Digger_A.meta
+│   └── Vehicles.meta
+├── Environment.meta
+├── Gameplay
+│   ├── Capturepoint_A
+│   │   ├── Capturepoint_A.tif
+│   │   ├── Capturepoint_A.tif.meta
+│   │   ├── Capturepoint_A_Emissive.tif
+│   │   └── Capturepoint_A_Emissive.tif.meta
+│   └── Capturepoint_A.meta
+├── Gameplay.meta
+├── Generic
+│   ├── Detail
+│   │   ├── Generic_Rubber_A
+│   │   │   ├── Generic_Rubber_A_Detail.tif
+│   │   │   └── Generic_Rubber_A_Detail.tif.meta
+│   │   ├── Generic_Rubber_A.meta
+│   │   ├── Generic_Steel_A
+│   │   │   ├── Generic_Steel_A_Detail.tif
+│   │   │   └── Generic_Steel_A_Detail.tif.meta
+│   │   ├── Generic_Steel_A.meta
+│   │   ├── Hexagons_A
+│   │   │   ├── Hexagons_A_AO.tiff
+│   │   │   ├── Hexagons_A_AO.tiff.meta
+│   │   │   ├── Hexagons_A_Concavity.tiff
+│   │   │   ├── Hexagons_A_Concavity.tiff.meta
+│   │   │   ├── Hexagons_A_Convexity.tiff
+│   │   │   ├── Hexagons_A_Convexity.tiff.meta
+│   │   │   ├── Hexagons_A_Curvature.tiff
+│   │   │   ├── Hexagons_A_Curvature.tiff.meta
+│   │   │   ├── Hexagons_A_Height.tiff
+│   │   │   ├── Hexagons_A_Height.tiff.meta
+│   │   │   ├── Hexagons_A_Normal.tiff
+│   │   │   └── Hexagons_A_Normal.tiff.meta
+│   │   ├── Hexagons_A.meta
+│   │   ├── Rock_Wall_Detail_A
+│   │   │   ├── Rock_Wall_Detail_A.tif
+│   │   │   ├── Rock_Wall_Detail_A.tif.meta
+│   │   │   ├── Rock_Wall_Detail_A_BaseColor_A.tif
+│   │   │   ├── Rock_Wall_Detail_A_BaseColor_A.tif.meta
+│   │   │   ├── Rock_Wall_Detail_A_MaskMap.tif
+│   │   │   ├── Rock_Wall_Detail_A_MaskMap.tif.meta
+│   │   │   ├── Rock_Wall_Detail_A_Normals.tif
+│   │   │   ├── Rock_Wall_Detail_A_Normals.tif.meta
+│   │   │   ├── Rock_Wall_Detail_A_height.tiff
+│   │   │   └── Rock_Wall_Detail_A_height.tiff.meta
+│   │   ├── Rock_Wall_Detail_A.meta
+│   │   ├── Rust
+│   │   │   ├── Generic_Rust_A_Detail.tif
+│   │   │   └── Generic_Rust_A_Detail.tif.meta
+│   │   └── Rust.meta
+│   ├── Detail.meta
+│   ├── Dirt
+│   │   ├── Generic_Dirt_A
+│   │   │   ├── Generic_Dirt_A_BaseColor_A.tif
+│   │   │   ├── Generic_Dirt_A_BaseColor_A.tif.meta
+│   │   │   ├── Generic_Dirt_A_Height.tif
+│   │   │   ├── Generic_Dirt_A_Height.tif.meta
+│   │   │   ├── Generic_Dirt_A_Mask_Map.tif
+│   │   │   ├── Generic_Dirt_A_Mask_Map.tif.meta
+│   │   │   ├── Generic_Dirt_A_Normal.tif
+│   │   │   └── Generic_Dirt_A_Normal.tif.meta
+│   │   └── Generic_Dirt_A.meta
+│   ├── Dirt.meta
+│   ├── Metal
+│   │   ├── Generic_Melted_Steel_A
+│   │   │   ├── Generic_Melted_Steel_A_Albedo.tif
+│   │   │   ├── Generic_Melted_Steel_A_Albedo.tif.meta
+│   │   │   ├── Generic_Melted_Steel_A_Height.tif
+│   │   │   ├── Generic_Melted_Steel_A_Height.tif.meta
+│   │   │   ├── Generic_Melted_Steel_A_MaskMap.tif
+│   │   │   ├── Generic_Melted_Steel_A_MaskMap.tif.meta
+│   │   │   ├── Generic_Melted_Steel_A_Normal.tif
+│   │   │   └── Generic_Melted_Steel_A_Normal.tif.meta
+│   │   ├── Generic_Melted_Steel_A.meta
+│   │   ├── Generic_Painted_Blistered_Steel_A
+│   │   │   ├── Generic_Painted_Blistered_Steel_A_Albedo.tif
+│   │   │   ├── Generic_Painted_Blistered_Steel_A_Albedo.tif.meta
+│   │   │   ├── Generic_Painted_Blistered_Steel_A_Height.tif
+│   │   │   ├── Generic_Painted_Blistered_Steel_A_Height.tif.meta
+│   │   │   ├── Generic_Painted_Blistered_Steel_A_MaskMap.tif
+│   │   │   ├── Generic_Painted_Blistered_Steel_A_MaskMap.tif.meta
+│   │   │   ├── Generic_Painted_Blistered_Steel_A_Normal.tif
+│   │   │   └── Generic_Painted_Blistered_Steel_A_Normal.tif.meta
+│   │   ├── Generic_Painted_Blistered_Steel_A.meta
+│   │   ├── Generic_Painted_Steel_A
+│   │   │   ├── Generic_Painted_Steel_A_BaseColor_A.tif
+│   │   │   ├── Generic_Painted_Steel_A_BaseColor_A.tif.meta
+│   │   │   ├── Generic_Painted_Steel_A_Height.tif
+│   │   │   ├── Generic_Painted_Steel_A_Height.tif.meta
+│   │   │   ├── Generic_Painted_Steel_A_MaskMap.tif
+│   │   │   ├── Generic_Painted_Steel_A_MaskMap.tif.meta
+│   │   │   ├── Generic_Painted_Steel_A_Normal.tif
+│   │   │   └── Generic_Painted_Steel_A_Normal.tif.meta
+│   │   ├── Generic_Painted_Steel_A.meta
+│   │   ├── Generic_Rust_A
+│   │   │   ├── Generic_Rust_A_BaseColor_A.tif
+│   │   │   ├── Generic_Rust_A_BaseColor_A.tif.meta
+│   │   │   ├── Generic_Rust_A_Height.tif
+│   │   │   ├── Generic_Rust_A_Height.tif.meta
+│   │   │   ├── Generic_Rust_A_MaskMap.tif
+│   │   │   ├── Generic_Rust_A_MaskMap.tif.meta
+│   │   │   ├── Generic_Rust_A_Normal.tif
+│   │   │   └── Generic_Rust_A_Normal.tif.meta
+│   │   ├── Generic_Rust_A.meta
+│   │   ├── Generic_Rust_B
+│   │   │   ├── Generic_Rust_B_Color_A_Albedo.tif
+│   │   │   ├── Generic_Rust_B_Color_A_Albedo.tif.meta
+│   │   │   ├── Generic_Rust_B_Height.tif
+│   │   │   ├── Generic_Rust_B_Height.tif.meta
+│   │   │   ├── Generic_Rust_B_MaskMap.tif
+│   │   │   ├── Generic_Rust_B_MaskMap.tif.meta
+│   │   │   ├── Generic_Rust_B_Normal.tif
+│   │   │   └── Generic_Rust_B_Normal.tif.meta
+│   │   ├── Generic_Rust_B.meta
+│   │   ├── Generic_Steel_A
+│   │   │   ├── Generic_Steel_A_BaseColor_A.tif
+│   │   │   ├── Generic_Steel_A_BaseColor_A.tif.meta
+│   │   │   ├── Generic_Steel_A_Height.tif
+│   │   │   ├── Generic_Steel_A_Height.tif.meta
+│   │   │   ├── Generic_Steel_A_MaskMap.tif
+│   │   │   ├── Generic_Steel_A_MaskMap.tif.meta
+│   │   │   ├── Generic_Steel_A_Normal.tif
+│   │   │   └── Generic_Steel_A_Normal.tif.meta
+│   │   ├── Generic_Steel_A.meta
+│   │   ├── Generic_Worn_Steel_A
+│   │   │   ├── Generic_Worn_Steel_A_Albedo.tif
+│   │   │   ├── Generic_Worn_Steel_A_Albedo.tif.meta
+│   │   │   ├── Generic_Worn_Steel_A_Height.tif
+│   │   │   ├── Generic_Worn_Steel_A_Height.tif.meta
+│   │   │   ├── Generic_Worn_Steel_A_MaskMap.tif
+│   │   │   ├── Generic_Worn_Steel_A_MaskMap.tif.meta
+│   │   │   ├── Generic_Worn_Steel_A_Normal.tif
+│   │   │   └── Generic_Worn_Steel_A_Normal.tif.meta
+│   │   └── Generic_Worn_Steel_A.meta
+│   ├── Metal.meta
+│   ├── Rubber
+│   │   ├── Generic_Rubber_A
+│   │   │   ├── Generic_Rubber_A_BaseColor_A.tif
+│   │   │   ├── Generic_Rubber_A_BaseColor_A.tif.meta
+│   │   │   ├── Generic_Rubber_A_Height.tif
+│   │   │   ├── Generic_Rubber_A_Height.tif.meta
+│   │   │   ├── Generic_Rubber_A_Mask_Map.tif
+│   │   │   ├── Generic_Rubber_A_Mask_Map.tif.meta
+│   │   │   ├── Generic_Rubber_A_Normal.tif
+│   │   │   └── Generic_Rubber_A_Normal.tif.meta
+│   │   └── Generic_Rubber_A.meta
+│   ├── Rubber.meta
+│   ├── Walls
+│   │   ├── Wall_Metal_Elements_A
+│   │   │   ├── Wall_Metal_Elements_A_Albedo.tif
+│   │   │   ├── Wall_Metal_Elements_A_Albedo.tif.meta
+│   │   │   ├── Wall_Metal_Elements_A_BNM.tif
+│   │   │   ├── Wall_Metal_Elements_A_BNM.tif.meta
+│   │   │   ├── Wall_Metal_Elements_A_Height.tif
+│   │   │   ├── Wall_Metal_Elements_A_Height.tif.meta
+│   │   │   ├── Wall_Metal_Elements_A_LayerMask.tif
+│   │   │   ├── Wall_Metal_Elements_A_LayerMask.tif.meta
+│   │   │   ├── Wall_Metal_Elements_A_MaskMap.tif
+│   │   │   ├── Wall_Metal_Elements_A_MaskMap.tif.meta
+│   │   │   ├── Wall_Metal_Elements_A_Normal.tif
+│   │   │   └── Wall_Metal_Elements_A_Normal.tif.meta
+│   │   ├── Wall_Metal_Elements_A.meta
+│   │   ├── Wall_Metal_Elements_B
+│   │   │   ├── Wall_Metal_Elements_B_Albedo.tif
+│   │   │   ├── Wall_Metal_Elements_B_Albedo.tif.meta
+│   │   │   ├── Wall_Metal_Elements_B_BNM.tif
+│   │   │   ├── Wall_Metal_Elements_B_BNM.tif.meta
+│   │   │   ├── Wall_Metal_Elements_B_Height.tif
+│   │   │   ├── Wall_Metal_Elements_B_Height.tif.meta
+│   │   │   ├── Wall_Metal_Elements_B_LayerMask.tif
+│   │   │   ├── Wall_Metal_Elements_B_LayerMask.tif.meta
+│   │   │   ├── Wall_Metal_Elements_B_MaskMap.tif
+│   │   │   ├── Wall_Metal_Elements_B_MaskMap.tif.meta
+│   │   │   ├── Wall_Metal_Elements_B_Normal.tif
+│   │   │   └── Wall_Metal_Elements_B_Normal.tif.meta
+│   │   ├── Wall_Metal_Elements_B.meta
+│   │   ├── Wall_Metal_Plates_Exterior_A
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_BNM.tiff
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_BNM.tiff.meta
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Color_A_Albedo.tif
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Color_A_Albedo.tif.meta
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Color_A_Grunge_Albedo.tif
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Color_A_Grunge_Albedo.tif.meta
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Color_B_Albedo.tif
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Color_B_Albedo.tif.meta
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Color_B_Grunge_Albedo.tif
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Color_B_Grunge_Albedo.tif.meta
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Grunge_MaskMap.tif
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Grunge_MaskMap.tif.meta
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Grunge_Normal.tif
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Grunge_Normal.tif.meta
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_MaskMap.tif
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_MaskMap.tif.meta
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Normal.tif
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_Normal.tif.meta
+│   │   │   ├── Wall_Metal_Plates_Exterior_A_height.tiff
+│   │   │   └── Wall_Metal_Plates_Exterior_A_height.tiff.meta
+│   │   └── Wall_Metal_Plates_Exterior_A.meta
+│   ├── Walls.meta
+│   ├── _Mockup
+│   │   ├── Checker_A.png
+│   │   └── Checker_A.png.meta
+│   └── _Mockup.meta
+├── Generic.meta
+├── Lighting
+│   ├── Cookies
+│   │   ├── DefaultCookie.tif
+│   │   ├── DefaultCookie.tif.meta
+│   │   ├── Factory_Interior_Wall_Detail_Scifi_C_Cookie.tif
+│   │   └── Factory_Interior_Wall_Detail_Scifi_C_Cookie.tif.meta
+│   └── Cookies.meta
+├── Lighting.meta
+├── Particles
+│   ├── Atmospherics
+│   │   ├── Cloud01_8x8
+│   │   │   ├── Cloud01_8x8.exr
+│   │   │   ├── Cloud01_8x8.exr.meta
+│   │   │   ├── Cloud01_8x8.tga
+│   │   │   ├── Cloud01_8x8.tga.meta
+│   │   │   ├── Cloud01_8x8_Distort.tif
+│   │   │   ├── Cloud01_8x8_Distort.tif.meta
+│   │   │   ├── Cloud01_8x8_Normal.tif
+│   │   │   └── Cloud01_8x8_Normal.tif.meta
+│   │   ├── Cloud01_8x8.meta
+│   │   ├── Dust_A_1x1
+│   │   │   ├── Dust_A_1x1.tif
+│   │   │   └── Dust_A_1x1.tif.meta
+│   │   └── Dust_A_1x1.meta
+│   ├── Atmospherics.meta
+│   ├── DefaultFlareParticle.tif
+│   ├── DefaultFlareParticle.tif.meta
+│   ├── Plasma
+│   │   ├── Fireball01_8x8
+│   │   │   ├── FireBall01-temperature_8x8.exr
+│   │   │   ├── FireBall01-temperature_8x8.exr.meta
+│   │   │   ├── FireBall01_8x8.exr
+│   │   │   ├── FireBall01_8x8.exr.meta
+│   │   │   ├── FireBall01_8x8.tga
+│   │   │   └── FireBall01_8x8.tga.meta
+│   │   └── Fireball01_8x8.meta
+│   └── Plasma.meta
+├── Particles.meta
+├── Shared
+│   ├── DefaultTextureSharedSpecularGloss.tif
+│   ├── DefaultTextureSharedSpecularGloss.tif.meta
+│   ├── DefualtTextureSharedAlbedo.tif
+│   ├── DefualtTextureSharedAlbedo.tif.meta
+│   ├── DefualtTextureSharedNormals.tif
+│   └── DefualtTextureSharedNormals.tif.meta
+├── Shared.meta
+├── Skyboxes
+│   ├── DefaultSkybox.exr
+│   └── DefaultSkybox.exr.meta
+├── Skyboxes.meta
+├── Utilities
+│   ├── Neutral3D16.png
+│   └── Neutral3D16.png.meta
+├── Utilities.meta
+├── Weapons
+│   ├── Robot_Weapon_A
+│   │   ├── Robot_Weapon_A_BNM.tif
+│   │   ├── Robot_Weapon_A_BNM.tif.meta
+│   │   ├── Robot_Weapon_A_Diffuse.tif
+│   │   ├── Robot_Weapon_A_Diffuse.tif.meta
+│   │   ├── Robot_Weapon_A_Emissive.tif
+│   │   ├── Robot_Weapon_A_Emissive.tif.meta
+│   │   ├── Robot_Weapon_A_Height.tif
+│   │   ├── Robot_Weapon_A_Height.tif.meta
+│   │   ├── Robot_Weapon_A_Iridescense.tif
+│   │   ├── Robot_Weapon_A_Iridescense.tif.meta
+│   │   ├── Robot_Weapon_A_Mask_Map.tif
+│   │   ├── Robot_Weapon_A_Mask_Map.tif.meta
+│   │   ├── Robot_Weapon_A_Normal.tif
+│   │   ├── Robot_Weapon_A_Normal.tif.meta
+│   │   ├── Robot_Weapon_A_Transmission.tif
+│   │   └── Robot_Weapon_A_Transmission.tif.meta
+│   ├── Robot_Weapon_A.meta
+│   ├── Robot_Weapon_A_Grenade
+│   │   ├── Robot_Weapon_A_Grenade_BNM.tif
+│   │   ├── Robot_Weapon_A_Grenade_BNM.tif.meta
+│   │   ├── Robot_Weapon_A_Grenade_Diffuse.tif
+│   │   ├── Robot_Weapon_A_Grenade_Diffuse.tif.meta
+│   │   ├── Robot_Weapon_A_Grenade_Height.tif
+│   │   ├── Robot_Weapon_A_Grenade_Height.tif.meta
+│   │   ├── Robot_Weapon_A_Grenade_Mask_Map.tif
+│   │   ├── Robot_Weapon_A_Grenade_Mask_Map.tif.meta
+│   │   ├── Robot_Weapon_A_Grenade_Normal.tif
+│   │   ├── Robot_Weapon_A_Grenade_Normal.tif.meta
+│   │   ├── Robot_Weapon_A_Grenade_Transmission.tif
+│   │   └── Robot_Weapon_A_Grenade_Transmission.tif.meta
+│   ├── Robot_Weapon_A_Grenade.meta
+│   ├── Terraformer_Weapon_A
+│   │   ├── Terraformer_Weapon_A_BaseColor_A.tif
+│   │   ├── Terraformer_Weapon_A_BaseColor_A.tif.meta
+│   │   ├── Terraformer_Weapon_A_Container_A_BaseColor_A.tif
+│   │   ├── Terraformer_Weapon_A_Container_A_BaseColor_A.tif.meta
+│   │   ├── Terraformer_Weapon_A_Container_A_Height.tif
+│   │   ├── Terraformer_Weapon_A_Container_A_Height.tif.meta
+│   │   ├── Terraformer_Weapon_A_Container_A_MaskMap.tif
+│   │   ├── Terraformer_Weapon_A_Container_A_MaskMap.tif.meta
+│   │   ├── Terraformer_Weapon_A_Container_A_Normals.tif
+│   │   ├── Terraformer_Weapon_A_Container_A_Normals.tif.meta
+│   │   ├── Terraformer_Weapon_A_Glass_A_BaseColor_A.tif
+│   │   ├── Terraformer_Weapon_A_Glass_A_BaseColor_A.tif.meta
+│   │   ├── Terraformer_Weapon_A_Glass_A_Height.tif
+│   │   ├── Terraformer_Weapon_A_Glass_A_Height.tif.meta
+│   │   ├── Terraformer_Weapon_A_Glass_A_MaskMap.tif
+│   │   ├── Terraformer_Weapon_A_Glass_A_MaskMap.tif.meta
+│   │   ├── Terraformer_Weapon_A_Glass_A_Normals.tif
+│   │   ├── Terraformer_Weapon_A_Glass_A_Normals.tif.meta
+│   │   ├── Terraformer_Weapon_A_Height.tif
+│   │   ├── Terraformer_Weapon_A_Height.tif.meta
+│   │   ├── Terraformer_Weapon_A_Liquids_A_BaseColor_A.tif
+│   │   ├── Terraformer_Weapon_A_Liquids_A_BaseColor_A.tif.meta
+│   │   ├── Terraformer_Weapon_A_Liquids_A_Height.tif
+│   │   ├── Terraformer_Weapon_A_Liquids_A_Height.tif.meta
+│   │   ├── Terraformer_Weapon_A_Liquids_A_MaskMap.tif
+│   │   ├── Terraformer_Weapon_A_Liquids_A_MaskMap.tif.meta
+│   │   ├── Terraformer_Weapon_A_Liquids_A_Normals.tif
+│   │   ├── Terraformer_Weapon_A_Liquids_A_Normals.tif.meta
+│   │   ├── Terraformer_Weapon_A_MaskMap.tif
+│   │   ├── Terraformer_Weapon_A_MaskMap.tif.meta
+│   │   ├── Terraformer_Weapon_A_Normals.tif
+│   │   └── Terraformer_Weapon_A_Normals.tif.meta
+│   └── Terraformer_Weapon_A.meta
+└── Weapons.meta
+" }
