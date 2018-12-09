@@ -6,4 +6,4 @@
 ### Pull Requests (GitHub feature)
 
 ## This takes the Code of Conduct and License into consideration. 
-### (c) 2018 _Snowy (Snowynx)
+### (c) 2018 _Snowy (Snowynx) MIT License, Contributor Covenant Code of Conduct
